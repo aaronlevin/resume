@@ -123,13 +123,13 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
    * GPA: 3.8
 
    I accomplished original work in extending the Perron-Frobenius
-   theorem for matrices to semigroups of positive operators on infinite-
+   theorem on matrices to semigroups of positive operators on infinite-
    dimensional Banach lattices.
-   
-   The Perron-Frobenius theorem is extensively in machine learning and,
-   specifically, in Google's PageRank algorithm. My work empowered
-   researches and scientists to use Perron-Frobenius in a broader class
-   of Banach spaces.
+
+   The Perron-Frobenius theorem is used extensively in machine
+   learning, specifically in Google's PageRank algorithm. My work
+   empowered researches and scientists to use Perron-Frobenius in a
+   broader class of Banach spaces.
 
 2.2 BSc. Engineering Physics (University of Alberta)
 
