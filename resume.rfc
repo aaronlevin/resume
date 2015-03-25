@@ -173,9 +173,9 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
        identifying patterns or optimizing for performance. On a
        whiteboard I might giggle nervously.
    3 = I've used this language, I know it's warts. I'm not an expert.
-   4 = I've used this language at ork a lot and can reason about runtime
-       and compiler nuances. I may not be an expert, but I feel
-       comfortable structuring large projects in this language.
+   4 = I've used this language at work a lot and can reason about
+       runtime and compiler nuances. I may not be an expert, but I
+       feel comfortable structuring large projects in this language.
    5 = I am a deity and all who write in this language bow before me. I
        have open-source projects starred by the tens and pulled by the
        hundreds.
@@ -198,7 +198,7 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
      * Agda . . . . . . . . . . . . . .  1
      * Simply-Typed Lambda Calculus . .  1
      * Untyped Lambda Calculus. . . . .  2
-     * Intuitionistic Logic . . . . . .  2
+     * Intuitionistic Logic . . . . . .  1
 
 4.1. Paradigms and Protocols
 
@@ -209,12 +209,15 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
      * REST
      * Object Oriented Programming (OOP)
      * Symmetric and Asymmetric Encryption
+     * EDSLs
 
    Protocols:
 
      * HTTP/1.1
      * TCP/IP
      * UDP
+     * OAuth 2.0
+     * JWT
      * AES (Counter with CBC-MAC (CCM))
      * ECC
 
@@ -240,6 +243,7 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
      * elasticsearch
      * MongoDB
      * Datomic
+     * etcd
 
    Message Queues:
 
@@ -247,9 +251,9 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
 
 4.2. Infrastructure
 
-   * Amazon Web Services
-   * Google Compute Engine
-   * Google Container Engine
+   * Amazon Web Services (AWS)
+   * Google Compute Engine (GCE)
+   * Google Container Engine (GKE)
    * Apache Storm
 
 4.3. Tools
@@ -264,4 +268,13 @@ RFC 76157              Cirriculum vitae // Resume             March 2015
    * vim
    * XMonad
    * NixOS
+
+5. Relevant Experience
+
+5.1.  Sr. Software Engineer @ Aterica Health
+5.2.  Data Scientist @ MetaMarketplace
+5.3.  Softare Engineer @ Sortable
+5.4.  Content Analyst @ Kobo
+5.5.  Web Analytics Specialist @ Mediative
+5.6.  Ad Operations & Analytics Manager @ Investopedia.com
 
