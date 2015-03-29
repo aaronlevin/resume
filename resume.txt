@@ -1,0 +1,392 @@
+
+
+
+
+Aaron Levin Working Group                                       A. Levin
+Internet-Draft                                            March 28, 2015
+Intended status: Informational
+Expires: September 29, 2015
+
+
+               Curriculum Vitae // Resume of Aaron Levin
+
+Abstract
+
+   This document summarizes the personal and working history of Aaron
+   Michael Benjamin Levin, MSc., born 1981-12-03T12:53:00-07:00 in
+   Calgary, Alberta (geo:51.065389,-114.133306).
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at http://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on September 29, 2015.
+
+Copyright Notice
+
+   Copyright (c) 2015 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents
+   (http://trustee.ietf.org/license-info) in effect on the date of
+   publication of this document.  Please review these documents
+   carefully, as they describe your rights and restrictions with respect
+   to this document.  Code Components extracted from this document must
+   include Simplified BSD License text as described in Section 4.e of
+   the Trust Legal Provisions and are provided without warranty as
+   described in the Simplified BSD License.
+
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 1]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+     2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   2
+     2.2.  BSc. Engineering Physics (University of Alberta)  . . . .   3
+   3.  Relevant Online Identities  . . . . . . . . . . . . . . . . .   3
+   4.  Relevant Technological Experience . . . . . . . . . . . . . .   3
+     4.1.  Programming Languages . . . . . . . . . . . . . . . . . .   3
+       4.1.1.  Quantifying Programming Language Knowledge  . . . . .   3
+       4.1.2.  Programming Language Knowledge  . . . . . . . . . . .   5
+     4.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   5
+       4.2.1.  Paradigms . . . . . . . . . . . . . . . . . . . . . .   5
+       4.2.2.  Protocols . . . . . . . . . . . . . . . . . . . . . .   6
+     5.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+1.  Introduction
+
+   This is the introduction, where I outline my objectives.
+
+   The engine behind my enthusiasm resides at the intersection of my
+   analytical background (MSc.  Mathematics) and my creative energies
+   (writing, design, and development).  Digital media presents a unique
+   opportunity to combine deep, analytics processes with, highly-
+   creative, user-oriented goals.
+
+2.  Education
+
+2.1.  MSc.  Mathematics (University of Alberta)
+
+   o  Thesis work in Positivity on Banach Lattices
+
+   o  2006 - 2007
+
+   o  Supervisors: Vladimir Troitsky [1] and Nicole Tomczak-Jaegermann
+      [2]
+
+   o  GPA: 3.8
+
+   I accomplished original work in extending the Perron-Frobenius
+   theorem on matrices to semigroups of positive operators on infinite-
+   dimensional Banach lattices.
+
+   The Perron-Frobenius theorem is used extensively in machine learning,
+   specifically in Google's PageRank algorithm.  My work empowered
+   researches and scientists to use Perron-Frobenius in a broader class
+   of Banach spaces.
+
+
+
+Levin                  Expires September 29, 2015               [Page 2]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+2.2.  BSc.  Engineering Physics (University of Alberta)
+
+   o  Specialized in Computational Physics
+
+   o  Honours thesis: analysing time-resolved optical properties of
+      continuum-generated probe pulses.
+
+   o  1999 - 2004
+
+   o  Thesis supervisor: Frank Hegmann [3]
+
+   o  GPA: 3.8
+
+   During my undergraduate degree I focused on obtaining a strong
+   foundation in programming (C, C++, MC6800 Assembly) to compliment my
+   studies in theoretical physics.
+
+3.  Relevant Online Identities
+
+   o  Personal website: http://aaronlevin.ca
+
+   o  GitHub: https://github.com/aaronlevin
+
+   o  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin )
+
+   o  Keybase: https://keybase.io/aaronlevin
+
+   o  Stack Overflow: http://stackoverflow.com/users/1308975/aaronlevin
+
+   o  Haskellers: http://www.haskellers.com/user/aaronlevin
+
+   o  Facebook: https://www.facebook.com/aaronmblevin
+
+   o  Google Plus: https://plus.google.com/110471816183726748520
+
+4.  Relevant Technological Experience
+
+4.1.  Programming Languages
+
+4.1.1.  Quantifying Programming Language Knowledge
+
+   Below is a list of Programming Languages I have used in production.
+   I don't believe years of experience is a good metric for knowledge of
+   a programming language.  Instead, I will list my comfort across these
+   languages using a Fibonacci scale where each level represents a
+   deeper level of understanding.
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 3]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   PL Understanding as a Fibonacci Sequence
+
+
+                   understanding
+                    ^
+                  13|                    .
+                  12|                   `
+                  11|                   |
+                  10|                   |
+                   9|                  /
+                   8|                 ;
+                   7|                 |
+                   6|                /
+                   5|              _/
+                   4|             /
+                   3|          ._/
+                   2|      .__/
+                   1|_____/
+                   /---------------------> level
+                   0  1  2  3  4  5  6  7
+
+   As one increases level, understanding increases dramatically.
+
+   Level 1:  Have read about this language and potentially written a
+      Hello World program.
+
+   Level 2:  Have written trivial programs and am familiar with the
+      languages paradigms.
+
+   Level 3:  Can write a trivial program and am familiar with the build
+      tools.  Alternatively, this level may include languages I may have
+      been proficient in many years ago, but time has waned my
+      expertise.
+
+   Level 4:  Can write non-trivial programs and reason about
+      performance.  Am aware of some of the major libraries and
+      frameworks, though not an expert in their design.
+
+   Level 5:  Can write and maintain large projects in this language.
+      Have obtained deeper understanding of runtime and compiler
+      nuances.
+
+   Level 6:  Have written and maintained very large projects in this
+      language, using a multitude of tools to reason and improve
+      performance.
+
+   Level 7:  You are Edward Kmett [12].
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 4]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+4.1.2.  Programming Language Knowledge
+
+   o  Haskell: 5
+
+   o  Scala: 5
+
+   o  Bash: 5
+
+   o  Python: 4
+
+   o  Java: 4
+
+   o  Clojure: 3
+
+   o  Ruby: 3
+
+   o  JavaScript: 3
+
+   o  JavaScript: 3
+
+   o  C++: 3
+
+   o  C: 3
+
+   o  R: 2
+
+   o  MC68800 Assembly: 2
+
+   o  Idris: 2
+
+   o  Agda: 1
+
+   o  Intuitionistic Logic: 2
+
+4.2.  Paradigms and Protocols
+
+4.2.1.  Paradigms
+
+   o  Pure, Functional Programming
+
+   o  Object Oriented Programming (OOP
+
+   o  Continuation-Passing Style (CPS)
+
+   o  REST
+
+   o  Symmetric and Asymmetric Encryption
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 5]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   o  (E)DSLs
+
+4.2.2.  Protocols
+
+   o  HTTP/1.1
+
+   o  TCP/IP
+
+   o  UDP
+
+   o  OAuth 2.0
+
+   o  JWT
+
+   o  AES Encryption (Counter mode with CBC-MAC (CCM))
+
+   o  ECC Encryption
+
+   Protocols I have used but don't feel confident saying I understand
+   them:
+
+   o  Bluetooth Smart (Bluetooth Low Energy)
+
+   o  GATT
+
+   o  Memcached
+
+5.  References
+
+5.1.  URIs
+
+   [1] http://www.math.ualberta.ca/~vtroitsky/
+
+   [2] http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html
+
+   [3] https://uofa.ualberta.ca/physics/people/people-collection/frank-
+       hegmann
+
+   [12] https://github.com/ekmett
+
+Author's Address
+
+
+
+
+
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 6]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   Aaron Michael Benjamin Levin
+   #4 - 2 King Street South
+   Waterloo, ON  N2J 1N8
+   Canada
+
+   Phone: +1 416-727-2977
+   Email: vilevin@gmail.com
+   URI:   http://aaronlevin.ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 7]
