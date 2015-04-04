@@ -48,8 +48,9 @@ gen_resume_io() {
   local out_file="${2}"
 
   xml2rfc "${file}" \
-    -o "${out_file}" \
-    --text
+    --basename="${out_file}" \
+    --text \
+    --html
 }
 
 main() {
@@ -61,11 +62,13 @@ main() {
 
   gen_resume_io "${1}" "${tmp_file}"
 
-  cat "${tmp_file}" \
+  cat "${tmp_file}.txt" \
     | sed 's/^   o  /   *  /g' \
-    > "${2}"
+    > "${2}.txt"
 
-  rm "${tmp_file}"
+  mv "${tmp_file}.html" "${2}.html"
+
+  rm "${tmp_file}.txt"
 
 }
 
