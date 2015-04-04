@@ -61,18 +61,18 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
-   2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   3
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
      2.2.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   3
    4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   3
-     4.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   3
+     4.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   4
      4.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   4
-     4.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   4
+     4.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   5
      4.4.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   5
    5.  Relevant Technological Experience . . . . . . . . . . . . . .   5
      5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   5
-       5.1.1.  Quantifying Programming Language Knowledge  . . . . .   5
+       5.1.1.  Quantifying Programming Language Knowledge  . . . . .   6
        5.1.2.  Programming Language Knowledge  . . . . . . . . . . .   7
      5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   7
      5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   8
@@ -80,27 +80,27 @@ Table of Contents
      5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   8
    6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   8
      6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   8
-     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   8
+     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   9
    7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .   9
    8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .   9
      8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .   9
      8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .   9
-     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .   9
+     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  10
      8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  10
      9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  10
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  11
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  12
 
 1.  Introduction
 
-   This is the introduction, where I outline my objectives.
+   Hello.  I am Aaron Levin, a mathematician-turned software engineer.
+   I am excited by data-driven opportunities and environments that
+   foster creativity, safety, diversity, and innovation.
 
    The engine behind my enthusiasm resides at the intersection of my
    analytical background (MSc.  Mathematics) and my creative energies
    (writing, design, and development).  Digital media presents a unique
    opportunity to combine deep, analytics processes with, highly-
    creative, user-oriented goals.
-
-2.  Education
 
 
 
@@ -113,6 +113,8 @@ Levin                  Expires September 29, 2015               [Page 2]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+2.  Education
 
 2.1.  MSc.  Mathematics (University of Alberta)
 
@@ -157,11 +159,9 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 4.  Work Experience
 
-4.1.  Sr. Software Engineer @ Aterica Health
 
-   *  September 2014 - present
-   *  Designing and building scalable systems for network-aware,
-      embedded devices (IoT) built to improve health and save lives.
+
+
 
 
 
@@ -170,6 +170,11 @@ Levin                  Expires September 29, 2015               [Page 3]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+4.1.  Sr. Software Engineer @ Aterica Health
+
+   *  September 2014 - present
+   *  Designing and building scalable systems for network-aware,
+      embedded devices (IoT) built to improve health and save lives.
    *  url: https://www.aterica.com/
 
    At Aterica I am responsible for the implementation and design of a
@@ -212,12 +217,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Clojure [18]
    *  Java [19]
 
-4.3.  Software Engineer @ Sortable
 
-   *  August 2012 - January 2014
-   *  Full-stack engineer building a product comparison platform
-      empowering consumers to make decisions easier and data-driven.
-   *  url: http://sortable.com/
 
 
 
@@ -225,6 +225,13 @@ Levin                  Expires September 29, 2015               [Page 4]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+4.3.  Software Engineer @ Sortable
+
+   *  August 2012 - January 2014
+   *  Full-stack engineer building a product comparison platform
+      empowering consumers to make decisions easier and data-driven.
+   *  url: http://sortable.com/
 
    As a full-stack I helped design, build, and support our product
    comparison platform at every layer: data storage, search, web
@@ -264,6 +271,17 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 5.1.  Programming Languages
 
+
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 5]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
 5.1.1.  Quantifying Programming Language Knowledge
 
    Below is a list of Programming Languages I have used in production.
@@ -274,13 +292,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    with three years of experience in a language as a compiler designer
    is going to have a much deeper and foundational understanding than
    someone who has used said language in their career.
-
-
-
-Levin                  Expires September 29, 2015               [Page 5]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
    To overcome this limitation, I've created a number of levels and a
    curve to represent an individual's understanding at each level.  The
@@ -317,6 +328,16 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
              tools.  Alternatively, this level may include languages I
              may have been proficient in many years ago, but time has
              waned my expertise.
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 6]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    Level 4:  Can write non-trivial programs and reason about
              performance.  Am aware of some of the major libraries and
              frameworks, though not an expert in their design.
@@ -327,16 +348,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
              language, using a multitude of tools to reason and improve
              performance.
    Level 7:  You are Edward Kmett [22].
-
-
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 6]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
 5.1.2.  Programming Language Knowledge
 
@@ -375,6 +386,14 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  OAuth 2.0
    *  JWT
    *  AES Encryption (Counter mode with CBC-MAC (CCM))
+
+
+
+Levin                  Expires September 29, 2015               [Page 7]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    *  ECC Encryption
 
    Protocols I have used but don't feel confident saying I understand
@@ -383,16 +402,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Bluetooth Smart (Bluetooth Low Energy)
    *  GATT
    *  Memcached
-
-
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 7]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
 5.3.  Data Stores
 
@@ -434,6 +443,13 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
       (Intersections KW, August 2014)
    *  What is Monad?  (Scala MeetUp, April 2014)
 
+
+
+Levin                  Expires September 29, 2015               [Page 8]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
 6.2.  Art and Culture Talks
 
    *  On Building Community (with Marie Flanagan) (CHUO Volunteer
@@ -442,14 +458,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
       Radio Conference, June 2014)
    *  Open Business: Fear, Vulnerability, and Profit$ in the Open World
       (with Marie Flanagan) (Halifax Pop Explosion, October 2013)
-
-
-
-Levin                  Expires September 29, 2015               [Page 8]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    *  Accessibility (with Marie Flanagan) (Halifax Pop Explosion,
       October 2013)
 
@@ -490,14 +498,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    such as Constructive Logic, Deep Neural Networks, and inventing
    Bezier splines in the age of Archimedes.
 
-8.3.  Vipassana Meditation
-
-   I am a Vipassana [43] meditator as taught by S.  N.  Goenka.  Each
-   year I take a 10-day course where we practice silent meditation for
-   11hrs. each day.
-
-
-
 
 
 
@@ -505,6 +505,12 @@ Levin                  Expires September 29, 2015               [Page 9]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+8.3.  Vipassana Meditation
+
+   I am a Vipassana [43] meditator as taught by S.  N.  Goenka.  Each
+   year I take a 10-day course where we practice silent meditation for
+   11hrs. each day.
 
 8.4.  Record Collecting
 
@@ -548,12 +554,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [24] https://www.mysql.com/
 
-   [25] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
-
-   [26] http://aws.amazon.com/dynamodb/
-
-   [27] http://redis.io/
-
 
 
 
@@ -561,6 +561,12 @@ Levin                  Expires September 29, 2015              [Page 10]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+   [25] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
+
+   [26] http://aws.amazon.com/dynamodb/
+
+   [27] http://redis.io/
 
    [28] https://www.elastic.co/
 
@@ -600,6 +606,18 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
         salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-
         mystery-of-canadian-musician-lewis-1.2903235
 
+
+
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 11]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
 Author's Address
 
    Aaron Michael Benjamin Levin
@@ -613,4 +631,42 @@ Author's Address
 
 
 
-Levin                  Expires September 29, 2015              [Page 11]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 12]
