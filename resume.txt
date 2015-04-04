@@ -79,8 +79,9 @@ Table of Contents
      4.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   7
    5.  Relevant Work Experience  . . . . . . . . . . . . . . . . . .   7
      5.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   7
-     6.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   8
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   9
+     5.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   8
+     6.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  10
 
 1.  Introduction
 
@@ -104,7 +105,6 @@ Table of Contents
       [2]
 
    o  GPA: 3.8
-
 
 
 
@@ -422,6 +422,44 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    o  PostgreSQL
 
+5.2.  Data Scientist @ Demeure
+
+   o  January 2014 - September 2014
+
+   o  Search and Data infrastructure powered by Apache Storm,
+      Elasticsearch, and DynamoDB.
+
+   o  url: https://www.metamarketplace.com/
+
+   At Demeure/Metamarketplace I was hired as a data scientist to design
+   and build their data infrastructure.  As a B2B marketplace, we were
+   challenged with consuming a significant volume of events.  I chose
+   Apache Storm for its distributed foundation and multi-language
+   interop.  Events were consumed and processed by Apache Storm, indexed
+   in Elasticsearch, and stored in DynamoDB.
+
+   Relevant technology:
+
+   o  Apache Storm [30]
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 8]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   o  elasticsearch [31]
+
+   o  DynamoDB [32]
+
+   o  Ruby [33]
+
+   o  Clojure [34]
+
+   o  Java [35]
+
 6.  References
 
 6.1.  URIs
@@ -443,13 +481,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [16] http://aws.amazon.com/dynamodb/
 
-
-
-Levin                  Expires September 29, 2015               [Page 8]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    [17] http://redis.io/
 
    [18] https://www.elastic.co/
@@ -468,9 +499,28 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [25] https://cloud.google.com/compute/
 
+
+
+Levin                  Expires September 29, 2015               [Page 9]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    [26] https://cloud.google.com/container-engine/
 
    [27] https://storm.apache.org/
+
+   [30] https://storm.apache.org/
+
+   [31] https://www.elastic.co/
+
+   [32] http://aws.amazon.com/dynamodb/
+
+   [33] http://clojure.org/
+
+   [34] http://clojure.org/
+
+   [35] https://www.java.com/en/
 
 Author's Address
 
@@ -501,4 +551,10 @@ Author's Address
 
 
 
-Levin                  Expires September 29, 2015               [Page 9]
+
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 10]

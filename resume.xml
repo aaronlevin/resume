@@ -300,7 +300,7 @@
         </t>
       </section>
 
-      <section title="Data Scientist @ Demeure" anchor="aterica-health">
+      <section title="Data Scientist @ Demeure" anchor="demeure-metamarketplace">
         <t>
           <list style="symbols">
             <t>January 2014 - September 2014</t>
@@ -309,7 +309,7 @@
           </list>
         </t>
         <t>
-          At Demeure/Metamarketplace I was hired as a data scientist to design and build their data infrastructure. As a B2B marketplace, we were challenged with consuming a significant volume of events. I chose Apache Storm for its distributed foundation and multi-language interop. Events were consumed and processed by Apache Storm, indexed in Elasticsearch, and stored in DynamoDB.
+          At Demeure/Metamarketplace I was hired to design and build their data infrastructure. As a B2B marketplace, we were challenged with consuming a significant volume of events. I chose Apache Storm for its distributed foundation and multi-language interop. Events were consumed and processed by Apache Storm, indexed in Elasticsearch, and stored in DynamoDB.
         </t>
         <t>Relevant technology:
           <list style="symbols">
