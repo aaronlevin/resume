@@ -3,6 +3,7 @@
 
 <?rfc authorship="yes" ?>
 <?rfc compact="yes" ?>
+<?rfc subcompact="yes" ?>
 <?rfc toc="yes" ?>
 <?rfc symrefs="yes" ?>
 <?rfc sortrefs="yes"?>
@@ -95,7 +96,7 @@
     <!-- /SECTION: EDUCATION -->
 
     <!-- /SECTION: ONLINE IDENTITIES -->
-    <section title="Relevant Online Identities" anchor="online-identities">
+    <section title="Online Identities" anchor="online-identities">
       <t>
         <list style="symbols">
           <t>Personal website: <eref target="http://aaronlevin.ca">http://aaronlevin.ca</eref></t>
@@ -110,6 +111,110 @@
       </t>
     </section>
     <!-- /SECTION: ONLINE IDENTITIES -->
+
+    <!-- SECTION: RELEVANT WORK -->
+    <section title="Work Experience" anchor="work-experience">
+
+      <section title="Sr. Software Engineer @ Aterica Health" anchor="work-aterica-health">
+        <t>
+          <list style="symbols">
+            <t>September 2014 - present</t>
+            <t>Designing and building scalable systems for network-aware, embedded devices (IoT) built to improve health and save lives.</t>
+            <t>url: <eref target="https://www.aterica.com/">https://www.aterica.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          At Aterica I am responsible for the implementation and design of a system to improve vigilance for people who suffer anaphylaxis and require an EpiPen®.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Haskell</t>
+            <t>Google Compute Engine</t>
+            <t>Google Container Engine</t>
+            <t>Docker</t>
+            <t>Security and binary protocols for embedded devices (IoT)</t>
+            <t>EDSLs</t>
+            <t>REST</t>
+            <t>OAuth 2.0</t>
+            <t>JWT</t>
+            <t>PostgreSQL</t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Data Scientist @ Demeure" anchor="work-demeure-metamarketplace">
+        <t>
+          <list style="symbols">
+            <t>January 2014 - September 2014</t>
+            <t>Search and Data infrastructure powered by Apache Storm, Elasticsearch, and DynamoDB.</t>
+            <t>url: <eref target="https://www.metamarketplace.com/">https://www.metamarketplace.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          At Demeure/Metamarketplace I was hired to design and build their data infrastructure. As a B2B marketplace, we were challenged with consuming a significant volume of events. I chose Apache Storm for its distributed foundation and multi-language interop. Events were consumed and processed by Apache Storm, indexed in Elasticsearch, and stored in DynamoDB.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
+            <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
+            <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
+            <t><eref target="http://clojure.org/">Ruby</eref></t>
+            <t><eref target="http://clojure.org/">Clojure</eref></t>
+            <t><eref target="https://www.java.com/en/">Java</eref></t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Software Engineer @ Sortable" anchor="work-sortable">
+        <t>
+          <list style="symbols">
+            <t>August 2012 - January 2014</t>
+            <t>Full-stack engineer building a product comparison platform empowering consumers to make decisions easier and data-driven.</t>
+            <t>url: <eref target="http://sortable.com/">http://sortable.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          As a full-stack I helped design, build, and support our product comparison platform at every layer: data storage, search, web servers, cacheing, front-end, deployment, and job processing. Our platform crawled the web, indexing tens of thousands of product data, which we made available to our users.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Scala</t>
+            <t>AWS</t>
+            <t>Elasticsearch</t>
+            <t>PostgreSQL</t>
+            <t>Redis</t>
+            <t>memcached</t>
+            <t>Python</t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Content Analyst @ Kobo" anchor="work-kobo">
+        <t>
+          <list style="symbols">
+            <t>May 2012 - August 2012</t>
+            <t>
+              Developing unique algorithms to monitor content performance and pricing strategies for Kobo's eBooks.
+            </t>
+            <t>
+              url: <eref target="https://store.kobobooks.com/en-ca/">https://store.kobobooks.com/en-ca/</eref>
+            </t>
+          </list>
+        </t>
+        <t>
+          As a Content Analyst at Kobo I was charged with monitoring and analyzing the pricing of eBooks across Kobo's global catalog. I liased with Kobo's Big Data team and online merchandisers to ensure books in the right country and category had the best price.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>R</t>
+            <t>Python</t>
+            <t>SQLServer</t>
+          </list>
+        </t>
+      </section>
+
+    <!-- /SECTION: RELEVANT WORK -->
+    </section>
 
     <!-- SECTION: RELEVANT TECH -->
     <section title="Relevant Technological Experience" anchor="tech-experience">
@@ -152,17 +257,18 @@
             </figure>
           </t>
         <t>
-          <list style="hanging">
-            <t hangText="Level 1:">Have read about this language and potentially written a Hello World program.</t>
-            <t hangText="Level 2:">Have written trivial programs and am familiar with the language's paradigms.</t>
-            <t hangText="Level 3:">Can write a trivial program and am familiar with the build tools. Alternatively, this level may include languages I may have been proficient in many years ago, but time has waned my expertise.</t>
-            <t hangText="Level 4:">Can write non-trivial programs and reason about performance. Am aware of some of the major libraries and frameworks, though not an expert in their design.</t>
-            <t hangText="Level 5:">Can write and maintain large projects in this language. Have obtained deeper understanding of runtime and compiler nuances.</t>
-            <t hangText="Level 6:">Have written and maintained very large projects in this language, using a multitude of tools to reason and improve performance.</t>
-            <t hangText="Level 7:">You are <eref target="https://github.com/ekmett">Edward Kmett</eref>.</t>
+          <!-- Formatting here ensures each level is enumerated correctly -->
+          <list style="format Level %d:">
+            <t>Have read about this language and potentially written a Hello World program.</t>
+            <t>Have written trivial programs and am familiar with the language's paradigms.</t>
+            <t>Can write a trivial program and am familiar with the build tools. Alternatively, this level may include languages I may have been proficient in many years ago, but time has waned my expertise.</t>
+            <t>Can write non-trivial programs and reason about performance. Am aware of some of the major libraries and frameworks, though not an expert in their design.</t>
+            <t>Can write and maintain large projects in this language. Have obtained deeper understanding of runtime and compiler nuances.</t>
+            <t>Have written and maintained very large projects in this language, using a multitude of tools to reason and improve performance.</t>
+            <t>You are <eref target="https://github.com/ekmett">Edward Kmett</eref>.</t>
           </list>
         </t>
-      
+
       </section>
       <section title="Programming Language Knowledge">
       <t>
@@ -175,7 +281,6 @@
             <t>Clojure: 3</t>
             <t>Ruby: 3</t>
             <t>JavaScript: 3</t>
-            <t>JavaScript: 3</t>
             <t>C++: 3</t>
             <t>C: 3</t>
             <t>R: 2</t>
@@ -187,64 +292,56 @@
         </t>
       </section>
     </section>
-      <section title="Paradigms and Protocols">
-        <section title="Paradigms">
-          <t>
-            <list style="symbols">
-              <t>Pure, Functional Programming</t>
-              <t>Object Oriented Programming (OOP</t>
-              <t>Continuation-Passing Style (CPS)</t>
-              <t>REST</t>
-              <t>Symmetric and Asymmetric Encryption</t>
-              <t>(E)DSLs</t>
-            </list>
-          </t>
-        </section>
-        <section title="Protocols">
-          <t>
-            <list style="symbols">
-              <t>HTTP/1.1</t>
-              <t>TCP/IP</t>
-              <t>UDP</t>
-              <t>OAuth 2.0</t>
-              <t>JWT</t>
-              <t>AES Encryption (Counter mode with CBC-MAC (CCM))</t>
-              <t>ECC Encryption</t>
-            </list>
-          </t>
-          <t>Protocols I have used but don't feel confident saying I understand them:
-            <list style="symbols">
-              <t>Bluetooth Smart (Bluetooth Low Energy)</t>
-              <t>GATT</t>
-              <t>Memcached</t>
-            </list>
-          </t>
-        </section>
-      </section>
+
+    <section title="Paradigms and Protocols">
+      <t>
+        Paradigms:
+        <list style="symbols">
+          <t>Pure, Functional Programming</t>
+          <t>Object Oriented Programming (OOP</t>
+          <t>Continuation-Passing Style (CPS)</t>
+          <t>REST</t>
+          <t>Symmetric and Asymmetric Encryption</t>
+          <t>(E)DSLs</t>
+        </list>
+        Protocols:
+        <list style="symbols">
+          <t>HTTP/1.1</t>
+          <t>TCP/IP</t>
+          <t>UDP</t>
+          <t>OAuth 2.0</t>
+          <t>JWT</t>
+          <t>AES Encryption (Counter mode with CBC-MAC (CCM))</t>
+          <t>ECC Encryption</t>
+        </list>
+        Protocols I have used but don't feel confident saying I understand them:
+        <list style="symbols">
+          <t>Bluetooth Smart (Bluetooth Low Energy)</t>
+          <t>GATT</t>
+          <t>Memcached</t>
+        </list>
+      </t>
+    </section>
 
       <section title="Data Stores">
-        <section title="SQL">
-          <t>
-            <list style="symbols">
-              <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
-              <t><eref target="https://www.mysql.com/">MySQL</eref></t>
-              <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
-            </list>
-          </t>
-        </section>
-        <section title="Non-SQL">
-          <t>
-            <list style="symbols">
-              <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
-              <t><eref target="http://redis.io/">Redis</eref></t>
-              <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
-              <t><eref target="http://memcached.org/">memcached</eref></t>
-              <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
-              <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
-              <t><eref target="http://www.datomic.com/">Datomic</eref></t>
-            </list>
-          </t>
-        </section>
+        <t>
+          SQL:
+          <list style="symbols">
+            <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
+            <t><eref target="https://www.mysql.com/">MySQL</eref></t>
+            <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
+          </list>
+          Non-SQL
+          <list style="symbols">
+            <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
+            <t><eref target="http://redis.io/">Redis</eref></t>
+            <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
+            <t><eref target="http://memcached.org/">memcached</eref></t>
+            <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
+            <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
+            <t><eref target="http://www.datomic.com/">Datomic</eref></t>
+          </list>
+        </t>
       </section>
 
       <section title="Message Queues">
@@ -270,85 +367,31 @@
     </section>
     <!-- /SECTION: RELEVANT TECH -->
 
-    <!-- SECTION: RELEVANT WORK -->
-    <section title="Relevant Work Experience" anchor="work-experience">
-
-      <section title="Sr. Software Engineer @ Aterica Health" anchor="aterica-health">
+    <!-- SECTION: Talks and Public Speaking -->
+    <section title="Talks and Public Speaking" anchor="talks">
+      <section title="Tech Talks" anchor="talks-tech">
         <t>
           <list style="symbols">
-            <t>September 2014 - present</t>
-            <t>Designing and building scalable systems for network-aware, embedded devices (IoT) built to improve health and save lives.</t>
-            <t>url: <eref target="https://www.aterica.com/">https://www.aterica.com/</eref></t>
-          </list>
-        </t>
-        <t>
-          At Aterica I am responsible for the implementation and design of a system to improve vigilance for people who suffer anaphylaxis and require an EpiPen(r).
-        </t>
-        <t>Relevant technology:
-          <list style="symbols">
-            <t>Haskell</t>
-            <t>Google Compute Engine</t>
-            <t>Google Container Engine</t>
-            <t>Docker</t>
-            <t>Security and binary protocols for embedded devices (IoT)</t>
-            <t>EDSLs</t>
-            <t>REST</t>
-            <t>OAuth 2.0</t>
-            <t>JWT</t>
-            <t>PostgreSQL</t>
+            <t>Dependent Haskell (Intersections KW, April 2015)</t>
+            <t>Commutivity and Quantum Mechanics (Intersections KW, February 2015)</t>
+            <t>The Algebra of Algebraic Data Types and the Calculus of Mutations (Intersections KW, August 2014)</t>
+            <t>What is Monad? (Scala MeetUp, April 2014)</t>
           </list>
         </t>
       </section>
 
-      <section title="Data Scientist @ Demeure" anchor="demeure-metamarketplace">
+      <section title="Art and Culture Talks" anchor="talks-art">
         <t>
           <list style="symbols">
-            <t>January 2014 - September 2014</t>
-            <t>Search and Data infrastructure powered by Apache Storm, Elasticsearch, and DynamoDB.</t>
-            <t>url: <eref target="https://www.metamarketplace.com/">https://www.metamarketplace.com/</eref></t>
-          </list>
-        </t>
-        <t>
-          At Demeure/Metamarketplace I was hired to design and build their data infrastructure. As a B2B marketplace, we were challenged with consuming a significant volume of events. I chose Apache Storm for its distributed foundation and multi-language interop. Events were consumed and processed by Apache Storm, indexed in Elasticsearch, and stored in DynamoDB.
-        </t>
-        <t>Relevant technology:
-          <list style="symbols">
-            <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
-            <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
-            <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
-            <t><eref target="http://clojure.org/">Ruby</eref></t>
-            <t><eref target="http://clojure.org/">Clojure</eref></t>
-            <t><eref target="https://www.java.com/en/">Java</eref></t>
+            <t>On Building Community (with Marie Flanagan) (CHUO Volunteer Appreciation, February 2015)</t>
+            <t>NCRC 2014 Keynote (with Marie Flangan) (National Campus/Community Radio Conference, June 2014)</t>
+            <t>Open Business: Fear, Vulnerability, and Profit$ in the Open World (with Marie Flanagan) (Halifax Pop Explosion, October 2013)</t>
+            <t>Accessibility (with Marie Flanagan) (Halifax Pop Explosion, October 2013)</t>
           </list>
         </t>
       </section>
-
-      <section title="Software Engineer @ Sortable" anchor="sortable">
-        <t>
-          <list style="symbols">
-            <t>August 2012 - January 2014</t>
-            <t>Full-stack engineer building a product comparison platform empowering consumers to make decisions easier and data-driven.</t>
-            <t>url: <eref target="http://sortable.com/">http://sortable.com/</eref></t>
-          </list>
-        </t>
-        <t>
-          As a full-stack I helped design, build, and support our product comparison platform at every layer: data storage, search, web servers, cacheing, front-end, deployment, and job processing. Our platform crawled the web, indexing tens of thousands of product data, which we made available to our users.
-        </t>
-        <t>Relevant technology:
-          <list style="symbols">
-            <t>Scala</t>
-            <t>AWS</t>
-            <t>Elasticsearch</t>
-            <t>PostgreSQL</t>
-            <t>Redis</t>
-            <t>memcached</t>
-            <t>Python</t>
-          </list>
-        </t>
-      </section>
-
-    <!-- /SECTION: RELEVANT WORK -->
     </section>
+    <!-- /SECTION: Talks and Public Speaking -->
 
     <!-- SECTION: RELEVANT WORK -->
     <section title="Awards and Acclamations" anchor="awards">
@@ -368,12 +411,25 @@
 
     <section title="Hobbies and Self Development" anchor="self-development">
       <section title="Weird Canada / Wyrd Arts Initiatives" anchor="weird">
+        <t>I founded <eref target="http://weirdcanada.com">Weird Canada</eref> in 2009 to create a space for people to enthuse about emerging and experimental Canadian music. Despite Weird Canada's focus on physically-released (often cassette), fringe music, the site grew to national acclaim, eventually winning CBC Radio 3's "Best Indie Music Website in Canada" award. After the hard work of Executive Director <eref target="http://marieflanagan.com">Marie Flanagan</eref>, the site has over 500 volunteers, is fully bilingual, ad-free, and has representation in every province and territory in Canada. 
+        </t>
+        <t>I am currently Weird Canada's Creative Director and my main duties involve ensuring the site's <eref target="">curatorial vision</eref> is maintained across the site and our online store <eref target="https://distro.weirdcanada.com">Wyrd Distro</eref>.
+        </t>
       </section>
       <section title="Intersections KW" anchor="intersections">
+        <t><eref target="http://www.amotlpaa.org/">Steven Taschuk</eref> and I founded Intersections KW to create a space of enthusiams for pure mathematics, programming languages, computer science, and data science. We've had over eight meetups and hosted talks from Christopher Olah and Russell O'Connor on diverse topics such as Constructive Logic, Deep Neural Networks, and inventing Bezier splines in the age of Archimedes.
+        </t>
       </section>
       <section title="Vipassana Meditation" anchor="meditation">
+        <t>I am a <eref target="https://www.dhamma.org/en-US/index">Vipassana</eref> meditator as taught by S. N. Goenka. Each year I take a 10-day course where we practice silent meditation for 11hrs. each day.</t>
       </section>
       <section title="Record Collecting" anchor="record-collecting">
+        <t>
+          For over fifteen years I have been collecting (and sometimes selling) used records. I have focused on independent and privately-released Canadian music from the 60s, 70s, and 80s, especially experimental or fringe music.
+        </t>
+        <t>
+          In 2007, a friend and I found a record by an artist named <eref target="http://en.wikipedia.org/wiki/Lewis_%28musician%29">Lewis</eref>. After many years of champion the strange, unassuming LP within underground communities of record collectors, Lewis' album found international notoriety for reasons I still don't properly understand. I was even interviewed on <eref target="http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-mystery-of-canadian-musician-lewis-1.2903235">CBC's As It Happens</eref>.
+        </t>
       </section>
     </section>
 
