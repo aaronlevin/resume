@@ -119,7 +119,11 @@
         <section title="Quantifying Programming Language Knowledge">
 
           <t>
-            Below is a list of Programming Languages I have used in production. I don't believe years of experience is a good metric for knowledge of a programming language. Instead, I will list my comfort across these languages using a Fibonacci scale where each level represents a deeper level of understanding.
+            Below is a list of Programming Languages I have used in production.
+          </t>
+          <t>Communicating expertise in a programming language is nuanced. The usual metric (number of years of experience) is flawed; it does not accurately capture foundational understanding in a language. Someone with three years of experience in a language as a compiler designer is going to have a much deeper and foundational understanding than someone who has used said language in their career. 
+          </t>
+          <t>To overcome this limitation, I've created a number of levels and a curve to represent an individual's understanding at each level. The scale is fibonacci, which I chose arbitrarily.
           </t>
           <t>
             <figure alt='[Fibonacci Scale]'>
@@ -150,7 +154,7 @@
         <t>
           <list style="hanging">
             <t hangText="Level 1:">Have read about this language and potentially written a Hello World program.</t>
-            <t hangText="Level 2:">Have written trivial programs and am familiar with the languages paradigms.</t>
+            <t hangText="Level 2:">Have written trivial programs and am familiar with the language's paradigms.</t>
             <t hangText="Level 3:">Can write a trivial program and am familiar with the build tools. Alternatively, this level may include languages I may have been proficient in many years ago, but time has waned my expertise.</t>
             <t hangText="Level 4:">Can write non-trivial programs and reason about performance. Am aware of some of the major libraries and frameworks, though not an expert in their design.</t>
             <t hangText="Level 5:">Can write and maintain large projects in this language. Have obtained deeper understanding of runtime and compiler nuances.</t>
@@ -177,8 +181,8 @@
             <t>R: 2</t>
             <t>MC68800 Assembly: 2</t>
             <t>Idris: 2</t>
-            <t>Agda: 1</t>
             <t>Intuitionistic Logic: 2</t>
+            <t>Agda: 1</t>
           </list>
         </t>
       </section>
