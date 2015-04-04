@@ -62,7 +62,7 @@ Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   2
-     2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   2
+     2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
      2.2.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Relevant Online Identities  . . . . . . . . . . . . . . . . .   3
    4.  Relevant Technological Experience . . . . . . . . . . . . . .   4
@@ -78,10 +78,17 @@ Table of Contents
      4.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   7
      4.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   7
    5.  Relevant Work Experience  . . . . . . . . . . . . . . . . . .   7
-     5.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   7
+     5.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   8
      5.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   8
      5.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   9
-     6.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+   6.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .  10
+   7.  Hobbies and Self Development  . . . . . . . . . . . . . . . .  10
+     7.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .  10
+     7.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .  10
+     7.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  10
+     7.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  10
+   8.  Reference URIs  . . . . . . . . . . . . . . . . . . . . . . .  10
+     8.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  10
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  11
 
 1.  Introduction
@@ -96,16 +103,10 @@ Table of Contents
 
 2.  Education
 
-2.1.  MSc.  Mathematics (University of Alberta)
 
-   o  Thesis work in Positivity on Banach Lattices
 
-   o  2006 - 2007
 
-   o  Supervisors: Vladimir Troitsky [1] and Nicole Tomczak-Jaegermann
-      [2]
 
-   o  GPA: 3.8
 
 
 
@@ -113,6 +114,17 @@ Levin                  Expires September 29, 2015               [Page 2]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+2.1.  MSc.  Mathematics (University of Alberta)
+
+   *  Thesis work in Positivity on Banach Lattices
+
+   *  2006 - 2007
+
+   *  Supervisors: Vladimir Troitsky [1] and Nicole Tomczak-Jaegermann
+      [2]
+
+   *  GPA: 3.8
 
    I accomplished original work in extending the Perron-Frobenius
    theorem on matrices to semigroups of positive operators on infinite-
@@ -125,16 +137,16 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 2.2.  BSc.  Engineering Physics (University of Alberta)
 
-   o  Specialized in Computational Physics
+   *  Specialized in Computational Physics
 
-   o  Honours thesis: analysing time-resolved optical properties of
+   *  Honours thesis: analysing time-resolved optical properties of
       continuum-generated probe pulses.
 
-   o  1999 - 2004
+   *  1999 - 2004
 
-   o  Thesis supervisor: Frank Hegmann [3]
+   *  Thesis supervisor: Frank Hegmann [3]
 
-   o  GPA: 3.8
+   *  GPA: 3.8
 
    During my undergraduate degree I focused on obtaining a strong
    foundation in programming (C, C++, MC6800 Assembly) to compliment my
@@ -142,26 +154,15 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 3.  Relevant Online Identities
 
-   o  Personal website: http://aaronlevin.ca
+   *  Personal website: http://aaronlevin.ca
 
-   o  GitHub: https://github.com/aaronlevin
+   *  GitHub: https://github.com/aaronlevin
 
-   o  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin )
+   *  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin )
 
-   o  Keybase: https://keybase.io/aaronlevin
+   *  Keybase: https://keybase.io/aaronlevin
 
-   o  Stack Overflow: http://stackoverflow.com/users/1308975/aaronlevin
-
-   o  Haskellers: http://www.haskellers.com/user/aaronlevin
-
-   o  Facebook: https://www.facebook.com/aaronmblevin
-
-   o  Google Plus: https://plus.google.com/110471816183726748520
-
-
-
-
-
+   *  Stack Overflow: http://stackoverflow.com/users/1308975/aaronlevin
 
 
 
@@ -169,6 +170,12 @@ Levin                  Expires September 29, 2015               [Page 3]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+   *  Haskellers: http://www.haskellers.com/user/aaronlevin
+
+   *  Facebook: https://www.facebook.com/aaronmblevin
+
+   *  Google Plus: https://plus.google.com/110471816183726748520
 
 4.  Relevant Technological Experience
 
@@ -212,12 +219,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    As one increases level, understanding increases dramatically.
 
-   Level 1:  Have read about this language and potentially written a
-      Hello World program.
-
-   Level 2:  Have written trivial programs and am familiar with the
-      language's paradigms.
-
 
 
 
@@ -225,6 +226,12 @@ Levin                  Expires September 29, 2015               [Page 4]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+   Level 1:  Have read about this language and potentially written a
+      Hello World program.
+
+   Level 2:  Have written trivial programs and am familiar with the
+      language's paradigms.
 
    Level 3:  Can write a trivial program and am familiar with the build
       tools.  Alternatively, this level may include languages I may have
@@ -247,33 +254,27 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 4.1.2.  Programming Language Knowledge
 
-   o  Haskell: 5
+   *  Haskell: 5
 
-   o  Scala: 5
+   *  Scala: 5
 
-   o  Bash: 5
+   *  Bash: 5
 
-   o  Python: 4
+   *  Python: 4
 
-   o  Java: 4
+   *  Java: 4
 
-   o  Clojure: 3
+   *  Clojure: 3
 
-   o  Ruby: 3
+   *  Ruby: 3
 
-   o  JavaScript: 3
+   *  JavaScript: 3
 
-   o  JavaScript: 3
+   *  JavaScript: 3
 
-   o  C++: 3
+   *  C++: 3
 
-   o  C: 3
-
-   o  R: 2
-
-   o  MC68800 Assembly: 2
-
-   o  Idris: 2
+   *  C: 3
 
 
 
@@ -282,54 +283,54 @@ Levin                  Expires September 29, 2015               [Page 5]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   o  Intuitionistic Logic: 2
+   *  R: 2
 
-   o  Agda: 1
+   *  MC68800 Assembly: 2
+
+   *  Idris: 2
+
+   *  Intuitionistic Logic: 2
+
+   *  Agda: 1
 
 4.2.  Paradigms and Protocols
 
 4.2.1.  Paradigms
 
-   o  Pure, Functional Programming
+   *  Pure, Functional Programming
 
-   o  Object Oriented Programming (OOP
+   *  Object Oriented Programming (OOP
 
-   o  Continuation-Passing Style (CPS)
+   *  Continuation-Passing Style (CPS)
 
-   o  REST
+   *  REST
 
-   o  Symmetric and Asymmetric Encryption
+   *  Symmetric and Asymmetric Encryption
 
-   o  (E)DSLs
+   *  (E)DSLs
 
 4.2.2.  Protocols
 
-   o  HTTP/1.1
+   *  HTTP/1.1
 
-   o  TCP/IP
+   *  TCP/IP
 
-   o  UDP
+   *  UDP
 
-   o  OAuth 2.0
+   *  OAuth 2.0
 
-   o  JWT
+   *  JWT
 
-   o  AES Encryption (Counter mode with CBC-MAC (CCM))
+   *  AES Encryption (Counter mode with CBC-MAC (CCM))
 
-   o  ECC Encryption
+   *  ECC Encryption
 
    Protocols I have used but don't feel confident saying I understand
    them:
 
-   o  Bluetooth Smart (Bluetooth Low Energy)
+   *  Bluetooth Smart (Bluetooth Low Energy)
 
-   o  GATT
-
-   o  Memcached
-
-
-
-
+   *  GATT
 
 
 
@@ -338,54 +339,54 @@ Levin                  Expires September 29, 2015               [Page 6]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+   *  Memcached
+
 4.3.  Data Stores
 
 4.3.1.  SQL
 
-   o  PostgreSQL [13]
+   *  PostgreSQL [13]
 
-   o  MySQL [14]
+   *  MySQL [14]
 
-   o  SQLServer [15]
+   *  SQLServer [15]
 
 4.3.2.  Non-SQL
 
-   o  DynamoDB [16]
+   *  DynamoDB [16]
 
-   o  Redis [17]
+   *  Redis [17]
 
-   o  elasticsearch [18]
+   *  elasticsearch [18]
 
-   o  memcached [19]
+   *  memcached [19]
 
-   o  etcd [20]
+   *  etcd [20]
 
-   o  MongoDB [21]
+   *  MongoDB [21]
 
-   o  Datomic [22]
+   *  Datomic [22]
 
 4.4.  Message Queues
 
-   o  RabbitMQ [23]
+   *  RabbitMQ [23]
 
 4.5.  Infrastructure
 
-   o  Amazon Web Services (AWS) [24]
+   *  Amazon Web Services (AWS) [24]
 
-   o  Google Compute Engine (GCE) [25]
+   *  Google Compute Engine (GCE) [25]
 
-   o  Google Container Engine (GKE) [26]
+   *  Google Container Engine (GKE) [26]
 
-   o  Apache Storm [27]
+   *  Apache Storm [27]
 
 5.  Relevant Work Experience
 
-5.1.  Sr. Software Engineer @ Aterica Health
 
-   o  September 2014 - present
 
-   o  Designing and building scalable systems for network-aware,
-      embedded devices (IoT) built to improve health and save lives.
+
+
 
 
 
@@ -394,7 +395,14 @@ Levin                  Expires September 29, 2015               [Page 7]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   o  url: https://www.aterica.com/
+5.1.  Sr. Software Engineer @ Aterica Health
+
+   *  September 2014 - present
+
+   *  Designing and building scalable systems for network-aware,
+      embedded devices (IoT) built to improve health and save lives.
+
+   *  url: https://www.aterica.com/
 
    At Aterica I am responsible for the implementation and design of a
    system to improve vigilance for people who suffer anaphylaxis and
@@ -402,46 +410,39 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    Relevant technology:
 
-   o  Haskell
+   *  Haskell
 
-   o  Google Compute Engine
+   *  Google Compute Engine
 
-   o  Google Container Engine
+   *  Google Container Engine
 
-   o  Docker
+   *  Docker
 
-   o  Security and binary protocols for embedded devices (IoT)
+   *  Security and binary protocols for embedded devices (IoT)
 
-   o  EDSLs
+   *  EDSLs
 
-   o  REST
+   *  REST
 
-   o  OAuth 2.0
+   *  OAuth 2.0
 
-   o  JWT
+   *  JWT
 
-   o  PostgreSQL
+   *  PostgreSQL
 
 5.2.  Data Scientist @ Demeure
 
-   o  January 2014 - September 2014
+   *  January 2014 - September 2014
 
-   o  Search and Data infrastructure powered by Apache Storm,
+   *  Search and Data infrastructure powered by Apache Storm,
       Elasticsearch, and DynamoDB.
 
-   o  url: https://www.metamarketplace.com/
+   *  url: https://www.metamarketplace.com/
 
    At Demeure/Metamarketplace I was hired to design and build their data
    infrastructure.  As a B2B marketplace, we were challenged with
    consuming a significant volume of events.  I chose Apache Storm for
    its distributed foundation and multi-language interop.  Events were
-   consumed and processed by Apache Storm, indexed in Elasticsearch, and
-   stored in DynamoDB.
-
-   Relevant technology:
-
-   o  Apache Storm [30]
-
 
 
 
@@ -450,24 +451,31 @@ Levin                  Expires September 29, 2015               [Page 8]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   o  elasticsearch [31]
+   consumed and processed by Apache Storm, indexed in Elasticsearch, and
+   stored in DynamoDB.
 
-   o  DynamoDB [32]
+   Relevant technology:
 
-   o  Ruby [33]
+   *  Apache Storm [30]
 
-   o  Clojure [34]
+   *  elasticsearch [31]
 
-   o  Java [35]
+   *  DynamoDB [32]
+
+   *  Ruby [33]
+
+   *  Clojure [34]
+
+   *  Java [35]
 
 5.3.  Software Engineer @ Sortable
 
-   o  August 2012 - January 2014
+   *  August 2012 - January 2014
 
-   o  Full-stack engineer building a product comparison platform
+   *  Full-stack engineer building a product comparison platform
       empowering consumers to make decisions easier and data-driven.
 
-   o  url: http://sortable.com/
+   *  url: http://sortable.com/
 
    As a full-stack I helped design, build, and support our product
    comparison platform at every layer: data storage, search, web
@@ -477,27 +485,20 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    Relevant technology:
 
-   o  Scala
+   *  Scala
 
-   o  AWS
+   *  AWS
 
-   o  Elasticsearch
+   *  Elasticsearch
 
-   o  PostgreSQL
+   *  PostgreSQL
 
-   o  Redis
+   *  Redis
 
-   o  memcached
+   *  memcached
 
-   o  Python
+   *  Python
 
-6.  References
-
-6.1.  URIs
-
-   [1] http://www.math.ualberta.ca/~vtroitsky/
-
-   [2] http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html
 
 
 
@@ -505,6 +506,41 @@ Levin                  Expires September 29, 2015               [Page 9]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+6.  Awards and Acclamations
+
+   *  National Hero (Exclaim!  Magazine, 2011)
+
+   *  Next 10 (Venture Magazine, 2011)
+
+   *  Best Indie Music Website (CBC Radio 3, 2011)
+
+   *  Biggest Innovator (nomination) (CMJ, 2009)
+
+   *  Graduate Student Scholarship (University of Alberta, 2006)
+
+   *  Graduate Student Scholarship (University of Waterloo, 2005)
+
+   *  NSERC Undergraduate Student Research Assistantship (Government of
+      Canada, 2003)
+
+7.  Hobbies and Self Development
+
+7.1.  Weird Canada / Wyrd Arts Initiatives
+
+7.2.  Intersections KW
+
+7.3.  Vipassana Meditation
+
+7.4.  Record Collecting
+
+8.  References
+
+8.1.  URIs
+
+   [1] http://www.math.ualberta.ca/~vtroitsky/
+
+   [2] http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html
 
    [3] https://uofa.ualberta.ca/physics/people/people-collection/frank-
        hegmann
@@ -518,6 +554,14 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    [15] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
 
    [16] http://aws.amazon.com/dynamodb/
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 10]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
    [17] http://redis.io/
 
@@ -553,15 +597,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [35] https://www.java.com/en/
 
-
-
-
-
-Levin                  Expires September 29, 2015              [Page 10]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
 Author's Address
 
    Aaron Michael Benjamin Levin
@@ -572,40 +607,6 @@ Author's Address
    Phone: +1 416-727-2977
    Email: vilevin@gmail.com
    URI:   http://aaronlevin.ca
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

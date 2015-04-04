@@ -347,8 +347,36 @@
         </t>
       </section>
 
-    <!-- SECTION: RELEVANT WORK -->
+    <!-- /SECTION: RELEVANT WORK -->
     </section>
+
+    <!-- SECTION: RELEVANT WORK -->
+    <section title="Awards and Acclamations" anchor="awards">
+      <t>
+        <list style="symbols">
+          <t>National Hero (Exclaim! Magazine, 2011)</t>
+          <t>Next 10 (Venture Magazine, 2011)</t>
+          <t>Best Indie Music Website (CBC Radio 3, 2011)</t>
+          <t>Biggest Innovator (nomination) (CMJ, 2009)</t>
+          <t>Graduate Student Scholarship (University of Alberta, 2006)</t>
+          <t>Graduate Student Scholarship (University of Waterloo, 2005)</t>
+          <t>NSERC Undergraduate Student Research Assistantship (Government of Canada, 2003)</t>
+        </list>
+      </t>
+    <!-- /SECTION: RELEVANT WORK -->
+    </section>
+
+    <section title="Hobbies and Self Development" anchor="self-development">
+      <section title="Weird Canada / Wyrd Arts Initiatives" anchor="weird">
+      </section>
+      <section title="Intersections KW" anchor="intersections">
+      </section>
+      <section title="Vipassana Meditation" anchor="meditation">
+      </section>
+      <section title="Record Collecting" anchor="record-collecting">
+      </section>
+    </section>
+
 
   </middle>
   <!-- /MIDDLE -->
