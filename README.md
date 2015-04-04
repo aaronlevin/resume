@@ -14,7 +14,7 @@ Generating my resume requires the [Nix](http://nixos.org/nix/) package manager.
 
 To build:
 
-1. `git clone http://www.latex-project.org/`
+1. `git clone https://github.com/aaronlevin/resume.git`
 2. `cd resume`
 3. `nix-shell` (this will put you in a shell with the dependencies required to build my resume artifacts).
 4. `./process.sh resume.xml resume`
