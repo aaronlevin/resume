@@ -16,6 +16,13 @@ Abstract
    Michael Benjamin Levin, MSc., born 1981-12-03T12:53:00-07:00 in
    Calgary, Alberta (geo:51.065389,-114.133306).
 
+   Contact:
+
+      e: vilevin@gmail.com
+      p: 416-727-2977
+      t: @aaronmblevin
+      w: http://aaronlevin.ca
+
 Status of This Memo
 
    This Internet-Draft is submitted in full conformance with the
@@ -43,13 +50,6 @@ Copyright Notice
    (http://trustee.ietf.org/license-info) in effect on the date of
    publication of this document.  Please review these documents
    carefully, as they describe your rights and restrictions with respect
-   to this document.  Code Components extracted from this document must
-   include Simplified BSD License text as described in Section 4.e of
-   the Trust Legal Provisions and are provided without warranty as
-   described in the Simplified BSD License.
-
-
-
 
 
 
@@ -58,6 +58,11 @@ Levin                  Expires September 29, 2015               [Page 1]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+   to this document.  Code Components extracted from this document must
+   include Simplified BSD License text as described in Section 4.e of
+   the Trust Legal Provisions and are provided without warranty as
+   described in the Simplified BSD License.
+
 Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
@@ -65,7 +70,7 @@ Table of Contents
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
      2.2.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   3
-   4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   3
+   4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   4
      4.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   4
      4.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   4
      4.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   5
@@ -100,11 +105,6 @@ Table of Contents
    The engine behind my enthusiasm resides at the intersection of my
    analytical background (MSc.  Mathematics) and my creative energies
    (writing, design, and development).  Digital media presents a unique
-   opportunity to combine deep, analytics processes with, highly-
-   creative, user-oriented goals.
-
-
-
 
 
 
@@ -113,6 +113,9 @@ Levin                  Expires September 29, 2015               [Page 2]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+   opportunity to combine deep, analytics processes with, highly-
+   creative, user-oriented goals.
 
 2.  Education
 
@@ -157,9 +160,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Facebook: https://www.facebook.com/aaronmblevin
    *  Google Plus: https://plus.google.com/110471816183726748520
 
-4.  Work Experience
-
-
 
 
 
@@ -169,6 +169,8 @@ Levin                  Expires September 29, 2015               [Page 3]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+4.  Work Experience
 
 4.1.  Sr. Software Engineer @ Aterica Health
 
@@ -216,8 +218,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Ruby [17]
    *  Clojure [18]
    *  Java [19]
-
-
 
 
 
