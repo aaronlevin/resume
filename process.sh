@@ -12,7 +12,7 @@ exit_if_unset() {
   local msg="${2}"
 
   if [[ -z "${1}" ]]; then
-    echo "${2}"
+    echo "${2}" 1>&2
     exit -1
   fi
 
