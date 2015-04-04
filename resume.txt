@@ -80,8 +80,9 @@ Table of Contents
    5.  Relevant Work Experience  . . . . . . . . . . . . . . . . . .   7
      5.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   7
      5.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   8
+     5.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   9
      6.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   9
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  10
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  11
 
 1.  Introduction
 
@@ -105,7 +106,6 @@ Table of Contents
       [2]
 
    o  GPA: 3.8
-
 
 
 
@@ -431,12 +431,12 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    o  url: https://www.metamarketplace.com/
 
-   At Demeure/Metamarketplace I was hired as a data scientist to design
-   and build their data infrastructure.  As a B2B marketplace, we were
-   challenged with consuming a significant volume of events.  I chose
-   Apache Storm for its distributed foundation and multi-language
-   interop.  Events were consumed and processed by Apache Storm, indexed
-   in Elasticsearch, and stored in DynamoDB.
+   At Demeure/Metamarketplace I was hired to design and build their data
+   infrastructure.  As a B2B marketplace, we were challenged with
+   consuming a significant volume of events.  I chose Apache Storm for
+   its distributed foundation and multi-language interop.  Events were
+   consumed and processed by Apache Storm, indexed in Elasticsearch, and
+   stored in DynamoDB.
 
    Relevant technology:
 
@@ -460,6 +460,37 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    o  Java [35]
 
+5.3.  Software Engineer @ Sortable
+
+   o  August 2012 - January 2014
+
+   o  Full-stack engineer building a product comparison platform
+      empowering consumers to make decisions easier and data-driven.
+
+   o  url: http://sortable.com/
+
+   As a full-stack I helped design, build, and support our product
+   comparison platform at every layer: data storage, search, web
+   servers, cacheing, front-end, deployment, and job processing.  Our
+   platform crawled the web, indexing tens of thousands of product data,
+   which we made available to our users.
+
+   Relevant technology:
+
+   o  Scala
+
+   o  AWS
+
+   o  Elasticsearch
+
+   o  PostgreSQL
+
+   o  Redis
+
+   o  memcached
+
+   o  Python
+
 6.  References
 
 6.1.  URIs
@@ -467,6 +498,13 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    [1] http://www.math.ualberta.ca/~vtroitsky/
 
    [2] http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html
+
+
+
+Levin                  Expires September 29, 2015               [Page 9]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
    [3] https://uofa.ualberta.ca/physics/people/people-collection/frank-
        hegmann
@@ -499,13 +537,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [25] https://cloud.google.com/compute/
 
-
-
-Levin                  Expires September 29, 2015               [Page 9]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    [26] https://cloud.google.com/container-engine/
 
    [27] https://storm.apache.org/
@@ -521,6 +552,15 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    [34] http://clojure.org/
 
    [35] https://www.java.com/en/
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 10]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
 Author's Address
 
@@ -557,4 +597,20 @@ Author's Address
 
 
 
-Levin                  Expires September 29, 2015              [Page 10]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 11]

@@ -323,10 +323,32 @@
         </t>
       </section>
 
+      <section title="Software Engineer @ Sortable" anchor="sortable">
+        <t>
+          <list style="symbols">
+            <t>August 2012 - January 2014</t>
+            <t>Full-stack engineer building a product comparison platform empowering consumers to make decisions easier and data-driven.</t>
+            <t>url: <eref target="http://sortable.com/">http://sortable.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          As a full-stack I helped design, build, and support our product comparison platform at every layer: data storage, search, web servers, cacheing, front-end, deployment, and job processing. Our platform crawled the web, indexing tens of thousands of product data, which we made available to our users.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Scala</t>
+            <t>AWS</t>
+            <t>Elasticsearch</t>
+            <t>PostgreSQL</t>
+            <t>Redis</t>
+            <t>memcached</t>
+            <t>Python</t>
+          </list>
+        </t>
+      </section>
+
     <!-- SECTION: RELEVANT WORK -->
     </section>
- 
-
 
   </middle>
   <!-- /MIDDLE -->
