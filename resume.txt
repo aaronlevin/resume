@@ -348,7 +348,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Clojure: 3
    *  Ruby: 3
    *  JavaScript: 3
-   *  JavaScript: 3
    *  C++: 3
    *  C: 3
    *  R: 2
@@ -384,6 +383,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Bluetooth Smart (Bluetooth Low Energy)
    *  GATT
    *  Memcached
+
 
 
 
