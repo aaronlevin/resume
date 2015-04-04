@@ -65,15 +65,22 @@ Table of Contents
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   2
      2.2.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Relevant Online Identities  . . . . . . . . . . . . . . . . .   3
-   4.  Relevant Technological Experience . . . . . . . . . . . . . .   3
-     4.1.  Programming Languages . . . . . . . . . . . . . . . . . .   3
-       4.1.1.  Quantifying Programming Language Knowledge  . . . . .   3
+   4.  Relevant Technological Experience . . . . . . . . . . . . . .   4
+     4.1.  Programming Languages . . . . . . . . . . . . . . . . . .   4
+       4.1.1.  Quantifying Programming Language Knowledge  . . . . .   4
        4.1.2.  Programming Language Knowledge  . . . . . . . . . . .   5
-     4.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   5
-       4.2.1.  Paradigms . . . . . . . . . . . . . . . . . . . . . .   5
+     4.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   6
+       4.2.1.  Paradigms . . . . . . . . . . . . . . . . . . . . . .   6
        4.2.2.  Protocols . . . . . . . . . . . . . . . . . . . . . .   6
-     5.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   6
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   6
+     4.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   7
+       4.3.1.  SQL . . . . . . . . . . . . . . . . . . . . . . . . .   7
+       4.3.2.  Non-SQL . . . . . . . . . . . . . . . . . . . . . . .   7
+     4.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   7
+     4.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   7
+   5.  Relevant Work Experience  . . . . . . . . . . . . . . . . . .   7
+     5.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   7
+     6.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   9
 
 1.  Introduction
 
@@ -98,6 +105,15 @@ Table of Contents
 
    o  GPA: 3.8
 
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 2]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    I accomplished original work in extending the Perron-Frobenius
    theorem on matrices to semigroups of positive operators on infinite-
    dimensional Banach lattices.
@@ -106,13 +122,6 @@ Table of Contents
    specifically in Google's PageRank algorithm.  My work empowered
    researches and scientists to use Perron-Frobenius in a broader class
    of Banach spaces.
-
-
-
-Levin                  Expires September 29, 2015               [Page 2]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
 2.2.  BSc.  Engineering Physics (University of Alberta)
 
@@ -149,17 +158,8 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    o  Google Plus: https://plus.google.com/110471816183726748520
 
-4.  Relevant Technological Experience
 
-4.1.  Programming Languages
 
-4.1.1.  Quantifying Programming Language Knowledge
-
-   Below is a list of Programming Languages I have used in production.
-   I don't believe years of experience is a good metric for knowledge of
-   a programming language.  Instead, I will list my comfort across these
-   languages using a Fibonacci scale where each level represents a
-   deeper level of understanding.
 
 
 
@@ -169,6 +169,25 @@ Levin                  Expires September 29, 2015               [Page 3]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+4.  Relevant Technological Experience
+
+4.1.  Programming Languages
+
+4.1.1.  Quantifying Programming Language Knowledge
+
+   Below is a list of Programming Languages I have used in production.
+
+   Communicating expertise in a programming language is nuanced.  The
+   usual metric (number of years of experience) is flawed; it does not
+   accurately capture foundational understanding in a language.  Someone
+   with three years of experience in a language as a compiler designer
+   is going to have a much deeper and foundational understanding than
+   someone who has used said language in their career.
+
+   To overcome this limitation, I've created a number of levels and a
+   curve to represent an individual's understanding at each level.  The
+   scale is fibonacci, which I chose arbitrarily.
 
    PL Understanding as a Fibonacci Sequence
 
@@ -197,7 +216,15 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
       Hello World program.
 
    Level 2:  Have written trivial programs and am familiar with the
-      languages paradigms.
+      language's paradigms.
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 4]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
    Level 3:  Can write a trivial program and am familiar with the build
       tools.  Alternatively, this level may include languages I may have
@@ -217,14 +244,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
       performance.
 
    Level 7:  You are Edward Kmett [12].
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 4]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
 4.1.2.  Programming Language Knowledge
 
@@ -256,9 +275,16 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    o  Idris: 2
 
-   o  Agda: 1
+
+
+Levin                  Expires September 29, 2015               [Page 5]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
    o  Intuitionistic Logic: 2
+
+   o  Agda: 1
 
 4.2.  Paradigms and Protocols
 
@@ -273,14 +299,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    o  REST
 
    o  Symmetric and Asymmetric Encryption
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 5]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
    o  (E)DSLs
 
@@ -309,24 +327,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    o  Memcached
 
-5.  References
-
-5.1.  URIs
-
-   [1] http://www.math.ualberta.ca/~vtroitsky/
-
-   [2] http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html
-
-   [3] https://uofa.ualberta.ca/physics/people/people-collection/frank-
-       hegmann
-
-   [12] https://github.com/ekmett
-
-Author's Address
-
-
-
-
 
 
 
@@ -337,6 +337,142 @@ Levin                  Expires September 29, 2015               [Page 6]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+4.3.  Data Stores
+
+4.3.1.  SQL
+
+   o  PostgreSQL [13]
+
+   o  MySQL [14]
+
+   o  SQLServer [15]
+
+4.3.2.  Non-SQL
+
+   o  DynamoDB [16]
+
+   o  Redis [17]
+
+   o  elasticsearch [18]
+
+   o  memcached [19]
+
+   o  etcd [20]
+
+   o  MongoDB [21]
+
+   o  Datomic [22]
+
+4.4.  Message Queues
+
+   o  RabbitMQ [23]
+
+4.5.  Infrastructure
+
+   o  Amazon Web Services (AWS) [24]
+
+   o  Google Compute Engine (GCE) [25]
+
+   o  Google Container Engine (GKE) [26]
+
+   o  Apache Storm [27]
+
+5.  Relevant Work Experience
+
+5.1.  Sr. Software Engineer @ Aterica Health
+
+   o  September 2014 - present
+
+   o  Designing and building scalable systems for network-aware,
+      embedded devices (IoT) built to improve health and save lives.
+
+
+
+Levin                  Expires September 29, 2015               [Page 7]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   o  url: https://www.aterica.com/
+
+   At Aterica I am responsible for the implementation and design of a
+   system to improve vigilance for people who suffer anaphylaxis and
+   require an EpiPen(r).
+
+   Relevant technology:
+
+   o  Haskell
+
+   o  Google Compute Engine
+
+   o  Google Container Engine
+
+   o  Docker
+
+   o  Security and binary protocols for embedded devices (IoT)
+
+   o  EDSLs
+
+   o  REST
+
+   o  OAuth 2.0
+
+   o  JWT
+
+   o  PostgreSQL
+
+6.  References
+
+6.1.  URIs
+
+   [1] http://www.math.ualberta.ca/~vtroitsky/
+
+   [2] http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html
+
+   [3] https://uofa.ualberta.ca/physics/people/people-collection/frank-
+       hegmann
+
+   [12] https://github.com/ekmett
+
+   [13] http://www.postgresql.org/
+
+   [14] https://www.mysql.com/
+
+   [15] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
+
+   [16] http://aws.amazon.com/dynamodb/
+
+
+
+Levin                  Expires September 29, 2015               [Page 8]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   [17] http://redis.io/
+
+   [18] https://www.elastic.co/
+
+   [19] http://memcached.org/
+
+   [20] https://github.com/coreos/etcd
+
+   [21] https://www.mongodb.org/
+
+   [22] http://www.datomic.com/
+
+   [23] https://www.rabbitmq.com/
+
+   [24] http://aws.amazon.com/
+
+   [25] https://cloud.google.com/compute/
+
+   [26] https://cloud.google.com/container-engine/
+
+   [27] https://storm.apache.org/
+
+Author's Address
 
    Aaron Michael Benjamin Levin
    #4 - 2 King Street South
@@ -365,28 +501,4 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 7]
+Levin                  Expires September 29, 2015               [Page 9]

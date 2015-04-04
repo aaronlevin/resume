@@ -220,11 +220,113 @@
             </list>
           </t>
         </section>
-
-
       </section>
+
+      <section title="Data Stores">
+        <section title="SQL">
+          <t>
+            <list style="symbols">
+              <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
+              <t><eref target="https://www.mysql.com/">MySQL</eref></t>
+              <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
+            </list>
+          </t>
+        </section>
+        <section title="Non-SQL">
+          <t>
+            <list style="symbols">
+              <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
+              <t><eref target="http://redis.io/">Redis</eref></t>
+              <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
+              <t><eref target="http://memcached.org/">memcached</eref></t>
+              <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
+              <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
+              <t><eref target="http://www.datomic.com/">Datomic</eref></t>
+            </list>
+          </t>
+        </section>
+      </section>
+
+      <section title="Message Queues">
+        <t>
+          <list style="symbols">
+            <t><eref target="https://www.rabbitmq.com/">RabbitMQ</eref></t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Infrastructure">
+        <t>
+          <list style="symbols">
+            <t><eref target="http://aws.amazon.com/">Amazon Web Services (AWS)</eref></t>
+            <t><eref target="https://cloud.google.com/compute/">Google Compute Engine (GCE)</eref></t>
+            <t><eref target="https://cloud.google.com/container-engine/">Google Container Engine (GKE)</eref></t>
+            <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
+          </list>
+        </t>
+      </section>
+
+
     </section>
     <!-- /SECTION: RELEVANT TECH -->
+
+    <!-- SECTION: RELEVANT WORK -->
+    <section title="Relevant Work Experience" anchor="work-experience">
+
+      <section title="Sr. Software Engineer @ Aterica Health" anchor="aterica-health">
+        <t>
+          <list style="symbols">
+            <t>September 2014 - present</t>
+            <t>Designing and building scalable systems for network-aware, embedded devices (IoT) built to improve health and save lives.</t>
+            <t>url: <eref target="https://www.aterica.com/">https://www.aterica.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          At Aterica I am responsible for the implementation and design of a system to improve vigilance for people who suffer anaphylaxis and require an EpiPen(r).
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Haskell</t>
+            <t>Google Compute Engine</t>
+            <t>Google Container Engine</t>
+            <t>Docker</t>
+            <t>Security and binary protocols for embedded devices (IoT)</t>
+            <t>EDSLs</t>
+            <t>REST</t>
+            <t>OAuth 2.0</t>
+            <t>JWT</t>
+            <t>PostgreSQL</t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Data Scientist @ Demeure" anchor="aterica-health">
+        <t>
+          <list style="symbols">
+            <t>January 2014 - September 2014</t>
+            <t>Search and Data infrastructure powered by Apache Storm, Elasticsearch, and DynamoDB.</t>
+            <t>url: <eref target="https://www.metamarketplace.com/">https://www.metamarketplace.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          At Demeure/Metamarketplace I was hired as a data scientist to design and build their data infrastructure. As a B2B marketplace, we were challenged with consuming a significant volume of events. I chose Apache Storm for its distributed foundation and multi-language interop. Events were consumed and processed by Apache Storm, indexed in Elasticsearch, and stored in DynamoDB.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
+            <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
+            <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
+            <t><eref target="http://clojure.org/">Ruby</eref></t>
+            <t><eref target="http://clojure.org/">Clojure</eref></t>
+            <t><eref target="https://www.java.com/en/">Java</eref></t>
+          </list>
+        </t>
+      </section>
+
+    <!-- SECTION: RELEVANT WORK -->
+    </section>
+ 
+
 
   </middle>
   <!-- /MIDDLE -->
