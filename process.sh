@@ -3,8 +3,6 @@
 readonly PROGNAME=$(basename $0)
 readonly ARGS="$@"
 
-IFS=''
-
 # exit program if unset
 exit_if_unset() {
 
@@ -16,29 +14,6 @@ exit_if_unset() {
     exit -1
   fi
 
-}
-
-# How to test for a list
-is_list() {
-  echo "${1}" | grep -q "^   \*  "
-}
-
-is_chapter() {
-  echo "${1}" | grep -q "^[0-9]\."
-}
-
-# xml2rfc inserts a space between bullets. this
-# removes them.
-remove_extra_bullet_line() {
-  local prev="${1}"
-  while read cur; do
-    if is_list "${prev}"; then
-      prev=""
-    else
-      prev="${cur}"
-      echo "${prev}"
-    fi
-  done
 }
 
 # Generate the resume using `xml2rfc`
