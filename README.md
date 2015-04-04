@@ -7,3 +7,14 @@ As a software engineer, I come across RFC documents quite often and appreciate t
 A specification for writing RFC documents in an extensible markup language (XML) was written in 1999 ([RFC 2629](http://xml2rfc.ietf.org/public/rfc/html/rfc2629.html)) and a tool named [`xml2rfc`](http://xml2rfc.ietf.org/) was made available by the IETF. I thought it would be an interesting experiment to author my resume using this specification.
 
 Throughout the process I've really begun to enjoy the format and find it quite flexible. The ability to output plain-text and html version is also appealing. The specification comes with a surprising amount of flexibility (diagrams, fancy lists, etc.)
+
+### Instructions
+
+Generating my resume requires the [Nix](http://nixos.org/nix/) package manager.
+
+To build:
+
+1. `git clone http://www.latex-project.org/`
+2. `cd resume`
+3. `nix-shell`
+4. `./process.sh resume.xml resume`
