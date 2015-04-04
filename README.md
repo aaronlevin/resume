@@ -16,5 +16,5 @@ To build:
 
 1. `git clone http://www.latex-project.org/`
 2. `cd resume`
-3. `nix-shell`
+3. `nix-shell` (this will put you in a shell with the dependencies required to build my resume artifacts).
 4. `./process.sh resume.xml resume`
