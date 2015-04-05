@@ -140,7 +140,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 2.2.  BSc.  Engineering Physics (University of Alberta)
 
    *  Specialized in Computational Physics
-   *  Honours thesis: analysing time-resolved optical properties of
+   *  Honours thesis: analyzing time-resolved optical properties of
       continuum-generated probe pulses.
    *  1999 - 2004
    *  Thesis supervisor: Frank Hegmann [3]
@@ -235,7 +235,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    As a full-stack I helped design, build, and support our product
    comparison platform at every layer: data storage, search, web
-   servers, cacheing, front-end, deployment, and job processing.  Our
+   servers, caching, front-end, deployment, and job processing.  Our
    platform crawled the web, indexing tens of thousands of product data,
    which we made available to our users.
 
@@ -257,8 +257,8 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  url: https://store.kobobooks.com/en-ca/
 
    As a Content Analyst at Kobo I was charged with monitoring and
-   analyzing the pricing of eBooks across Kobo's global catalog.  I
-   liased with Kobo's Big Data team and online merchandisers to ensure
+   analyzing the pricing of eBooks across Kobo's global catalogue.  I
+   liaised with Kobo's Big Data team and online merchandisers to ensure
    books in the right country and category had the best price.
 
    Relevant technology:
@@ -295,7 +295,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    To overcome this limitation, I've created a number of levels and a
    curve to represent an individual's understanding at each level.  The
-   scale is fibonacci, which I chose arbitrarily.
+   scale is Fibonacci, which I chose arbitrarily.
 
    PL Understanding as a Fibonacci Sequence
 
@@ -437,7 +437,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 6.1.  Tech Talks
 
    *  Dependent Haskell (Intersections KW, April 2015)
-   *  Commutivity and Quantum Mechanics (Intersections KW, February
+   *  Commutativity and Quantum Mechanics (Intersections KW, February
       2015)
    *  The Algebra of Algebraic Data Types and the Calculus of Mutations
       (Intersections KW, August 2014)
@@ -492,7 +492,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 8.2.  Intersections KW
 
    Steven Taschuk [42] and I founded Intersections KW to create a space
-   of enthusiams for pure mathematics, programming languages, computer
+   of enthusiasm for pure mathematics, programming languages, computer
    science, and data science.  We've had over eight meetups and hosted
    talks from Christopher Olah and Russell O'Connor on diverse topics
    such as Constructive Logic, Deep Neural Networks, and inventing
