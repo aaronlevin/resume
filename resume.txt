@@ -70,7 +70,7 @@ Table of Contents
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   3
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
-     2.2.  MSc. Physics (noncompleted) (University of Waterloo)  . .   3
+     2.2.  MSc. Physics (non-completed) (University of Waterloo) . .   3
      2.3.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   4
    4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   4
@@ -139,7 +139,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    researches and scientists to use Perron-Frobenius in a broader class
    of Banach spaces.
 
-2.2.  MSc.  Physics (noncompleted) (University of Waterloo)
+2.2.  MSc.  Physics (non-completed) (University of Waterloo)
 
    *  Specialized in Condensed Matter Physics (High-Temperature
       Superconductors)
