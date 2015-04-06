@@ -82,23 +82,21 @@ Table of Contents
      4.6.  Ad Operations and Analytics Manager @ Investopedia.com  .   6
    5.  Relevant Technological Experience . . . . . . . . . . . . . .   7
      5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   7
-       5.1.1.  Quantifying Programming Language Knowledge  . . . . .   7
-       5.1.2.  Programming Language Knowledge  . . . . . . . . . . .   8
-     5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   8
-     5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   9
-     5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   9
-     5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   9
-   6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .  10
-     6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .  10
-     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .  10
-   7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .  10
-   8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .  10
-     8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .  10
-     8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .  11
-     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  11
-     8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  11
-     9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  11
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  13
+     5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   7
+     5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   8
+     5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   8
+     5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   8
+   6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   8
+     6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   8
+     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   9
+   7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .   9
+   8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .   9
+     8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .   9
+     8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .   9
+     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  10
+     8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  10
+     9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  12
 
 1.  Introduction
 
@@ -106,6 +104,8 @@ Table of Contents
    I am excited by data-driven opportunities in environments that foster
    creativity, diversity, and innovation.  I value openness, honesty,
    empathy, and egolessness.
+
+
 
 
 
@@ -349,72 +349,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 5.1.  Programming Languages
 
-5.1.1.  Quantifying Programming Language Knowledge
-
-   Below is a list of Programming Languages I have used in production.
-
-   Communicating expertise in a programming language is nuanced.  The
-   usual metric (number of years of experience) is flawed; it does not
-   accurately capture foundational understanding in a language.  Someone
-   with three years of experience in a language as a compiler designer
-   is going to have a much deeper and foundational understanding than
-   someone who has used said language in their career.
-
-   To overcome this limitation, I've created a number of levels and a
-   curve to represent an individual's understanding at each level.  The
-   scale is Fibonacci, which I chose arbitrarily.
-
-   PL Understanding as a Fibonacci Sequence
-
-
-                   understanding
-                    ^
-                  13|                    .
-                  12|                   `
-                  11|                   |
-                  10|                   |
-                   9|                  /
-                   8|                 ;
-                   7|                 |
-                   6|                /
-                   5|              _/
-                   4|             /
-                   3|          ._/
-                   2|      .__/
-                   1|_____/
-                   /---------------------> level
-                   0  1  2  3  4  5  6  7
-
-   As one increases level, understanding increases dramatically.
-
-
-
-Levin                  Expires September 29, 2015               [Page 7]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
-   Level 1:  Have read about this language and potentially written a
-             Hello World program.
-   Level 2:  Have written trivial programs and am familiar with the
-             language's paradigms.
-   Level 3:  Can write a trivial program and am familiar with the build
-             tools.  Alternatively, this level may include languages I
-             may have been proficient in many years ago, but time has
-             waned my expertise.
-   Level 4:  Can write non-trivial programs and reason about
-             performance.  Am aware of some of the major libraries and
-             frameworks, though not an expert in their design.
-   Level 5:  Can write and maintain large projects in this language.
-             Have obtained deeper understanding of runtime and compiler
-             nuances.
-   Level 6:  Have written and maintained very large projects in this
-             language, using a multitude of tools to reason and improve
-             performance.
-   Level 7:  You are Edward Kmett [27].
-
-5.1.2.  Programming Language Knowledge
-
    *  Haskell: 5
    *  Scala: 5
    *  Bash: 5
@@ -442,14 +376,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Symmetric and Asymmetric Encryption
    *  (E)DSLs
 
-
-
-
-Levin                  Expires September 29, 2015               [Page 8]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    Protocols:
 
    *  HTTP/1.1
@@ -459,6 +385,14 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  JWT
    *  AES Encryption (Counter mode with CBC-MAC (CCM))
    *  ECC Encryption
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 7]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
    Protocols I have used but don't feel confident saying I understand
    them:
@@ -471,40 +405,30 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    SQL:
 
-   *  PostgreSQL [28]
-   *  MySQL [29]
-   *  SQLServer [30]
+   *  PostgreSQL [27]
+   *  MySQL [28]
+   *  SQLServer [29]
 
    Non-SQL
 
-   *  DynamoDB [31]
-   *  Redis [32]
-   *  elasticsearch [33]
-   *  memcached [34]
-   *  etcd [35]
-   *  MongoDB [36]
-   *  Datomic [37]
+   *  DynamoDB [30]
+   *  Redis [31]
+   *  elasticsearch [32]
+   *  memcached [33]
+   *  etcd [34]
+   *  MongoDB [35]
+   *  Datomic [36]
 
 5.4.  Message Queues
 
-   *  RabbitMQ [38]
+   *  RabbitMQ [37]
 
 5.5.  Infrastructure
 
-   *  Amazon Web Services (AWS) [39]
-   *  Google Compute Engine (GCE) [40]
-   *  Google Container Engine (GKE) [41]
-   *  Apache Storm [42]
-
-
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 9]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
+   *  Amazon Web Services (AWS) [38]
+   *  Google Compute Engine (GCE) [39]
+   *  Google Container Engine (GKE) [40]
+   *  Apache Storm [41]
 
 6.  Talks and Public Speaking
 
@@ -516,6 +440,15 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  The Algebra of Algebraic Data Types and the Calculus of Mutations
       (Intersections KW, August 2014)
    *  What is Monad?  (Scala MeetUp, April 2014)
+
+
+
+
+
+Levin                  Expires September 29, 2015               [Page 8]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
 6.2.  Art and Culture Talks
 
@@ -543,41 +476,39 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 8.1.  Weird Canada / Wyrd Arts Initiatives
 
-   I founded Weird Canada [43] in 2009 to create a space for people to
+   I founded Weird Canada [42] in 2009 to create a space for people to
    enthuse about emerging and experimental Canadian music.  Despite
    Weird Canada's focus on physically-released (often cassette), fringe
    music, the site grew to national acclaim, eventually winning CBC
    Radio 3's "Best Indie Music Website in Canada" award.  After the hard
-   work of Executive Director Marie Flanagan [44], the site has over 500
+   work of Executive Director Marie Flanagan [43], the site has over 500
    volunteers, is fully bilingual, ad-free, and has representation in
    every province and territory in Canada.
 
-
-
-
-
-
-Levin                  Expires September 29, 2015              [Page 10]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    I am currently Weird Canada's Creative Director and my main duties
-   involve ensuring the site's curatorial vision [45] is maintained
-   across the site and our online store Wyrd Distro [46].
+   involve ensuring the site's curatorial vision [44] is maintained
+   across the site and our online store Wyrd Distro [45].
 
 8.2.  Intersections KW
 
-   Steven Taschuk [47] and I founded Intersections KW to create a space
+   Steven Taschuk [46] and I founded Intersections KW to create a space
    of enthusiasm for pure mathematics, programming languages, computer
    science, and data science.  We've had over eight meetups and hosted
    talks from Christopher Olah and Russell O'Connor on diverse topics
    such as Constructive Logic, Deep Neural Networks, and inventing
    Bezier splines in the age of Archimedes.
 
+
+
+
+Levin                  Expires September 29, 2015               [Page 9]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
 8.3.  Vipassana Meditation
 
-   I am a Vipassana [48] meditator as taught by S.  N.  Goenka.  Each
+   I am a Vipassana [47] meditator as taught by S.  N.  Goenka.  Each
    year I take a 10-day course where we practice silent meditation for
    11hrs. each day.
 
@@ -588,11 +519,11 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    Canadian music from the 60s, 70s, and 80s, especially experimental or
    fringe music.
 
-   In 2007, a friend and I found a record by an artist named Lewis [49].
+   In 2007, a friend and I found a record by an artist named Lewis [48].
    After many years of champion the strange, unassuming LP within
    underground communities of record collectors, Lewis' album found
    international notoriety for reasons I still don't properly
-   understand.  I was even interviewed on CBC's As It Happens [50].
+   understand.  I was even interviewed on CBC's As It Happens [49].
 
 9.  References
 
@@ -611,13 +542,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    [6] https://uofa.ualberta.ca/physics/people/people-collection/frank-
        hegmann
 
-
-
-Levin                  Expires September 29, 2015              [Page 11]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    [17] https://storm.apache.org/
 
    [18] https://www.elastic.co/
@@ -630,63 +554,69 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [22] https://www.java.com/en/
 
-   [27] https://github.com/ekmett
-
-   [28] http://www.postgresql.org/
-
-   [29] https://www.mysql.com/
-
-   [30] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
-
-   [31] http://aws.amazon.com/dynamodb/
-
-   [32] http://redis.io/
-
-   [33] https://www.elastic.co/
-
-   [34] http://memcached.org/
-
-   [35] https://github.com/coreos/etcd
-
-   [36] https://www.mongodb.org/
-
-   [37] http://www.datomic.com/
-
-   [38] https://www.rabbitmq.com/
-
-   [39] http://aws.amazon.com/
-
-   [40] https://cloud.google.com/compute/
-
-   [41] https://cloud.google.com/container-engine/
-
-   [42] https://storm.apache.org/
-
-   [43] http://weirdcanada.com
-
-   [44] http://marieflanagan.com
 
 
 
-
-Levin                  Expires September 29, 2015              [Page 12]
+Levin                  Expires September 29, 2015              [Page 10]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   [45]
+   [27] http://www.postgresql.org/
 
-   [46] https://distro.weirdcanada.com
+   [28] https://www.mysql.com/
 
-   [47] http://www.amotlpaa.org/
+   [29] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
 
-   [48] https://www.dhamma.org/en-US/index
+   [30] http://aws.amazon.com/dynamodb/
 
-   [49] http://en.wikipedia.org/wiki/Lewis_%28musician%29
+   [31] http://redis.io/
 
-   [50] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
+   [32] https://www.elastic.co/
+
+   [33] http://memcached.org/
+
+   [34] https://github.com/coreos/etcd
+
+   [35] https://www.mongodb.org/
+
+   [36] http://www.datomic.com/
+
+   [37] https://www.rabbitmq.com/
+
+   [38] http://aws.amazon.com/
+
+   [39] https://cloud.google.com/compute/
+
+   [40] https://cloud.google.com/container-engine/
+
+   [41] https://storm.apache.org/
+
+   [42] http://weirdcanada.com
+
+   [43] http://marieflanagan.com
+
+   [44]
+
+   [45] https://distro.weirdcanada.com
+
+   [46] http://www.amotlpaa.org/
+
+   [47] https://www.dhamma.org/en-US/index
+
+   [48] http://en.wikipedia.org/wiki/Lewis_%28musician%29
+
+   [49] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
         salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-
         mystery-of-canadian-musician-lewis-1.2903235
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 11]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
 
 Author's Address
 
@@ -725,4 +655,18 @@ Author's Address
 
 
 
-Levin                  Expires September 29, 2015              [Page 13]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 12]

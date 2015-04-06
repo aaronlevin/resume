@@ -282,58 +282,7 @@
     <!-- SECTION: RELEVANT TECH -->
     <section title="Relevant Technological Experience" anchor="tech-experience">
 
-      <section title="Programming Languages" anchor="programming-languages">
-
-        <section title="Quantifying Programming Language Knowledge">
-
-          <t>
-            Below is a list of Programming Languages I have used in production.
-          </t>
-          <t>Communicating expertise in a programming language is nuanced. The usual metric (number of years of experience) is flawed; it does not accurately capture foundational understanding in a language. Someone with three years of experience in a language as a compiler designer is going to have a much deeper and foundational understanding than someone who has used said language in their career. 
-          </t>
-          <t>To overcome this limitation, I've created a number of levels and a curve to represent an individual's understanding at each level. The scale is Fibonacci, which I chose arbitrarily.
-          </t>
-          <t>
-            <figure alt='[Fibonacci Scale]'>
-              <preamble>PL Understanding as a Fibonacci Sequence</preamble>
-              <artwork>
-
-                understanding
-                 ^
-               13|                    .
-               12|                   `
-               11|                   |
-               10|                   |
-                9|                  /
-                8|                 ;
-                7|                 |
-                6|                /
-                5|              _/
-                4|             /
-                3|          ._/
-                2|      .__/
-                1|_____/
-                /---------------------> level
-                0  1  2  3  4  5  6  7
-              </artwork>
-              <postamble>As one increases level, understanding increases dramatically.</postamble>
-            </figure>
-          </t>
-        <t>
-          <!-- Formatting here ensures each level is enumerated correctly -->
-          <list style="format Level %d:">
-            <t>Have read about this language and potentially written a Hello World program.</t>
-            <t>Have written trivial programs and am familiar with the language's paradigms.</t>
-            <t>Can write a trivial program and am familiar with the build tools. Alternatively, this level may include languages I may have been proficient in many years ago, but time has waned my expertise.</t>
-            <t>Can write non-trivial programs and reason about performance. Am aware of some of the major libraries and frameworks, though not an expert in their design.</t>
-            <t>Can write and maintain large projects in this language. Have obtained deeper understanding of runtime and compiler nuances.</t>
-            <t>Have written and maintained very large projects in this language, using a multitude of tools to reason and improve performance.</t>
-            <t>You are <eref target="https://github.com/ekmett">Edward Kmett</eref>.</t>
-          </list>
-        </t>
-
-      </section>
-      <section title="Programming Language Knowledge">
+      <section title="Programming Languages">
       <t>
         <list style="symbols">
           <t>Haskell: 5</t>
@@ -354,77 +303,76 @@
           </list>
         </t>
       </section>
-    </section>
 
-    <section title="Paradigms and Protocols">
-      <t>
-        Paradigms:
-        <list style="symbols">
-          <t>Pure, Functional Programming</t>
-          <t>Object Oriented Programming (OOP</t>
-          <t>Continuation-Passing Style (CPS)</t>
-          <t>REST</t>
-          <t>Symmetric and Asymmetric Encryption</t>
-          <t>(E)DSLs</t>
-        </list>
-        Protocols:
-        <list style="symbols">
-          <t>HTTP/1.1</t>
-          <t>TCP/IP</t>
-          <t>UDP</t>
-          <t>OAuth 2.0</t>
-          <t>JWT</t>
-          <t>AES Encryption (Counter mode with CBC-MAC (CCM))</t>
-          <t>ECC Encryption</t>
-        </list>
-        Protocols I have used but don't feel confident saying I understand them:
-        <list style="symbols">
-          <t>Bluetooth Smart (Bluetooth Low Energy)</t>
-          <t>GATT</t>
-          <t>Memcached</t>
-        </list>
-      </t>
-    </section>
-
-      <section title="Data Stores">
+      <section title="Paradigms and Protocols">
         <t>
-          SQL:
+          Paradigms:
           <list style="symbols">
-            <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
-            <t><eref target="https://www.mysql.com/">MySQL</eref></t>
-            <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
+            <t>Pure, Functional Programming</t>
+            <t>Object Oriented Programming (OOP</t>
+            <t>Continuation-Passing Style (CPS)</t>
+            <t>REST</t>
+            <t>Symmetric and Asymmetric Encryption</t>
+            <t>(E)DSLs</t>
           </list>
-          Non-SQL
+          Protocols:
           <list style="symbols">
-            <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
-            <t><eref target="http://redis.io/">Redis</eref></t>
-            <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
-            <t><eref target="http://memcached.org/">memcached</eref></t>
-            <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
-            <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
-            <t><eref target="http://www.datomic.com/">Datomic</eref></t>
+            <t>HTTP/1.1</t>
+            <t>TCP/IP</t>
+            <t>UDP</t>
+            <t>OAuth 2.0</t>
+            <t>JWT</t>
+            <t>AES Encryption (Counter mode with CBC-MAC (CCM))</t>
+            <t>ECC Encryption</t>
+          </list>
+          Protocols I have used but don't feel confident saying I understand them:
+          <list style="symbols">
+            <t>Bluetooth Smart (Bluetooth Low Energy)</t>
+            <t>GATT</t>
+            <t>Memcached</t>
           </list>
         </t>
       </section>
 
-      <section title="Message Queues">
-        <t>
-          <list style="symbols">
-            <t><eref target="https://www.rabbitmq.com/">RabbitMQ</eref></t>
-          </list>
-        </t>
-      </section>
+        <section title="Data Stores">
+          <t>
+            SQL:
+            <list style="symbols">
+              <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
+              <t><eref target="https://www.mysql.com/">MySQL</eref></t>
+              <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
+            </list>
+            Non-SQL
+            <list style="symbols">
+              <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
+              <t><eref target="http://redis.io/">Redis</eref></t>
+              <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
+              <t><eref target="http://memcached.org/">memcached</eref></t>
+              <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
+              <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
+              <t><eref target="http://www.datomic.com/">Datomic</eref></t>
+            </list>
+          </t>
+        </section>
 
-      <section title="Infrastructure">
-        <t>
-          <list style="symbols">
-            <t><eref target="http://aws.amazon.com/">Amazon Web Services (AWS)</eref></t>
-            <t><eref target="https://cloud.google.com/compute/">Google Compute Engine (GCE)</eref></t>
-            <t><eref target="https://cloud.google.com/container-engine/">Google Container Engine (GKE)</eref></t>
-            <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
-          </list>
-        </t>
-      </section>
+        <section title="Message Queues">
+          <t>
+            <list style="symbols">
+              <t><eref target="https://www.rabbitmq.com/">RabbitMQ</eref></t>
+            </list>
+          </t>
+        </section>
+
+        <section title="Infrastructure">
+          <t>
+            <list style="symbols">
+              <t><eref target="http://aws.amazon.com/">Amazon Web Services (AWS)</eref></t>
+              <t><eref target="https://cloud.google.com/compute/">Google Compute Engine (GCE)</eref></t>
+              <t><eref target="https://cloud.google.com/container-engine/">Google Container Engine (GKE)</eref></t>
+              <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
+            </list>
+          </t>
+        </section>
 
 
     </section>
