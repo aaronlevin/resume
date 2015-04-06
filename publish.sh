@@ -11,6 +11,7 @@ main() {
 
   git stash
   git checkout gh-pages
+  git merge origin/master
   cp resume.html index.html
   git add index.html
   git commit -m "publish resume"
