@@ -70,14 +70,14 @@ Table of Contents
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   3
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
-     2.2.  MSc. Physics (University of Waterloo) . . . . . . . . . .   3
+     2.2.  MSc. Physics (noncompleted) (University of Waterloo)  . .   3
      2.3.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   4
    4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   4
      4.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   4
-     4.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   4
+     4.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   5
      4.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   5
-     4.4.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   5
+     4.4.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   6
      4.5.  Web Analytics Specialist @ Mediative  . . . . . . . . . .   6
      4.6.  Ad Operations and Analytics Manager @ Investopedia.com  .   6
    5.  Relevant Technological Experience . . . . . . . . . . . . . .   7
@@ -88,13 +88,13 @@ Table of Contents
      5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   9
      5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   9
      5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   9
-   6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   9
-     6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   9
+   6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .  10
+     6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .  10
      6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .  10
    7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .  10
    8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .  10
      8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .  10
-     8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .  10
+     8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .  11
      8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  11
      8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  11
      9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  11
@@ -139,7 +139,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    researches and scientists to use Perron-Frobenius in a broader class
    of Banach spaces.
 
-2.2.  MSc.  Physics (University of Waterloo)
+2.2.  MSc.  Physics (noncompleted) (University of Waterloo)
 
    *  Specialized in Condensed Matter Physics (High-Temperature
       Superconductors)
@@ -153,7 +153,8 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    Achim Kempf [5] on the mathematical foundations of Quantum Mecahnics.
    This course inspired me to obtain a deeper understanding of Banach
    Algebras and as a result I left my masters program to study
-   Functional Analysis.
+   Functional Analysis.  I completed all course work but did not submit
+   a thesis.
 
 2.3.  BSc.  Engineering Physics (University of Alberta)
 
@@ -161,7 +162,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Honours thesis: analyzing time-resolved optical properties of
       continuum-generated probe pulses.
    *  1999 - 2004
-   *  Thesis supervisor: Frank Hegmann [6]
 
 
 
@@ -170,6 +170,7 @@ Levin                  Expires September 29, 2015               [Page 3]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+   *  Thesis supervisor: Frank Hegmann [6]
    *  GPA: 3.8
 
    During my undergraduate degree I focused on obtaining a strong
@@ -213,11 +214,10 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  JWT
    *  PostgreSQL
 
-4.2.  Data Scientist @ Demeure
 
-   *  January 2014 - September 2014
-   *  Search and Data infrastructure powered by Apache Storm,
-      Elasticsearch, and DynamoDB.
+
+
+
 
 
 
@@ -226,6 +226,11 @@ Levin                  Expires September 29, 2015               [Page 4]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+4.2.  Data Scientist @ Demeure
+
+   *  January 2014 - September 2014
+   *  Search and Data infrastructure powered by Apache Storm,
+      Elasticsearch, and DynamoDB.
    *  url: https://www.metamarketplace.com/
 
    At Demeure/Metamarketplace I was hired to design and build their data
@@ -267,12 +272,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  memcached
    *  Python
 
-4.4.  Content Analyst @ Kobo
 
-   *  May 2012 - August 2012
-   *  Developing unique algorithms to monitor content performance and
-      pricing strategies for Kobo's eBooks.
-   *  url: https://store.kobobooks.com/en-ca/
 
 
 
@@ -281,6 +281,13 @@ Levin                  Expires September 29, 2015               [Page 5]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+4.4.  Content Analyst @ Kobo
+
+   *  May 2012 - August 2012
+   *  Developing unique algorithms to monitor content performance and
+      pricing strategies for Kobo's eBooks.
+   *  url: https://store.kobobooks.com/en-ca/
 
    As a Content Analyst at Kobo I was charged with monitoring and
    analyzing the pricing of eBooks across Kobo's global catalogue.  I
@@ -324,19 +331,19 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    Marketing, CPW, SEM) totallying $9M annually (while adhereing to IAB
    standards).
 
-   Relevant technology:
-
-   *  PHP
-   *  24/7 Real Media Open Adstream
-   *  Google Analytics
-   *  Adobe Omniture
-
 
 
 Levin                  Expires September 29, 2015               [Page 6]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+   Relevant technology:
+
+   *  PHP
+   *  24/7 Real Media Open Adstream
+   *  Google Analytics
+   *  Adobe Omniture
 
 5.  Relevant Technological Experience
 
@@ -380,13 +387,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    As one increases level, understanding increases dramatically.
 
-   Level 1:  Have read about this language and potentially written a
-             Hello World program.
-   Level 2:  Have written trivial programs and am familiar with the
-             language's paradigms.
-   Level 3:  Can write a trivial program and am familiar with the build
-             tools.  Alternatively, this level may include languages I
-
 
 
 Levin                  Expires September 29, 2015               [Page 7]
@@ -394,6 +394,12 @@ Levin                  Expires September 29, 2015               [Page 7]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+   Level 1:  Have read about this language and potentially written a
+             Hello World program.
+   Level 2:  Have written trivial programs and am familiar with the
+             language's paradigms.
+   Level 3:  Can write a trivial program and am familiar with the build
+             tools.  Alternatively, this level may include languages I
              may have been proficient in many years ago, but time has
              waned my expertise.
    Level 4:  Can write non-trivial programs and reason about
@@ -436,12 +442,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Symmetric and Asymmetric Encryption
    *  (E)DSLs
 
-   Protocols:
-
-   *  HTTP/1.1
-   *  TCP/IP
-   *  UDP
-   *  OAuth 2.0
 
 
 
@@ -450,6 +450,12 @@ Levin                  Expires September 29, 2015               [Page 8]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+   Protocols:
+
+   *  HTTP/1.1
+   *  TCP/IP
+   *  UDP
+   *  OAuth 2.0
    *  JWT
    *  AES Encryption (Counter mode with CBC-MAC (CCM))
    *  ECC Encryption
@@ -490,13 +496,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Google Container Engine (GKE) [41]
    *  Apache Storm [42]
 
-6.  Talks and Public Speaking
 
-6.1.  Tech Talks
-
-   *  Dependent Haskell (Intersections KW, April 2015)
-   *  Commutativity and Quantum Mechanics (Intersections KW, February
-      2015)
 
 
 
@@ -506,6 +506,13 @@ Levin                  Expires September 29, 2015               [Page 9]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+6.  Talks and Public Speaking
+
+6.1.  Tech Talks
+
+   *  Dependent Haskell (Intersections KW, April 2015)
+   *  Commutativity and Quantum Mechanics (Intersections KW, February
+      2015)
    *  The Algebra of Algebraic Data Types and the Calculus of Mutations
       (Intersections KW, August 2014)
    *  What is Monad?  (Scala MeetUp, April 2014)
@@ -545,6 +552,16 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    volunteers, is fully bilingual, ad-free, and has representation in
    every province and territory in Canada.
 
+
+
+
+
+
+Levin                  Expires September 29, 2015              [Page 10]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    I am currently Weird Canada's Creative Director and my main duties
    involve ensuring the site's curatorial vision [45] is maintained
    across the site and our online store Wyrd Distro [46].
@@ -554,14 +571,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    Steven Taschuk [47] and I founded Intersections KW to create a space
    of enthusiasm for pure mathematics, programming languages, computer
    science, and data science.  We've had over eight meetups and hosted
-
-
-
-Levin                  Expires September 29, 2015              [Page 10]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
    talks from Christopher Olah and Russell O'Connor on diverse topics
    such as Constructive Logic, Deep Neural Networks, and inventing
    Bezier splines in the age of Archimedes.
@@ -602,6 +611,13 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    [6] https://uofa.ualberta.ca/physics/people/people-collection/frank-
        hegmann
 
+
+
+Levin                  Expires September 29, 2015              [Page 11]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    [17] https://storm.apache.org/
 
    [18] https://www.elastic.co/
@@ -609,14 +625,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    [19] http://aws.amazon.com/dynamodb/
 
    [20] http://clojure.org/
-
-
-
-
-Levin                  Expires September 29, 2015              [Page 11]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
    [21] http://clojure.org/
 
@@ -658,14 +666,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [44] http://marieflanagan.com
 
-   [45]
-
-   [46] https://distro.weirdcanada.com
-
-   [47] http://www.amotlpaa.org/
-
-   [48] https://www.dhamma.org/en-US/index
-
 
 
 
@@ -673,6 +673,14 @@ Levin                  Expires September 29, 2015              [Page 12]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+   [45]
+
+   [46] https://distro.weirdcanada.com
+
+   [47] http://www.amotlpaa.org/
+
+   [48] https://www.dhamma.org/en-US/index
 
    [49] http://en.wikipedia.org/wiki/Lewis_%28musician%29
 
@@ -690,14 +698,6 @@ Author's Address
    Phone: +1 416-727-2977
    Email: vilevin@gmail.com
    URI:   http://aaronlevin.ca
-
-
-
-
-
-
-
-
 
 
 
