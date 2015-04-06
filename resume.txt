@@ -72,31 +72,31 @@ Table of Contents
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
      2.2.  MSc. Physics (non-completed) (University of Waterloo) . .   3
      2.3.  BSc. Engineering Physics (University of Alberta)  . . . .   3
-   3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   4
+   3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   3
    4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   4
      4.1.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   4
-     4.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   5
+     4.2.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   4
      4.3.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   5
-     4.4.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   6
-     4.5.  Web Analytics Specialist @ Mediative  . . . . . . . . . .   6
+     4.4.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   5
+     4.5.  Web Analytics Specialist @ Mediative  . . . . . . . . . .   5
      4.6.  Ad Operations and Analytics Manager @ Investopedia.com  .   6
-   5.  Relevant Technological Experience . . . . . . . . . . . . . .   7
-     5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   7
-     5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   7
-     5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   8
-     5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   8
-     5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   8
-   6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   8
-     6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   8
-     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   9
-   7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .   9
-   8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .   9
-     8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .   9
-     8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .   9
-     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  10
-     8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  10
-     9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  10
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  12
+   5.  Relevant Technological Experience . . . . . . . . . . . . . .   6
+     5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   6
+     5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   6
+     5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   7
+     5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   7
+     5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   7
+   6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   7
+     6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   7
+     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   8
+   7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .   8
+   8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .   8
+     8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .   8
+     8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .   8
+     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .   9
+     8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .   9
+     9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  11
 
 1.  Introduction
 
@@ -134,11 +134,6 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    theorem on matrices to semigroups of positive operators on infinite-
    dimensional Banach lattices.
 
-   The Perron-Frobenius theorem is used extensively in machine learning,
-   specifically in Google's PageRank algorithm.  My work empowered
-   researches and scientists to use Perron-Frobenius in a broader class
-   of Banach spaces.
-
 2.2.  MSc.  Physics (non-completed) (University of Waterloo)
 
    *  Specialized in Condensed Matter Physics (High-Temperature
@@ -149,28 +144,13 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    Under the supervision of Dr. Thomas Devereaux I modeled electric
    fields in high-temperature superconductors using Ewald summation [4].
 
-   During my time at the University of Waterloo I took a course with Dr.
-   Achim Kempf [5] on the mathematical foundations of Quantum Mecahnics.
-   This course inspired me to obtain a deeper understanding of Banach
-   Algebras and as a result I left my masters program to study
-   Functional Analysis.  I completed all course work but did not submit
-   a thesis.
-
 2.3.  BSc.  Engineering Physics (University of Alberta)
 
    *  Specialized in Computational Physics
    *  Honours thesis: analyzing time-resolved optical properties of
       continuum-generated probe pulses.
    *  1999 - 2004
-
-
-
-Levin                  Expires September 29, 2015               [Page 3]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
-   *  Thesis supervisor: Frank Hegmann [6]
+   *  Thesis supervisor: Frank Hegmann [5]
    *  GPA: 3.8
 
    During my undergraduate degree I focused on obtaining a strong
@@ -182,6 +162,14 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Personal website: http://aaronlevin.ca
    *  GitHub: https://github.com/aaronlevin
    *  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin )
+
+
+
+Levin                  Expires September 29, 2015               [Page 3]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    *  Keybase: https://keybase.io/aaronlevin
    *  Stack Overflow: http://stackoverflow.com/users/1308975/aaronlevin
    *  Haskellers: http://www.haskellers.com/user/aaronlevin
@@ -193,13 +181,10 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 4.1.  Sr. Software Engineer @ Aterica Health
 
    *  September 2014 - present
-   *  Designing and building scalable systems for network-aware,
-      embedded devices (IoT) built to improve health and save lives.
    *  url: https://www.aterica.com/
 
-   At Aterica I am responsible for the implementation and design of a
-   system to improve vigilance for people who suffer anaphylaxis and
-   require an EpiPen(R).
+   Designing and building scalable systems for network-aware, embedded
+   devices (IoT) built to improve health and save lives.
 
    Relevant technology:
 
@@ -214,7 +199,22 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  JWT
    *  PostgreSQL
 
+4.2.  Data Scientist @ Demeure
 
+   *  January 2014 - September 2014
+   *  url: https://www.metamarketplace.com/
+
+   Search and Data infrastructure powered by Apache Storm,
+   Elasticsearch, and DynamoDB.
+
+   Relevant technology:
+
+   *  Apache Storm [16]
+   *  elasticsearch [17]
+   *  DynamoDB [18]
+   *  Ruby [19]
+   *  Clojure [20]
+   *  Java [21]
 
 
 
@@ -226,41 +226,13 @@ Levin                  Expires September 29, 2015               [Page 4]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-4.2.  Data Scientist @ Demeure
-
-   *  January 2014 - September 2014
-   *  Search and Data infrastructure powered by Apache Storm,
-      Elasticsearch, and DynamoDB.
-   *  url: https://www.metamarketplace.com/
-
-   At Demeure/Metamarketplace I was hired to design and build their data
-   infrastructure.  As a B2B marketplace, we were challenged with
-   consuming a significant volume of events.  I chose Apache Storm for
-   its distributed foundation and multi-language interop.  Events were
-   consumed and processed by Apache Storm, indexed in Elasticsearch, and
-   stored in DynamoDB.
-
-   Relevant technology:
-
-   *  Apache Storm [17]
-   *  elasticsearch [18]
-   *  DynamoDB [19]
-   *  Ruby [20]
-   *  Clojure [21]
-   *  Java [22]
-
 4.3.  Software Engineer @ Sortable
 
    *  August 2012 - January 2014
-   *  Full-stack engineer building a product comparison platform
-      empowering consumers to make decisions easier and data-driven.
    *  url: http://sortable.com/
 
-   As a full-stack I helped design, build, and support our product
-   comparison platform at every layer: data storage, search, web
-   servers, caching, front-end, deployment, and job processing.  Our
-   platform crawled the web, indexing tens of thousands of product data,
-   which we made available to our users.
+   Full-stack engineer building a product comparison platform empowering
+   consumers to make decisions easier and data-driven.
 
    Relevant technology:
 
@@ -272,27 +244,13 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  memcached
    *  Python
 
-
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 5]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
-
 4.4.  Content Analyst @ Kobo
 
    *  May 2012 - August 2012
-   *  Developing unique algorithms to monitor content performance and
-      pricing strategies for Kobo's eBooks.
    *  url: https://store.kobobooks.com/en-ca/
 
-   As a Content Analyst at Kobo I was charged with monitoring and
-   analyzing the pricing of eBooks across Kobo's global catalogue.  I
-   liaised with Kobo's Big Data team and online merchandisers to ensure
-   books in the right country and category had the best price.
+   Developing unique algorithms to monitor content performance and
+   pricing strategies for Kobo's eBooks.
 
    Relevant technology:
 
@@ -303,15 +261,10 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 4.5.  Web Analytics Specialist @ Mediative
 
    *  October 2011 - March 2012
-   *  As a lead analyst, I delivered highly-actionable and creative
-      dashboards for our clients
    *  url: http://www.mediative.com/
 
-   At Mediative I overhauled their existing client reporting
-   infrastructure from design philosophy to technology.  Working
-   directly with the CSO, I lead the development of a proprietary
-   digital strategy tool that leveraged data-driven analytical insights
-   to produce cross-channel marketing objectives.
+   As a lead analyst, I delivered highly-actionable and creative
+   dashboards for our clients
 
    Relevant technology:
 
@@ -319,24 +272,23 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Excel
    *  Google Analytics
 
-4.6.  Ad Operations and Analytics Manager @ Investopedia.com
-
-   *  September 2009 - October 2011
-   *  I managed all advertising and analytical activities for
-      Investopedia.com, totalling $9M in revenue annually.
-   *  url: https://www.investopedia.com
-
-   As the manager of Ad Operations and Analytics, I lead and grew all
-   advertising revenue initiatives (Display Advertising, E-Mail
-   Marketing, CPW, SEM) totallying $9M annually (while adhereing to IAB
-   standards).
 
 
 
-Levin                  Expires September 29, 2015               [Page 6]
+
+
+Levin                  Expires September 29, 2015               [Page 5]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
+
+4.6.  Ad Operations and Analytics Manager @ Investopedia.com
+
+   *  September 2009 - October 2011
+   *  url: https://www.investopedia.com
+
+   I managed and grew all advertising and analytical activities for
+   Investopedia.com, totalling $9M in revenue annually.
 
    Relevant technology:
 
@@ -349,21 +301,21 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 5.1.  Programming Languages
 
-   *  Haskell: 5
-   *  Scala: 5
-   *  Bash: 5
-   *  Python: 4
-   *  Java: 4
-   *  Clojure: 3
-   *  Ruby: 3
-   *  JavaScript: 3
-   *  C++: 3
-   *  C: 3
-   *  R: 2
-   *  MC68800 Assembly: 2
-   *  Idris: 2
-   *  Intuitionistic Logic: 2
-   *  Agda: 1
+   *  Haskell
+   *  Scala
+   *  Bash
+   *  Python
+   *  Java
+   *  Clojure
+   *  Ruby
+   *  JavaScript
+   *  C++
+   *  C
+   *  R
+   *  MC68800 Assembly
+   *  Idris
+   *  Intuitionistic Logic
+   *  Agda
 
 5.2.  Paradigms and Protocols
 
@@ -378,6 +330,14 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    Protocols:
 
+
+
+
+Levin                  Expires September 29, 2015               [Page 6]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
    *  HTTP/1.1
    *  TCP/IP
    *  UDP
@@ -385,6 +345,46 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  JWT
    *  AES Encryption (Counter mode with CBC-MAC (CCM))
    *  ECC Encryption
+   *  Bluetooth Smart (Bluetooth Low Energy)
+   *  GATT
+   *  Memcached
+
+5.3.  Data Stores
+
+   SQL:
+
+   *  PostgreSQL [26]
+   *  MySQL [27]
+   *  SQLServer [28]
+
+   Non-SQL
+
+   *  DynamoDB [29]
+   *  Redis [30]
+   *  elasticsearch [31]
+   *  memcached [32]
+   *  etcd [33]
+   *  MongoDB [34]
+   *  Datomic [35]
+
+5.4.  Message Queues
+
+   *  RabbitMQ [36]
+
+5.5.  Infrastructure
+
+   *  Amazon Web Services (AWS) [37]
+   *  Google Compute Engine (GCE) [38]
+   *  Google Container Engine (GKE) [39]
+   *  Apache Storm [40]
+
+6.  Talks and Public Speaking
+
+6.1.  Tech Talks
+
+   *  Dependent Haskell (Intersections KW, April 2015)
+   *  Commutativity and Quantum Mechanics (Intersections KW, February
+      2015)
 
 
 
@@ -394,61 +394,9 @@ Levin                  Expires September 29, 2015               [Page 7]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   Protocols I have used but don't feel confident saying I understand
-   them:
-
-   *  Bluetooth Smart (Bluetooth Low Energy)
-   *  GATT
-   *  Memcached
-
-5.3.  Data Stores
-
-   SQL:
-
-   *  PostgreSQL [27]
-   *  MySQL [28]
-   *  SQLServer [29]
-
-   Non-SQL
-
-   *  DynamoDB [30]
-   *  Redis [31]
-   *  elasticsearch [32]
-   *  memcached [33]
-   *  etcd [34]
-   *  MongoDB [35]
-   *  Datomic [36]
-
-5.4.  Message Queues
-
-   *  RabbitMQ [37]
-
-5.5.  Infrastructure
-
-   *  Amazon Web Services (AWS) [38]
-   *  Google Compute Engine (GCE) [39]
-   *  Google Container Engine (GKE) [40]
-   *  Apache Storm [41]
-
-6.  Talks and Public Speaking
-
-6.1.  Tech Talks
-
-   *  Dependent Haskell (Intersections KW, April 2015)
-   *  Commutativity and Quantum Mechanics (Intersections KW, February
-      2015)
    *  The Algebra of Algebraic Data Types and the Calculus of Mutations
       (Intersections KW, August 2014)
    *  What is Monad?  (Scala MeetUp, April 2014)
-
-
-
-
-
-Levin                  Expires September 29, 2015               [Page 8]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
 6.2.  Art and Culture Talks
 
@@ -476,39 +424,39 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 8.1.  Weird Canada / Wyrd Arts Initiatives
 
-   I founded Weird Canada [42] in 2009 to create a space for people to
+   I founded Weird Canada [41] in 2009 to create a space for people to
    enthuse about emerging and experimental Canadian music.  Despite
    Weird Canada's focus on physically-released (often cassette), fringe
    music, the site grew to national acclaim, eventually winning CBC
    Radio 3's "Best Indie Music Website in Canada" award.  After the hard
-   work of Executive Director Marie Flanagan [43], the site has over 500
+   work of Executive Director Marie Flanagan [42], the site has over 500
    volunteers, is fully bilingual, ad-free, and has representation in
    every province and territory in Canada.
 
    I am currently Weird Canada's Creative Director and my main duties
-   involve ensuring the site's curatorial vision [44] is maintained
-   across the site and our online store Wyrd Distro [45].
+   involve ensuring the site's curatorial vision [43] is maintained
+   across the site and our online store Wyrd Distro [44].
 
 8.2.  Intersections KW
 
-   Steven Taschuk [46] and I founded Intersections KW to create a space
+   Steven Taschuk [45] and I founded Intersections KW to create a space
    of enthusiasm for pure mathematics, programming languages, computer
    science, and data science.  We've had over eight meetups and hosted
-   talks from Christopher Olah and Russell O'Connor on diverse topics
-   such as Constructive Logic, Deep Neural Networks, and inventing
-   Bezier splines in the age of Archimedes.
 
 
 
-
-Levin                  Expires September 29, 2015               [Page 9]
+Levin                  Expires September 29, 2015               [Page 8]
 
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
+   talks from Christopher Olah and Russell O'Connor on diverse topics
+   such as Constructive Logic, Deep Neural Networks, and inventing
+   Bezier splines in the age of Archimedes.
+
 8.3.  Vipassana Meditation
 
-   I am a Vipassana [47] meditator as taught by S.  N.  Goenka.  Each
+   I am a Vipassana [46] meditator as taught by S.  N.  Goenka.  Each
    year I take a 10-day course where we practice silent meditation for
    11hrs. each day.
 
@@ -519,11 +467,11 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    Canadian music from the 60s, 70s, and 80s, especially experimental or
    fringe music.
 
-   In 2007, a friend and I found a record by an artist named Lewis [48].
+   In 2007, a friend and I found a record by an artist named Lewis [47].
    After many years of champion the strange, unassuming LP within
    underground communities of record collectors, Lewis' album found
    international notoriety for reasons I still don't properly
-   understand.  I was even interviewed on CBC's As It Happens [49].
+   understand.  I was even interviewed on CBC's As It Happens [48].
 
 9.  References
 
@@ -537,22 +485,74 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    [4] http://en.wikipedia.org/wiki/Ewald_summation
 
-   [5] http://www.math.uwaterloo.ca/~akempf/
-
-   [6] https://uofa.ualberta.ca/physics/people/people-collection/frank-
+   [5] https://uofa.ualberta.ca/physics/people/people-collection/frank-
        hegmann
 
-   [17] https://storm.apache.org/
+   [16] https://storm.apache.org/
 
-   [18] https://www.elastic.co/
+   [17] https://www.elastic.co/
 
-   [19] http://aws.amazon.com/dynamodb/
+   [18] http://aws.amazon.com/dynamodb/
+
+   [19] http://clojure.org/
 
    [20] http://clojure.org/
 
-   [21] http://clojure.org/
 
-   [22] https://www.java.com/en/
+
+
+Levin                  Expires September 29, 2015               [Page 9]
+
+Internet-Draft         Curriculum Vitae // Resume             March 2015
+
+
+   [21] https://www.java.com/en/
+
+   [26] http://www.postgresql.org/
+
+   [27] https://www.mysql.com/
+
+   [28] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
+
+   [29] http://aws.amazon.com/dynamodb/
+
+   [30] http://redis.io/
+
+   [31] https://www.elastic.co/
+
+   [32] http://memcached.org/
+
+   [33] https://github.com/coreos/etcd
+
+   [34] https://www.mongodb.org/
+
+   [35] http://www.datomic.com/
+
+   [36] https://www.rabbitmq.com/
+
+   [37] http://aws.amazon.com/
+
+   [38] https://cloud.google.com/compute/
+
+   [39] https://cloud.google.com/container-engine/
+
+   [40] https://storm.apache.org/
+
+   [41] http://weirdcanada.com
+
+   [42] http://marieflanagan.com
+
+   [43]
+
+   [44] https://distro.weirdcanada.com
+
+   [45] http://www.amotlpaa.org/
+
+   [46] https://www.dhamma.org/en-US/index
+
+   [47] http://en.wikipedia.org/wiki/Lewis_%28musician%29
+
+
 
 
 
@@ -562,61 +562,9 @@ Levin                  Expires September 29, 2015              [Page 10]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   [27] http://www.postgresql.org/
-
-   [28] https://www.mysql.com/
-
-   [29] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
-
-   [30] http://aws.amazon.com/dynamodb/
-
-   [31] http://redis.io/
-
-   [32] https://www.elastic.co/
-
-   [33] http://memcached.org/
-
-   [34] https://github.com/coreos/etcd
-
-   [35] https://www.mongodb.org/
-
-   [36] http://www.datomic.com/
-
-   [37] https://www.rabbitmq.com/
-
-   [38] http://aws.amazon.com/
-
-   [39] https://cloud.google.com/compute/
-
-   [40] https://cloud.google.com/container-engine/
-
-   [41] https://storm.apache.org/
-
-   [42] http://weirdcanada.com
-
-   [43] http://marieflanagan.com
-
-   [44]
-
-   [45] https://distro.weirdcanada.com
-
-   [46] http://www.amotlpaa.org/
-
-   [47] https://www.dhamma.org/en-US/index
-
-   [48] http://en.wikipedia.org/wiki/Lewis_%28musician%29
-
-   [49] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
+   [48] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
         salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-
         mystery-of-canadian-musician-lewis-1.2903235
-
-
-
-
-Levin                  Expires September 29, 2015              [Page 11]
-
-Internet-Draft         Curriculum Vitae // Resume             March 2015
-
 
 Author's Address
 
@@ -665,8 +613,4 @@ Author's Address
 
 
 
-
-
-
-
-Levin                  Expires September 29, 2015              [Page 12]
+Levin                  Expires September 29, 2015              [Page 11]
