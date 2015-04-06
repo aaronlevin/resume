@@ -235,6 +235,47 @@
         </t>
       </section>
 
+      <section title="Web Analytics Specialist @ Mediative" anchor="work-mediative">
+        <t>
+          <list style="symbols">
+            <t>October 2011 - March 2012</t>
+            <t>As a lead analyst, I delivered highly-actionable and creative dashboards for our clients</t>
+            <t>url: <eref target="http://www.mediative.com/">http://www.mediative.com/</eref></t>
+          </list>
+        </t>
+        <t>
+          At Mediative I overhauled their existing client reporting infrastructure from design philosophy to technology. Working directly with the CSO, I lead the development of a proprietary digital strategy tool that leveraged data-driven analytical insights to produce cross-channel marketing objectives.
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Python</t>
+            <t>Excel</t>
+            <t>Google Analytics</t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Ad Operations and Analytics Manager @ Investopedia.com">
+        <t>
+          <list style="symbols">
+            <t>September 2009 - October 2001</t>
+            <t>I managed all advertising and analytical activities for Investopedia.com, totalling $9M in revenue annually.</t>
+            <t>url: <eref target="https://www.investopedia.com">https://www.investopedia.com</eref></t>
+          </list>
+        </t>
+        <t>
+          As the manager of Ad Operations and Analytics, I lead and grew all advertising revenue initiatives (Display Advertising, E-Mail Marketing, CPW, SEM) totallying $9M annually (while adhereing to IAB standards).
+        </t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>PHP</t>
+            <t>24/7 Real Media Open Adstream</t>
+            <t>Google Analytics</t>
+            <t>Adobe Omniture</t>
+          </list>
+        </t>
+      </section>
+
     <!-- /SECTION: RELEVANT WORK -->
     </section>
 
