@@ -151,8 +151,8 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
 
    During my time at the University of Waterloo I took a course with Dr.
    Achim Kempf [5] on the mathematical foundations of Quantum Mecahnics.
-   This course inspired me to obtain a deeperl understanding of pure
-   mathematics and as a result I left my masters program to study
+   This course inspired me to obtain a deeper understanding of Banach
+   Algebras and as a result I left my masters program to study
    Functional Analysis.
 
 2.3.  BSc.  Engineering Physics (University of Alberta)
