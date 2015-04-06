@@ -84,9 +84,6 @@
 
         <t>I accomplished original work in extending the Perron-Frobenius theorem on matrices to semigroups of positive operators on infinite-dimensional Banach lattices.
         </t>
-        <t>
-          The Perron-Frobenius theorem is used extensively in machine learning, specifically in Google's PageRank algorithm. My work empowered researches and scientists to use Perron-Frobenius in a broader class of Banach spaces.
-        </t>
       </section>
       <section title="MSc. Physics (non-completed) (University of Waterloo)">
         <t>
@@ -98,7 +95,6 @@
         </t>
 
         <t>Under the supervision of Dr. Thomas Devereaux I modeled electric fields in high-temperature superconductors using <eref target="http://en.wikipedia.org/wiki/Ewald_summation">Ewald summation</eref>.</t>
-        <t>During my time at the University of Waterloo I took a course with <eref target="http://www.math.uwaterloo.ca/~akempf/">Dr. Achim Kempf</eref> on the mathematical foundations of Quantum Mecahnics. This course inspired me to obtain a deeper understanding of Banach Algebras and as a result I left my masters program to study Functional Analysis. I completed all course work but did not submit a thesis.</t>
       </section>
       <section title="BSc. Engineering Physics (University of Alberta)">
         <t>
@@ -141,13 +137,10 @@
         <t>
           <list style="symbols">
             <t>September 2014 - present</t>
-            <t>Designing and building scalable systems for network-aware, embedded devices (IoT) built to improve health and save lives.</t>
             <t>url: <eref target="https://www.aterica.com/">https://www.aterica.com/</eref></t>
           </list>
         </t>
-        <t>
-          At Aterica I am responsible for the implementation and design of a system to improve vigilance for people who suffer anaphylaxis and require an EpiPen®.
-        </t>
+        <t>Designing and building scalable systems for network-aware, embedded devices (IoT) built to improve health and save lives.</t>
         <t>Relevant technology:
           <list style="symbols">
             <t>Haskell</t>
@@ -168,13 +161,10 @@
         <t>
           <list style="symbols">
             <t>January 2014 - September 2014</t>
-            <t>Search and Data infrastructure powered by Apache Storm, Elasticsearch, and DynamoDB.</t>
             <t>url: <eref target="https://www.metamarketplace.com/">https://www.metamarketplace.com/</eref></t>
           </list>
         </t>
-        <t>
-          At Demeure/Metamarketplace I was hired to design and build their data infrastructure. As a B2B marketplace, we were challenged with consuming a significant volume of events. I chose Apache Storm for its distributed foundation and multi-language interop. Events were consumed and processed by Apache Storm, indexed in Elasticsearch, and stored in DynamoDB.
-        </t>
+        <t>Search and Data infrastructure powered by Apache Storm, Elasticsearch, and DynamoDB.</t>
         <t>Relevant technology:
           <list style="symbols">
             <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
@@ -191,13 +181,10 @@
         <t>
           <list style="symbols">
             <t>August 2012 - January 2014</t>
-            <t>Full-stack engineer building a product comparison platform empowering consumers to make decisions easier and data-driven.</t>
             <t>url: <eref target="http://sortable.com/">http://sortable.com/</eref></t>
           </list>
         </t>
-        <t>
-          As a full-stack I helped design, build, and support our product comparison platform at every layer: data storage, search, web servers, caching, front-end, deployment, and job processing. Our platform crawled the web, indexing tens of thousands of product data, which we made available to our users.
-        </t>
+        <t>Full-stack engineer building a product comparison platform empowering consumers to make decisions easier and data-driven.</t>
         <t>Relevant technology:
           <list style="symbols">
             <t>Scala</t>
@@ -216,15 +203,12 @@
           <list style="symbols">
             <t>May 2012 - August 2012</t>
             <t>
-              Developing unique algorithms to monitor content performance and pricing strategies for Kobo's eBooks.
-            </t>
-            <t>
               url: <eref target="https://store.kobobooks.com/en-ca/">https://store.kobobooks.com/en-ca/</eref>
             </t>
           </list>
         </t>
         <t>
-          As a Content Analyst at Kobo I was charged with monitoring and analyzing the pricing of eBooks across Kobo's global catalogue. I liaised with Kobo's Big Data team and online merchandisers to ensure books in the right country and category had the best price.
+          Developing unique algorithms to monitor content performance and pricing strategies for Kobo's eBooks.
         </t>
         <t>Relevant technology:
           <list style="symbols">
@@ -239,13 +223,10 @@
         <t>
           <list style="symbols">
             <t>October 2011 - March 2012</t>
-            <t>As a lead analyst, I delivered highly-actionable and creative dashboards for our clients</t>
             <t>url: <eref target="http://www.mediative.com/">http://www.mediative.com/</eref></t>
           </list>
         </t>
-        <t>
-          At Mediative I overhauled their existing client reporting infrastructure from design philosophy to technology. Working directly with the CSO, I lead the development of a proprietary digital strategy tool that leveraged data-driven analytical insights to produce cross-channel marketing objectives.
-        </t>
+        <t>As a lead analyst, I delivered highly-actionable and creative dashboards for our clients</t>
         <t>Relevant technology:
           <list style="symbols">
             <t>Python</t>
@@ -259,13 +240,10 @@
         <t>
           <list style="symbols">
             <t>September 2009 - October 2011</t>
-            <t>I managed all advertising and analytical activities for Investopedia.com, totalling $9M in revenue annually.</t>
             <t>url: <eref target="https://www.investopedia.com">https://www.investopedia.com</eref></t>
           </list>
         </t>
-        <t>
-          As the manager of Ad Operations and Analytics, I lead and grew all advertising revenue initiatives (Display Advertising, E-Mail Marketing, CPW, SEM) totallying $9M annually (while adhereing to IAB standards).
-        </t>
+        <t>I managed and grew all advertising and analytical activities for Investopedia.com, totalling $9M in revenue annually.</t>
         <t>Relevant technology:
           <list style="symbols">
             <t>PHP</t>
@@ -282,149 +260,94 @@
     <!-- SECTION: RELEVANT TECH -->
     <section title="Relevant Technological Experience" anchor="tech-experience">
 
-      <section title="Programming Languages" anchor="programming-languages">
-
-        <section title="Quantifying Programming Language Knowledge">
-
-          <t>
-            Below is a list of Programming Languages I have used in production.
-          </t>
-          <t>Communicating expertise in a programming language is nuanced. The usual metric (number of years of experience) is flawed; it does not accurately capture foundational understanding in a language. Someone with three years of experience in a language as a compiler designer is going to have a much deeper and foundational understanding than someone who has used said language in their career. 
-          </t>
-          <t>To overcome this limitation, I've created a number of levels and a curve to represent an individual's understanding at each level. The scale is Fibonacci, which I chose arbitrarily.
-          </t>
-          <t>
-            <figure alt='[Fibonacci Scale]'>
-              <preamble>PL Understanding as a Fibonacci Sequence</preamble>
-              <artwork>
-
-                understanding
-                 ^
-               13|                    .
-               12|                   `
-               11|                   |
-               10|                   |
-                9|                  /
-                8|                 ;
-                7|                 |
-                6|                /
-                5|              _/
-                4|             /
-                3|          ._/
-                2|      .__/
-                1|_____/
-                /---------------------> level
-                0  1  2  3  4  5  6  7
-              </artwork>
-              <postamble>As one increases level, understanding increases dramatically.</postamble>
-            </figure>
-          </t>
-        <t>
-          <!-- Formatting here ensures each level is enumerated correctly -->
-          <list style="format Level %d:">
-            <t>Have read about this language and potentially written a Hello World program.</t>
-            <t>Have written trivial programs and am familiar with the language's paradigms.</t>
-            <t>Can write a trivial program and am familiar with the build tools. Alternatively, this level may include languages I may have been proficient in many years ago, but time has waned my expertise.</t>
-            <t>Can write non-trivial programs and reason about performance. Am aware of some of the major libraries and frameworks, though not an expert in their design.</t>
-            <t>Can write and maintain large projects in this language. Have obtained deeper understanding of runtime and compiler nuances.</t>
-            <t>Have written and maintained very large projects in this language, using a multitude of tools to reason and improve performance.</t>
-            <t>You are <eref target="https://github.com/ekmett">Edward Kmett</eref>.</t>
-          </list>
-        </t>
-
-      </section>
-      <section title="Programming Language Knowledge">
+      <section title="Programming Languages">
       <t>
         <list style="symbols">
-          <t>Haskell: 5</t>
-            <t>Scala: 5</t>
-            <t>Bash: 5</t>
-            <t>Python: 4</t>
-            <t>Java: 4</t>
-            <t>Clojure: 3</t>
-            <t>Ruby: 3</t>
-            <t>JavaScript: 3</t>
-            <t>C++: 3</t>
-            <t>C: 3</t>
-            <t>R: 2</t>
-            <t>MC68800 Assembly: 2</t>
-            <t>Idris: 2</t>
-            <t>Intuitionistic Logic: 2</t>
-            <t>Agda: 1</t>
+          <t>Haskell</t>
+            <t>Scala</t>
+            <t>Bash</t>
+            <t>Python</t>
+            <t>Java</t>
+            <t>Clojure</t>
+            <t>Ruby</t>
+            <t>JavaScript</t>
+            <t>C++</t>
+            <t>C</t>
+            <t>R</t>
+            <t>MC68800 Assembly</t>
+            <t>Idris</t>
+            <t>Intuitionistic Logic</t>
+            <t>Agda</t>
           </list>
         </t>
       </section>
-    </section>
 
-    <section title="Paradigms and Protocols">
-      <t>
-        Paradigms:
-        <list style="symbols">
-          <t>Pure, Functional Programming</t>
-          <t>Object Oriented Programming (OOP</t>
-          <t>Continuation-Passing Style (CPS)</t>
-          <t>REST</t>
-          <t>Symmetric and Asymmetric Encryption</t>
-          <t>(E)DSLs</t>
-        </list>
-        Protocols:
-        <list style="symbols">
-          <t>HTTP/1.1</t>
-          <t>TCP/IP</t>
-          <t>UDP</t>
-          <t>OAuth 2.0</t>
-          <t>JWT</t>
-          <t>AES Encryption (Counter mode with CBC-MAC (CCM))</t>
-          <t>ECC Encryption</t>
-        </list>
-        Protocols I have used but don't feel confident saying I understand them:
-        <list style="symbols">
-          <t>Bluetooth Smart (Bluetooth Low Energy)</t>
-          <t>GATT</t>
-          <t>Memcached</t>
-        </list>
-      </t>
-    </section>
-
-      <section title="Data Stores">
+      <section title="Paradigms and Protocols">
         <t>
-          SQL:
+          Paradigms:
           <list style="symbols">
-            <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
-            <t><eref target="https://www.mysql.com/">MySQL</eref></t>
-            <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
+            <t>Pure, Functional Programming</t>
+            <t>Object Oriented Programming (OOP</t>
+            <t>Continuation-Passing Style (CPS)</t>
+            <t>REST</t>
+            <t>Symmetric and Asymmetric Encryption</t>
+            <t>(E)DSLs</t>
           </list>
-          Non-SQL
+          Protocols:
           <list style="symbols">
-            <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
-            <t><eref target="http://redis.io/">Redis</eref></t>
-            <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
-            <t><eref target="http://memcached.org/">memcached</eref></t>
-            <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
-            <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
-            <t><eref target="http://www.datomic.com/">Datomic</eref></t>
-          </list>
-        </t>
-      </section>
-
-      <section title="Message Queues">
-        <t>
-          <list style="symbols">
-            <t><eref target="https://www.rabbitmq.com/">RabbitMQ</eref></t>
+            <t>HTTP/1.1</t>
+            <t>TCP/IP</t>
+            <t>UDP</t>
+            <t>OAuth 2.0</t>
+            <t>JWT</t>
+            <t>AES Encryption (Counter mode with CBC-MAC (CCM))</t>
+            <t>ECC Encryption</t>
+            <t>Bluetooth Smart (Bluetooth Low Energy)</t>
+            <t>GATT</t>
+            <t>Memcached</t>
           </list>
         </t>
       </section>
 
-      <section title="Infrastructure">
-        <t>
-          <list style="symbols">
-            <t><eref target="http://aws.amazon.com/">Amazon Web Services (AWS)</eref></t>
-            <t><eref target="https://cloud.google.com/compute/">Google Compute Engine (GCE)</eref></t>
-            <t><eref target="https://cloud.google.com/container-engine/">Google Container Engine (GKE)</eref></t>
-            <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
-          </list>
-        </t>
-      </section>
+        <section title="Data Stores">
+          <t>
+            SQL:
+            <list style="symbols">
+              <t><eref target="http://www.postgresql.org/">PostgreSQL</eref></t>
+              <t><eref target="https://www.mysql.com/">MySQL</eref></t>
+              <t><eref target="http://en.wikipedia.org/wiki/Microsoft_SQL_Server">SQLServer</eref></t>
+            </list>
+            Non-SQL
+            <list style="symbols">
+              <t><eref target="http://aws.amazon.com/dynamodb/">DynamoDB</eref></t>
+              <t><eref target="http://redis.io/">Redis</eref></t>
+              <t><eref target="https://www.elastic.co/">elasticsearch</eref></t>
+              <t><eref target="http://memcached.org/">memcached</eref></t>
+              <t><eref target="https://github.com/coreos/etcd">etcd</eref></t>
+              <t><eref target="https://www.mongodb.org/">MongoDB</eref></t>
+              <t><eref target="http://www.datomic.com/">Datomic</eref></t>
+            </list>
+          </t>
+        </section>
+
+        <section title="Message Queues">
+          <t>
+            <list style="symbols">
+              <t><eref target="https://www.rabbitmq.com/">RabbitMQ</eref></t>
+            </list>
+          </t>
+        </section>
+
+        <section title="Infrastructure">
+          <t>
+            <list style="symbols">
+              <t><eref target="http://aws.amazon.com/">Amazon Web Services (AWS)</eref></t>
+              <t><eref target="https://cloud.google.com/compute/">Google Compute Engine (GCE)</eref></t>
+              <t><eref target="https://cloud.google.com/container-engine/">Google Container Engine (GKE)</eref></t>
+              <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
+            </list>
+          </t>
+        </section>
 
 
     </section>
