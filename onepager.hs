@@ -7,10 +7,18 @@ import Text.XML.HXT.Core
 -- <front>{ ... this is XmlTree in newtype Wrapper Front .. }</front>
 -- so, when you're given a Front you don't need to call `getChildren`
 -- right away.
-newtype Author = Author { unAuthor :: String  } deriving (Show)
-newtype Front  = Front  { unFront  :: XmlTree } deriving (Show)
-newtype Middle = Middle { unMiddle :: XmlTree } deriving (Show)
-newtype RFC    = RFC    { unRFC    :: XmlTree } deriving (Show)
+newtype Abstract = Abstract { unAbstract :: String  } deriving (Show)
+newtype Author   = Author   { unAuthor   :: String  } deriving (Show)
+newtype Front    = Front    { unFront    :: XmlTree } deriving (Show)
+newtype Middle   = Middle   { unMiddle   :: XmlTree } deriving (Show)
+newtype RFC      = RFC      { unRFC      :: XmlTree } deriving (Show)
+
+-- | flatten structures like:
+-- <t><list><t>xxxx</t></list></t>
+deepT :: IOSArrow XmlTree String
+deepT = hasName "t" <+> hasName "list"
+        >>> getChildren
+        >>> (isElem `guards` deepT `orElse` getText)
 
 -- | Transform the top-level XmlTree into an RFC
 rfc :: IOSArrow XmlTree RFC
@@ -41,6 +49,16 @@ author = arr unFront
         >>> getAttrValue "fullname"
         >>> arr Author
 
+-- | arrow to transform Front xml elements into the abstract.
+abstract :: IOSArrow Front Abstract
+abstract = arr unFront
+        >>> hasName "abstract"
+        >>> getChildren
+        >>> hasName "t"
+        >>> getChildren
+        >>> getText
+        >>> arr Abstract
+
 -- | open a file and produce an `XmlTree`
 processor :: FilePath -> IOSArrow XmlTree XmlTree
 processor = readDocument [withValidate no]
@@ -51,5 +69,6 @@ main = do
     resume2 <- runX $ processor "resume.xml"
                     >>> rfc
                     >>> front
-                    >>> author
+                    >>> (arr unFront >>> hasName "abstract" >>> getChildren >>> deepT)
+                    -- >>> abstract
     print resume2
