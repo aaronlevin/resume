@@ -23,7 +23,7 @@ in
 nixpkgs.myEnvFun {
   name = "resume";
   buildInputs = [
-    nixpkgs.vim
+    # nixpkgs.vim
     nixpkgs.python27
     nixpkgs.pythonPackages.lxml
     python.xml2rfc
