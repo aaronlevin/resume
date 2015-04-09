@@ -101,9 +101,9 @@ Table of Contents
 1.  Introduction
 
    Hello.  I am Aaron Levin, a mathematician-turned software engineer.
-   I am excited by data-driven opportunities in environments that foster
-   creativity, diversity, and innovation.  I value openness, honesty,
-   empathy, and egolessness.
+   I am excited by data-driven opportunities in environments that
+   fosters creativity, diversity, and innovation.  I value openness,
+   honesty, empathy, and egolessness.
 
 
 
