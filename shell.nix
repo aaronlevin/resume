@@ -23,13 +23,13 @@ in
 nixpkgs.myEnvFun {
   name = "resume";
   buildInputs = [
-    nixpkgs.vim
+    # nixpkgs.vim
     nixpkgs.python27
     nixpkgs.pythonPackages.lxml
     python.xml2rfc
     python.requests
-    nixpkgs.haskellngPackages.ghc-mod
-    nixpkgs.haskellngPackages.ghc
-    nixpkgs.haskellngPackages.hxt
+    nixpkgs.haskellPackages.ghcMod
+    nixpkgs.haskellPackages.ghc
+    nixpkgs.haskellPackages.hxt
   ];
 }
