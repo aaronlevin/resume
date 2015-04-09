@@ -19,7 +19,7 @@
       l: https://ca.linkedin.com/in/aaronmblevin
       g: https://github.com/aaronlevin
 
-   I have experience navigating all layers of the stack. If you have an
+   I have experience navigating all layers of the stack.  If you have an
    opening involving functional programming, data engineering, Haskell,
    machine learning, or distributed systems, please get in touch!
 
@@ -50,7 +50,7 @@
                           2.  Work Experience
 
 
-1.1.  Sr. Software Engineer @ Aterica Health (https://www.aterica.com/)
+2.1.  Sr.  Software Engineer @ Aterica Health (https://www.aterica.com/)
 
    *  September 2014 - present
    *  Designing and building scalable systems for network-aware,
@@ -59,33 +59,33 @@
             Docker, Security and binary protocols for embedded devices
             (IoT), (E)DSLs, REST, OAuth 2.0, JWT, PostgreSQL
 
-3.2.  Data Scientist @ Demeure (https://www.metamarketplace.com/)
+2.2.  Data Scientist @ Demeure (https://www.metamarketplace.com/)
 
    *  January 2014 - September 2014
    *  Search and Data infrastructure powered by Apache Storm,
       Elasticsearch, and DynamoDB.
    *  tech: Apache Storm, elasticsearch, DynamoDB, Ruby, Clojure
 
-3.3.  Software Engineer @ Sortable (http://sortable.com/)
+2.3.  Software Engineer @ Sortable (http://sortable.com/)
 
    *  August 2012 - January 2014
    *  Full-stack engineer building a product comparison platform
       empowering consumers to make data-driven decisions.
    *  tech: Scala, AWS, Elasticsearch, PostgreSQL, Redis, Python
 
-3.4.  Content Analyst @ Kobo (https://store.kobobooks.com)
+2.4.  Content Analyst @ Kobo (https://store.kobobooks.com)
 
    *  May 2012 - August 2012
    *  Developing unique algorithms to monitor content performance and
       pricing strategies for Kobo's eBooks.
    *  tech: R, Python, SQLServer
 
-3.5.  Web Analytics Specialist @ Mediative (http://www.mediative.com/)
+2.5.  Web Analytics Specialist @ Mediative (http://www.mediative.com/)
 
    *  October 2011 - March 2012
    *  tech: Python, Excel, Google Analytics
 
-3.6.  Ad Operations and Analytics Manager @ Investopedia.com
+2.6.  Ad Operations and Analytics Manager @ Investopedia.com
 
    *  September 2009 - October 2011
    *  I managed and grew all advertising and analytical activities for
