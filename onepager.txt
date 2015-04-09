@@ -17,6 +17,7 @@
       t: @aaronmblevin
       w: http://aaronlevin.ca
       l: https://ca.linkedin.com/in/aaronmblevin
+      g: https://github.com/aaronlevin
 
    My full CV (RFC-style): http://aaronlevin.github.io/resume
 
