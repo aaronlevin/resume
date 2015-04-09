@@ -19,9 +19,9 @@
       l: https://ca.linkedin.com/in/aaronmblevin
       g: https://github.com/aaronlevin
 
-   I have experience navigating all layers of the stack and am excited
-   by opportunities involving functional programming, Haskell, machine
-   learning, and distributed systems.
+   I have experience navigating all layers of the stack. If you have an
+   opening involving functional programming, data engineering, Haskell,
+   machine learning, or distributed systems, please get in touch!
 
    Full CV (RFC-style): http://aaronlevin.github.io/resume
 
