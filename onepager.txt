@@ -4,10 +4,10 @@
                               0.  Abstract
 
 
-   Hello.  I am Aaron Levin. I am a mathematician-turned software
+   Hello.  My name is Aaron Levin.  I am a mathematician-turned software
    engineer.  I am excited by data-driven opportunities in environments
-   that foster creativity, diversity, and innovation.  I value openness,
-   honesty, empathy, and egolessness.
+   that fosters creativity, diversity, and innovation.  I value
+   openness, honesty, empathy, and egolessness.
 
    I currently resides in Waterloo, Ontario, Canada and can be contacted
    here:
@@ -19,7 +19,11 @@
       l: https://ca.linkedin.com/in/aaronmblevin
       g: https://github.com/aaronlevin
 
-   My full CV (RFC-style): http://aaronlevin.github.io/resume
+   I have experience navigating all layers of the stack and am excited
+   by opportunities involving functional programming, Haskell, machine
+   learning, and distributed systems.
+
+   Full CV (RFC-style): http://aaronlevin.github.io/resume
 
 
                              1.  Education
@@ -49,11 +53,11 @@
 1.1.  Sr. Software Engineer @ Aterica Health (https://www.aterica.com/)
 
    *  September 2014 - present
-   *  Designing and building scalable systems for network-aware, embedded
-      devices (IoT) built to improve health and save lives.
+   *  Designing and building scalable systems for network-aware,
+      embedded devices (IoT) built to improve health and save lives.
    *  tech: Haskell, Google Compute Engine, Google Container Engine,
             Docker, Security and binary protocols for embedded devices
-            (IoT), EDSLs, REST, OAuth 2.0, JWT, PostgreSQL
+            (IoT), (E)DSLs, REST, OAuth 2.0, JWT, PostgreSQL
 
 3.2.  Data Scientist @ Demeure (https://www.metamarketplace.com/)
 
@@ -65,8 +69,8 @@
 3.3.  Software Engineer @ Sortable (http://sortable.com/)
 
    *  August 2012 - January 2014
-   *  Full-stack engineer building a product comparison platform empowering
-      consumers to make decisions easier and data-driven.
+   *  Full-stack engineer building a product comparison platform
+      empowering consumers to make data-driven decisions.
    *  tech: Scala, AWS, Elasticsearch, PostgreSQL, Redis, Python
 
 3.4.  Content Analyst @ Kobo (https://store.kobobooks.com)
@@ -114,6 +118,7 @@
 
                      4.  Talks and Public Speaking
 
+
 4.1.  Tech Talks
 
    *  Dependent Haskell (Intersections KW, April 2015)
@@ -146,43 +151,3 @@
    *  Graduate Student Scholarship (University of Waterloo, 2005)
    *  NSERC Undergraduate Student Research Assistantship (Government of
       Canada, 2003)
-
-
-                    6.  Hobbies and Self Development
-
-
-6.1.  Weird Canada / Wyrd Arts Initiatives
-
-   I founded Weird Canada in 2009 to create a space for people to
-   enthuse about emerging and experimental Canadian music.  Despite
-   Weird Canada's focus on physically-released (often cassette), fringe
-   music, the site grew to national acclaim, eventually winning CBC
-   Radio 3's "Best Indie Music Website in Canada" award.  After the hard
-   work of Executive Director Marie Flanagan, the site has over 500
-   volunteers, is fully bilingual, ad-free, and has representation in
-   every province and territory in Canada.
-
-   I am currently Weird Canada's Creative Director and my main duties
-   involve ensuring the site's curatorial vision is maintained
-   across the site and our online store Wyrd Distro.
-
-6.2.  Intersections KW
-
-   Steven Taschuk and I founded Intersections KW to create a space
-   of enthusiasm for pure mathematics, programming languages, computer
-   science, and data science.  We've had over eight meetups and hosted
-   talks from Christopher Olah and Russell O'Connor on diverse topics
-   such as Constructive Logic, Deep Neural Networks, and inventing
-   Bezier splines in the age of Archimedes.
-
-6.3.  Vipassana Meditation
-
-   I am a Vipassana meditator as taught by S. N. Goenka.  Each year I
-   take a 10-day course where we practice silent meditation.
-
-6.4.  Record Collecting
-
-   For over fifteen years I have been collecting (and sometimes selling)
-   used records.  I have focused on independent and privately-released
-   Canadian music from the 60s, 70s, and 80s, especially experimental or
-   fringe music.
