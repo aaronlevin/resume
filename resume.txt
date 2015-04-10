@@ -100,10 +100,10 @@ Table of Contents
 
 1.  Introduction
 
-   Hello.  I am Aaron Levin, a mathematician-turned software engineer.
-   I am excited by data-driven opportunities in environments that
-   fosters creativity, diversity, and innovation.  I value openness,
-   honesty, empathy, and egolessness.
+   Hello.  My name is Aaron Levin.  I am a mathematician-turned software
+   engineer.  I am excited by data-driven opportunities in environments
+   that fosters creativity, diversity, and innovation.  I value
+   openness, honesty, empathy, and egolessness.
 
 
 
@@ -114,11 +114,10 @@ Levin                  Expires September 29, 2015               [Page 2]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   The engine behind my enthusiasm resides at the intersection of my
-   analytical background (MSc.  Mathematics) and my creative energies
-   (writing, design, and development).  Digital media presents a unique
-   opportunity to combine deep, analytical processes with, highly-
-   creative, user-oriented goals.
+   I have experience navigating all layers of the stack.  I am
+   passionate about solving challenging problems in functional
+   programming, data engineering, Haskell, machine learning, or
+   distributed systems.  If you have an opening, please get in touch!
 
 2.  Education
 
@@ -162,6 +161,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Personal website: http://aaronlevin.ca
    *  GitHub: https://github.com/aaronlevin
    *  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin )
+   *  Keybase: https://keybase.io/aaronlevin
 
 
 
@@ -170,7 +170,6 @@ Levin                  Expires September 29, 2015               [Page 3]
 Internet-Draft         Curriculum Vitae // Resume             March 2015
 
 
-   *  Keybase: https://keybase.io/aaronlevin
    *  Stack Overflow: http://stackoverflow.com/users/1308975/aaronlevin
    *  Haskellers: http://www.haskellers.com/user/aaronlevin
    *  Facebook: https://www.facebook.com/aaronmblevin
@@ -215,6 +214,7 @@ Internet-Draft         Curriculum Vitae // Resume             March 2015
    *  Ruby [19]
    *  Clojure [20]
    *  Java [21]
+
 
 
 
