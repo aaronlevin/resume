@@ -97,24 +97,24 @@
                  3.  Relevant Technological Experience
 
 
-   *  languages: Haskell, Scala, Bash, Python, Java, Clojure, Ruby,
-                 JavaScript, C++, C, R, MC68800 Assembly, Idris,
-                 Intuitionistic Logic, Agda
+   *  languages:  Haskell, Scala, Bash, Python, Java, Clojure, Ruby,
+                  JavaScript, C++, C, R, MC68800 Assembly, Idris,
+                  Intuitionistic Logic, Agda
 
-   *  paradigms: Functional Programming, Object Oriented Programming,
-                 Continuation-Passing Style (CPS), REST, Symmetric and
-                 Asymmetric Encryption, (E)DSLs
+   *  paradigms:  Functional Programming, Object Oriented Programming,
+                  Continuation-Passing Style (CPS), REST, Symmetric and
+                  Asymmetric Encryption, (E)DSLs
 
-  *   protocols: HTTP/1.1, TCP/IP, UDP, OAuth 2.0, JWT, AES Encryption
-                 (Counter mode with CBC-MAC (CCM)), ECC Encryption,
-                 memcached
+   *  protocols:  HTTP/1.1, TCP/IP, UDP, OAuth 2.0, JWT, AES Encryption
+                  (Counter mode with CBC-MAC (CCM)), ECC Encryption,
+                  memcached
 
-  *   data     : PostgreSQL, MySQL, SQLServer, DynamoDB, redis,
-                 elasticsearch, memcached, etcd, MongoDB, Datomic,
-                 RabbitMQ, Amazon SQS
+   *  data     :  PostgreSQL, MySQL, SQLServer, DynamoDB, redis,
+                  elasticsearch, memcached, etcd, MongoDB, Datomic,
+                  RabbitMQ, Amazon SQS
 
-  *  cloud     : AWS, Google Compute Engine, Google Container Engine,
-                 Apache Storm
+   *  cloud    :  AWS, Google Compute Engine, Google Container Engine,
+                  Apache Storm
 
 
                      4.  Talks and Public Speaking
