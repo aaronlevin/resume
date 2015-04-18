@@ -4,7 +4,7 @@
                               0.  Abstract
 
 
-   Hello.  My name is Aaron Levin.  I am a mathematician-turned software
+   Hello.  My name is Aaron Levin.  I am a mathematician turned software
    engineer.  I am excited by data-driven opportunities in environments
    that foster creativity, diversity, and innovation.  I value openness,
    honesty, empathy, and egolessness.
@@ -21,7 +21,7 @@
 
    I have experience navigating all layers of the stack.  I am
    passionate about solving challenging problems in functional
-   programming, data engineering, Haskell, machine learning, or
+   programming, data engineering, Haskell, machine learning, and
    distributed systems. If you have an opening, please get in touch!
 
    Full CV (RFC-style): http://aaronlevin.github.io/resume
@@ -32,7 +32,7 @@
 
 1.1.  MSc.  Mathematics (University of Alberta)
 
-   *  2006 - 2009: Thesis work in Positivity on Banach Lattices
+   *  2006 - 2009: Thesis work on Positivity in Banach Lattices
    *  Original work in extending the Perron-Frobenius theorem to
       semigroups of positive operators on infinite-dimensional Banach
       lattices.
@@ -51,7 +51,7 @@
                           2.  Work Experience
 
 
-2.1.  Sr.  Software Engineer @ Aterica Health (https://www.aterica.com/)
+2.1.  Sr. Software Engineer @ Aterica Health (https://www.aterica.com/)
 
    *  September 2014 - present
    *  Designing and building scalable systems for network-aware,
@@ -63,8 +63,8 @@
 2.2.  Data Scientist @ Demeure (https://www.metamarketplace.com/)
 
    *  January 2014 - September 2014
-   *  Search and Data infrastructure powered by Apache Storm,
-      Elasticsearch, and DynamoDB.
+   *  Search and data infrastructure powered by Apache Storm,
+      elasticsearch, and DynamoDB.
    *  tech: Apache Storm, elasticsearch, DynamoDB, Ruby, Clojure
 
 2.3.  Software Engineer @ Sortable (http://sortable.com/)
@@ -72,7 +72,7 @@
    *  August 2012 - January 2014
    *  Full-stack engineer building a product comparison platform
       empowering consumers to make data-driven decisions.
-   *  tech: Scala, AWS, Elasticsearch, PostgreSQL, Redis, Python
+   *  tech: Scala, AWS, elasticsearch, PostgreSQL, Redis, Python
 
 2.4.  Content Analyst @ Kobo (https://store.kobobooks.com)
 
@@ -133,7 +133,7 @@
 
    *  On Building Community (with Marie Flanagan) (CHUO Volunteer
       Appreciation, February 2015)
-   *  NCRC 2014 Keynote (with Marie Flangan) (National Campus/Community
+   *  NCRC 2014 Keynote (with Marie Flanagan) (National Campus/Community
       Radio Conference, June 2014)
    *  Open Business: Fear, Vulnerability, and Profit$ in the Open World
       (with Marie Flanagan) (Halifax Pop Explosion, October 2013)
@@ -144,7 +144,7 @@
                       5.  Awards and Acclamations
 
 
-   *  National Hero (Exclaim!  Magazine, 2011)
+   *  National Hero (Exclaim! Magazine, 2011)
    *  Next 10 (Venture Magazine, 2011)
    *  Best Indie Music Website (CBC Radio 3, 2011)
    *  Biggest Innovator (nomination) (CMJ, 2009)
