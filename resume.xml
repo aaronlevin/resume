@@ -62,9 +62,9 @@
     <!-- SECTION: INTRODUCTION -->
     <section title="Introduction" anchor="intro">
       <t>
-        Hello.  My name is Aaron Levin.  I am a mathematician-turned software engineer.  I am excited by data-driven opportunities in environments that foster creativity, diversity, and innovation.  I value openness, honesty, empathy, and egolessness.
+        Hello.  My name is Aaron Levin.  I am a mathematician turned software engineer.  I am excited by data-driven opportunities in environments that foster creativity, diversity, and innovation.  I value openness, honesty, empathy, and egolessness.
       </t>
-      <t>I have experience navigating all layers of the stack.  I am passionate about solving challenging problems in functional programming, data engineering, Haskell, machine learning, or distributed systems. If you have an opening, please get in touch!
+      <t>I have experience navigating all layers of the stack.  I am passionate about solving challenging problems in functional programming, data engineering, Haskell, machine learning, and distributed systems. If you have an opening, please get in touch!
       </t>
     </section>
     <!-- /SECTION: INTRODUCTION -->
@@ -75,7 +75,7 @@
       <section title="MSc. Mathematics (University of Alberta)">
         <t>
           <list style="symbols">
-            <t>Thesis work in Positivity on Banach Lattices</t>
+            <t>Thesis work on Positivity in Banach Lattices</t>
             <t>2006 - 2007</t>
             <t>Supervisors: <eref target="http://www.math.ualberta.ca/~vtroitsky/">Vladimir Troitsky</eref> and <eref target="http://www.math.ualberta.ca/Tomczak-Jaegermann_N.html">Nicole Tomczak-Jaegermann</eref></t>
             <t>GPA: 3.8</t>
@@ -164,7 +164,7 @@
             <t>url: <eref target="https://www.metamarketplace.com/">https://www.metamarketplace.com/</eref></t>
           </list>
         </t>
-        <t>Search and Data infrastructure powered by Apache Storm, Elasticsearch, and DynamoDB.</t>
+        <t>Search and data infrastructure powered by Apache Storm, elasticsearch, and DynamoDB.</t>
         <t>Relevant technology:
           <list style="symbols">
             <t><eref target="https://storm.apache.org/">Apache Storm</eref></t>
@@ -189,7 +189,7 @@
           <list style="symbols">
             <t>Scala</t>
             <t>AWS</t>
-            <t>Elasticsearch</t>
+            <t>elasticsearch</t>
             <t>PostgreSQL</t>
             <t>Redis</t>
             <t>memcached</t>
@@ -370,7 +370,7 @@
         <t>
           <list style="symbols">
             <t>On Building Community (with Marie Flanagan) (CHUO Volunteer Appreciation, February 2015)</t>
-            <t>NCRC 2014 Keynote (with Marie Flangan) (National Campus/Community Radio Conference, June 2014)</t>
+            <t>NCRC 2014 Keynote (with Marie Flanagan) (National Campus/Community Radio Conference, June 2014)</t>
             <t>Open Business: Fear, Vulnerability, and Profit$ in the Open World (with Marie Flanagan) (Halifax Pop Explosion, October 2013)</t>
             <t>Accessibility (with Marie Flanagan) (Halifax Pop Explosion, October 2013)</t>
           </list>
