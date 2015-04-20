@@ -98,7 +98,7 @@
 
 
    *  languages:  Haskell, Scala, Bash, Python, Java, Clojure, Ruby,
-                  JavaScript, C++, C, R, MC68800 Assembly, Idris,
+                  JavaScript, C++, C, R, MC68000 Assembly, Idris,
                   Intuitionistic Logic, Agda
 
    *  paradigms:  Functional Programming, Object Oriented Programming,
