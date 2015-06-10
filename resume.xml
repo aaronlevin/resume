@@ -358,6 +358,7 @@
       <section title="Tech Talks" anchor="talks-tech">
         <t>
           <list style="symbols">
+            <t>Propositions As Types (Intersections KW, June 2015)</t>
             <t>Dependent Haskell (Intersections KW, April 2015)</t>
             <t>Commutativity and Quantum Mechanics (Intersections KW, February 2015)</t>
             <t>The Algebra of Algebraic Data Types and the Calculus of Mutations (Intersections KW, August 2014)</t>
