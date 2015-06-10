@@ -90,7 +90,7 @@
 
    *  September 2009 - October 2011
    *  I managed and grew all advertising and analytical activities for
-      Investopedia.com, totalling $9M in revenue annually.
+      Investopedia.com, totaling $9M in revenue annually.
    *  tech: PHP, 24/7 Real Media Open Adstream, Google Analytics
 
 
@@ -122,6 +122,7 @@
 
 4.1.  Tech Talks
 
+   *  Propositions as Types (Intersections KW, June 2015)
    *  Dependent Haskell (Intersections KW, April 2015)
    *  Commutativity and Quantum Mechanics (Intersections KW, February
       2015)
