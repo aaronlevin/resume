@@ -176,6 +176,7 @@
             <t>Scala</t>
             <t>Redshift</t>
             <t>Haskell</t>
+            <t>Go</t>
             <t>Ruby</t>
           </list>
         </t>
@@ -317,6 +318,7 @@
             <t>Python</t>
             <t>Java</t>
             <t>Clojure</t>
+            <t>Go</t>
             <t>Ruby</t>
             <t>JavaScript</t>
             <t>C++</t>

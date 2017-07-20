@@ -9,11 +9,10 @@
    that foster creativity, diversity, and innovation.  I value openness,
    honesty, empathy, and egolessness.
 
-   I currently reside in Waterloo, Ontario, Canada and can be contacted
-   here:
+   I currently reside in Berlin, Germany and can be contacted here:
 
       e: vilevin@gmail.com
-      p: 416-727-2977
+      p: +49 151 59831415
       t: @aaronmblevin
       w: http://aaronlevin.ca
       l: https://ca.linkedin.com/in/aaronmblevin
@@ -21,8 +20,8 @@
 
    I have experience navigating all layers of the stack.  I am
    passionate about solving challenging problems in functional
-   programming, data engineering, Haskell, machine learning, and
-   distributed systems. If you have an opening, please get in touch!
+   programming, data engineering, machine learning, and distributed
+   systems. If you have an opening, please get in touch!
 
    Full CV (RFC-style): http://aaronlevin.github.io/resume
 
@@ -51,7 +50,44 @@
                           2.  Work Experience
 
 
-2.1.  Sr. Software Engineer @ Aterica Health (https://www.aterica.com/)
+2.1.  Director of Data Science (interim) @ SoundCloud
+
+   *  July 2017 - Present
+   *  Lead Data Science initiatives across SoundCloud.
+   *  Represent Data Science on SoundCloud's Product Leadership
+      Council.
+   *  Manage Data Science workflows in a constrained, post-layoff
+      environment while optimizing for retention and service delivery.
+
+2.2.  Data Science Manager @ SoundCloud
+
+   *  January 2017 - July 2017
+   *  First Data Science manager in SoundCloud's newly established Data
+      Science organization.
+   *  Managed 12 Data Scientists across several disciplines (Search,
+      Recommendations, Playback, Notifications).
+   *  Established the Data Science practice and workflow in partnership
+      with Engineering and Product managers.
+   *  Initiated Data Science Sessions: a bi-weekly opportunity to
+      present and receive feedback on work.
+   *  Initiated the Data Sprint: a quarterly offsite allowing Data
+      Scientists to explore new ideas (inspired by Google's Design
+      Sprint)
+
+2.3.  Machine Learning Engineer @ SoundCloud
+
+   *  September 2015 - January 2017
+   *  Implemented and launched SoundCloud's The Upload [17], a novel,
+      personalized recommendation system for content less than four
+      days old.
+   *  Approximate Nearest Neighbour Search via Locality Sensitive
+      Hashing for SoundCloud's recommendation system.
+   *  Managing data pipeline and analytics infrastructure for data
+      scientists.
+   *  Stewardship of SoundCloud's job scheduling tools.
+   *  tech: Apache Spark, Apache Hadoop, Scala, Redshift, Haskell.
+
+2.4.  Sr. Software Engineer @ Aterica Health (https://www.aterica.com/)
 
    *  September 2014 - present
    *  Designing and building scalable systems for network-aware,
@@ -60,33 +96,33 @@
             Docker, Security and binary protocols for embedded devices
             (IoT), (E)DSLs, REST, OAuth 2.0, JWT, PostgreSQL
 
-2.2.  Data Scientist @ Demeure (https://www.metamarketplace.com/)
+2.5.  Data Scientist @ Demeure (https://www.metamarketplace.com/)
 
    *  January 2014 - September 2014
    *  Search and data infrastructure powered by Apache Storm,
       elasticsearch, and DynamoDB.
    *  tech: Apache Storm, elasticsearch, DynamoDB, Ruby, Clojure
 
-2.3.  Software Engineer @ Sortable (http://sortable.com/)
+2.6.  Software Engineer @ Sortable (http://sortable.com/)
 
    *  August 2012 - January 2014
    *  Full-stack engineer building a product comparison platform
       empowering consumers to make data-driven decisions.
    *  tech: Scala, AWS, elasticsearch, PostgreSQL, Redis, Python
 
-2.4.  Content Analyst @ Kobo (https://store.kobobooks.com)
+2.7.  Content Analyst @ Kobo (https://store.kobobooks.com)
 
    *  May 2012 - August 2012
    *  Developing unique algorithms to monitor content performance and
       pricing strategies for Kobo's eBooks.
    *  tech: R, Python, SQLServer
 
-2.5.  Web Analytics Specialist @ Mediative (http://www.mediative.com/)
+2.8.  Web Analytics Specialist @ Mediative (http://www.mediative.com/)
 
    *  October 2011 - March 2012
    *  tech: Python, Excel, Google Analytics
 
-2.6.  Ad Operations and Analytics Manager @ Investopedia.com
+2.9.  Ad Operations and Analytics Manager @ Investopedia.com
 
    *  September 2009 - October 2011
    *  I managed and grew all advertising and analytical activities for
@@ -97,7 +133,7 @@
                  3.  Relevant Technological Experience
 
 
-   *  languages:  Haskell, Scala, Bash, Python, Java, Clojure, Ruby,
+   *  languages:  Haskell, Scala, Bash, Python, Java, Go, Clojure, Ruby,
                   JavaScript, C++, C, R, MC68000 Assembly, Idris,
                   Intuitionistic Logic, Agda
 
@@ -109,9 +145,9 @@
                   (Counter mode with CBC-MAC (CCM)), ECC Encryption,
                   memcached
 
-   *  data     :  PostgreSQL, MySQL, SQLServer, DynamoDB, redis,
-                  elasticsearch, memcached, etcd, MongoDB, Datomic,
-                  RabbitMQ, Amazon SQS
+   *  data     :  Apache Hadoop, Apache Spark, PostgreSQL, MySQL,
+                  SQLServer, DynamoDB, redis, elasticsearch, memcached,
+                  etcd, MongoDB, Datomic, RabbitMQ, Amazon SQS
 
    *  cloud    :  AWS, Google Compute Engine, Google Container Engine,
                   Apache Storm
@@ -122,6 +158,13 @@
 
 4.1.  Tech Talks
 
+   *  The AI Landscape in Europe (panel) (MI Summit, Berlin, July 2017)
+   *  Mastering Typeclass Induction (TypeLevel Summit, Copenhagen, June
+      2017)
+   *  Finding Friends in High-Dimensions; Locality Sensitive Hashing for
+      Fun and Friendliness! (!!Con, NYC, May 2017)
+   *  The Dialectics of Type-Level Programming (LambdaWorld, Spain,
+      October 2016)
    *  Propositions as Types (Intersections KW, June 2015)
    *  Dependent Haskell (Intersections KW, April 2015)
    *  Commutativity and Quantum Mechanics (Intersections KW, February

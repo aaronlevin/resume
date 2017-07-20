@@ -87,19 +87,19 @@ Table of Contents
      5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   7
      5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   8
      5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   8
-     5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   8
+     5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   9
      5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   9
    6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   9
      6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   9
      6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   9
-   7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .   9
+   7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .  10
    8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .  10
      8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .  10
      8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .  10
      8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  10
      8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  10
      9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  11
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  12
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  13
 
 1.  Introduction
 
@@ -250,6 +250,7 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  Scala
    *  Redshift
    *  Haskell
+   *  Go
    *  Ruby
 
 4.4.  Sr. Software Engineer @ Aterica Health
@@ -272,7 +273,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  OAuth 2.0
    *  JWT
    *  PostgreSQL
-
 
 
 
@@ -377,6 +377,7 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  Python
    *  Java
    *  Clojure
+   *  Go
    *  Ruby
    *  JavaScript
    *  C++
@@ -385,7 +386,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  MC68800 Assembly
    *  Idris
    *  Intuitionistic Logic
-   *  Agda
 
 
 
@@ -393,6 +393,8 @@ Levin                   Expires January 21, 2018                [Page 7]
 
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
+
+   *  Agda
 
 5.2.  Paradigms and Protocols
 
@@ -436,9 +438,7 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  MongoDB [38]
    *  Datomic [39]
 
-5.4.  Message Queues
 
-   *  RabbitMQ [40]
 
 
 
@@ -449,6 +449,10 @@ Levin                   Expires January 21, 2018                [Page 8]
 
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
+
+5.4.  Message Queues
+
+   *  RabbitMQ [40]
 
 5.5.  Infrastructure
 
@@ -490,14 +494,10 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  Accessibility (with Marie Flanagan) (Halifax Pop Explosion,
       October 2013)
 
-7.  Awards and Acclamations
 
-   *  National Hero (Exclaim!  Magazine, 2011)
-   *  Next 10 (Venture Magazine, 2011)
-   *  Best Indie Music Website (CBC Radio 3, 2011)
-   *  Biggest Innovator (nomination) (CMJ, 2009)
-   *  Graduate Student Scholarship (University of Alberta, 2006)
-   *  Graduate Student Scholarship (University of Waterloo, 2005)
+
+
+
 
 
 
@@ -506,6 +506,14 @@ Levin                   Expires January 21, 2018                [Page 9]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
+7.  Awards and Acclamations
+
+   *  National Hero (Exclaim!  Magazine, 2011)
+   *  Next 10 (Venture Magazine, 2011)
+   *  Best Indie Music Website (CBC Radio 3, 2011)
+   *  Biggest Innovator (nomination) (CMJ, 2009)
+   *  Graduate Student Scholarship (University of Alberta, 2006)
+   *  Graduate Student Scholarship (University of Waterloo, 2005)
    *  NSERC Undergraduate Student Research Assistantship (Government of
       Canada, 2003)
 
@@ -545,14 +553,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
    For over fifteen years I have been collecting (and sometimes selling)
    used records.  I have focused on independent and privately-released
-   Canadian music from the 60s, 70s, and 80s, especially experimental or
-   fringe music.
-
-   In 2007, a friend and I found a record by an artist named Lewis [57].
-   After many years of champion the strange, unassuming LP within
-   underground communities of record collectors, Lewis' album found
-   international notoriety for reasons I still don't properly
-   understand.  I was even interviewed on CBC's As It Happens [58].
 
 
 
@@ -561,6 +561,15 @@ Levin                   Expires January 21, 2018               [Page 10]
 
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
+
+   Canadian music from the 60s, 70s, and 80s, especially experimental or
+   fringe music.
+
+   In 2007, a friend and I found a record by an artist named Lewis [57].
+   After many years of champion the strange, unassuming LP within
+   underground communities of record collectors, Lewis' album found
+   international notoriety for reasons I still don't properly
+   understand.  I was even interviewed on CBC's As It Happens [58].
 
 9.  References
 
@@ -602,6 +611,13 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
    [34] http://redis.io/
 
+
+
+Levin                   Expires January 21, 2018               [Page 11]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
+
    [35] https://www.elastic.co/
 
    [36] http://memcached.org/
@@ -609,14 +625,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    [37] https://github.com/coreos/etcd
 
    [38] https://www.mongodb.org/
-
-
-
-
-Levin                   Expires January 21, 2018               [Page 11]
-
-Internet-Draft         Curriculum Vitae // Resume              July 2017
-
 
    [39] http://www.datomic.com/
 
@@ -656,14 +664,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
    [57] http://en.wikipedia.org/wiki/Lewis_%28musician%29
 
-   [58] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
-        salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-
-        mystery-of-canadian-musician-lewis-1.2903235
-
-Author's Address
-
-
-
 
 
 
@@ -674,6 +674,12 @@ Levin                   Expires January 21, 2018               [Page 12]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
+   [58] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
+        salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-
+        mystery-of-canadian-musician-lewis-1.2903235
+
+Author's Address
+
    Aaron Michael Benjamin Levin
    8 Simon-Dach Strasse
    Berlin  10245
@@ -682,12 +688,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    Phone: +49 151 59831415
    Email: vilevin@gmail.com
    URI:   http://aaronlevin.ca
-
-
-
-
-
-
 
 
 
