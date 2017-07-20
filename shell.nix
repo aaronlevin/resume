@@ -39,6 +39,7 @@ nixpkgs.myEnvFun {
     python.lxml
     python.xml2rfc
     python.requests
+    python.six
     nixpkgs.haskellPackages.ghc
     nixpkgs.haskellPackages.hxt
   ];
