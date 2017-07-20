@@ -19,18 +19,17 @@
       <!-- <organization>Aaron Levin</organization> -->
       <address>
         <postal>
-          <street>#4 - 2 King Street South</street>
-          <city>Waterloo</city>
-          <region>ON</region>
-          <code>N2J 1N8</code>
-          <country>Canada</country>
+          <street>8 Simon-Dach Strasse</street>
+          <city>Berlin</city>
+          <code>10245</code>
+          <country>Germany</country>
         </postal>
-        <phone>+1 416-727-2977</phone>
+        <phone>+49 151 59831415</phone>
         <email>vilevin@gmail.com</email>
         <uri>http://aaronlevin.ca</uri>
       </address>
     </author>
-    <date month="March" year="2015" day="28" />
+    <date month="July" year="2017" day="20" />
     <!-- meta data -->
     <area>Self Improvement</area>
     <workgroup>Aaron Levin Working Group</workgroup>
@@ -44,7 +43,7 @@
       <t>Aaron Levin currently resides in Waterloo, Ontario, Canada and can be contacted here: 
         <list style="none">
           <t>e: vilevin@gmail.com</t>
-          <t>p: 416-727-2977</t>
+          <t>p: +49 151 59831415</t>
           <t>t: @aaronmblevin</t>
           <t>w: http://aaronlevin.ca</t>
           <t>l: https://ca.linkedin.com/in/aaronmblevin</t>
@@ -64,7 +63,7 @@
       <t>
         Hello.  My name is Aaron Levin.  I am a mathematician turned software engineer.  I am excited by data-driven opportunities in environments that foster creativity, diversity, and innovation.  I value openness, honesty, empathy, and egolessness.
       </t>
-      <t>I have experience navigating all layers of the stack.  I am passionate about solving challenging problems in functional programming, data engineering, Haskell, machine learning, and distributed systems. If you have an opening, please get in touch!
+      <t>I have experience navigating all layers of the stack.  I am passionate about solving challenging problems in functional programming, data engineering, Scala, Haskell, machine learning, and distributed systems. If you have an opening, please get in touch!
       </t>
     </section>
     <!-- /SECTION: INTRODUCTION -->
@@ -133,10 +132,59 @@
     <!-- SECTION: RELEVANT WORK -->
     <section title="Work Experience" anchor="work-experience">
 
+      <section title="Director of Data Science (interim) @ SoundCloud" anchor="director-data-science-soundcloud">
+        <t>
+          <list style="symbols">
+            <t>July 2017 - Present</t>
+            <t>url: <eref target="https://www.soundcloud.com/">https://www.soundcloud.com/</eref></t>
+          </list>
+        </t>
+        <t>Lead Data Science initiatives across SoundCloud.</t>
+        <t>Represent Data Science on SoundCloud's Product Leadership Council.</t>
+        <t>Manage Data Science workflows in a constrained, post-layoff environment while optimizing for retention and service delivery.</t>
+      </section>
+
+      <section title="Data Science Manager @ SoundCloud" anchor="data-science-manager-soundcloud">
+        <t>
+          <list style="symbols">
+            <t>January 2017 - July 2017</t>
+            <t>url: <eref target="https://www.soundcloud.com/">https://www.soundcloud.com/</eref></t>
+          </list>
+        </t>
+        <t>First Data Science manager in SoundCloud's newly established Data Science organization.</t>
+        <t>Managed 12 Data Scientists across several disciplines (Search, Recommendations, Playback, Notifications).</t>
+        <t>Established the Data Science practice and workflow in partnership with Engineering and Product managers.</t>
+        <t>Initiated Data Science Sessions: a bi-weekly opportunity to present and receive feedback on work.</t>
+        <t>Initiated the Data Sprint: a quarterly offsite allowing Data Scientists to explore new ideas (inspired by Google's Design Sprint)</t>
+      </section>
+
+      <section title="Machine Learning Engineer @ SoundCloud" anchor="machine-learning-engineer-soundcloud">
+        <t>
+          <list style="symbols">
+            <t>September 2015 - January 2017</t>
+            <t>url: <eref target="https://www.soundcloud.com/">https://www.soundcloud.com/</eref></t>
+          </list>
+        </t>
+        <t>Implemented and launched SoundCloud's <eref target="https://blog.soundcloud.com/2017/05/03/introducing-upload-new-soundcloud-selected/">The Upload</eref>, a novel, personalized recommendation system for content less than four days old.</t>
+        <t>Approximate Nearest Neighbour Search via Locality Sensitive Hashing for SoundCloud's recommendation system.</t>
+        <t>Managing data pipeline and analytics infrastructure for data scientists.</t>
+        <t>Stewardship of SoundCloud's job scheduling tools.</t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Apache Spark</t>
+            <t>Apache Haddop</t>
+            <t>Scala</t>
+            <t>Redshift</t>
+            <t>Haskell</t>
+            <t>Ruby</t>
+          </list>
+        </t>
+      </section>
+
       <section title="Sr. Software Engineer @ Aterica Health" anchor="work-aterica-health">
         <t>
           <list style="symbols">
-            <t>September 2014 - present</t>
+            <t>September 2014 - August 2014</t>
             <t>url: <eref target="https://www.aterica.com/">https://www.aterica.com/</eref></t>
           </list>
         </t>
@@ -287,7 +335,7 @@
           Paradigms:
           <list style="symbols">
             <t>Pure, Functional Programming</t>
-            <t>Object Oriented Programming (OOP</t>
+            <t>Object Oriented Programming (OOP)</t>
             <t>Continuation-Passing Style (CPS)</t>
             <t>REST</t>
             <t>Symmetric and Asymmetric Encryption</t>
@@ -341,6 +389,9 @@
         <section title="Infrastructure">
           <t>
             <list style="symbols">
+              <t><eref target="https://spark.apache.org/">Apache Spark</eref></t>
+              <t><eref target="http://hadoop.apache.org/">Apache Hadoop</eref></t>
+              <t><eref target="https://kubernetes.io/">Kubernetes</eref></t>
               <t><eref target="http://aws.amazon.com/">Amazon Web Services (AWS)</eref></t>
               <t><eref target="https://cloud.google.com/compute/">Google Compute Engine (GCE)</eref></t>
               <t><eref target="https://cloud.google.com/container-engine/">Google Container Engine (GKE)</eref></t>
@@ -358,6 +409,10 @@
       <section title="Tech Talks" anchor="talks-tech">
         <t>
           <list style="symbols">
+            <t>The AI Landscape in Europe (panel) (MI Summit, Berlin, July 2017)</t>
+            <t><eref target="https://www.youtube.com/watch?v=CstiIq4imWM">Mastering Typeclass Induction</eref> (TypeLevel Summit, Copenhagen, June 2017)</t>
+            <t><eref target="https://www.youtube.com/watch?v=kKRvEJrvvso">Finding Friends in High-Dimensions; Locality Sensitive Hashing for Fun and Friendliness!</eref> (!!Con, NYC, May 2017)</t>
+            <t><eref target="https://www.youtube.com/watch?v=0wxGrf8toWk">The Dialectics of Type-Level Programming</eref> (LambdaWorld, Spain, October 2016)</t>
             <t>Propositions As Types (Intersections KW, June 2015)</t>
             <t>Dependent Haskell (Intersections KW, April 2015)</t>
             <t>Commutativity and Quantum Mechanics (Intersections KW, February 2015)</t>
