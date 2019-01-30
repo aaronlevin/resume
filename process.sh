@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -ex
+
 readonly PROGNAME=$(basename $0)
 readonly ARGS="$@"
 
@@ -33,17 +35,24 @@ main() {
   exit_if_unset "${1}" "Must specify input file"
   exit_if_unset "${2}" "Must specify output file"
 
-  local tmp_file=$(echo $RANDOM)
+  local tmp_dir_name=$(echo $RANDOM)
 
-  gen_resume_io "${1}" "${tmp_file}"
+  mkdir -p "${tmp_dir_name}"
 
-  cat "${tmp_file}.txt" \
+  gen_resume_io "${1}" "${tmp_dir_name}"
+
+  local tmp_prefix="${tmp_dir_name}/${2}"
+  local tmp_txt="${tmp_prefix}.txt"
+  local tmp_html="${tmp_prefix}.html"
+
+  cat "${tmp_txt}" \
     | sed 's/^   o  /   *  /g' \
     > "${2}.txt"
 
-  mv "${tmp_file}.html" "${2}.html"
+  mv "${tmp_html}" "${2}.html"
 
-  rm "${tmp_file}.txt"
+  rm "${tmp_txt}"
+  rmdir "${tmp_dir_name}"
 
 }
 
