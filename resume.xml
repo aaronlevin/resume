@@ -132,10 +132,33 @@
     <!-- SECTION: RELEVANT WORK -->
     <section title="Work Experience" anchor="work-experience">
 
+      <section title="Infrastructure Engineer @ Stripe" anchor="infrastructure-engineer-stripe">
+        <t>
+          <list style="symbols">
+            <t>December 2017 - Present</t>
+            <t>url: <eref target="https://www.stripe.com/">https://www.stripe.com/</eref></t>
+          </list>
+        </t>
+        <t>Member of Stripe's Streaming team.</t>
+        <t>Real-time data aggregation and asynchronous processing.</t>
+        <t>Created Stripe's first <eref target="https://flink.apache.org/">Apache Flink</eref> cluster and applications.</t>
+        <t>Developed infrastructure to redact Stripe's massive event archives</t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Apache Kafka</t>
+            <t>Apache Flink</t>
+            <t>Apache Hadoop</t>
+            <t>NSQ</t>
+            <t>Scala</t>
+            <t>Ruby</t>
+          </list>
+        </t>
+      </section>
+
       <section title="Director of Data Science (interim) @ SoundCloud" anchor="director-data-science-soundcloud">
         <t>
           <list style="symbols">
-            <t>July 2017 - Present</t>
+            <t>July 2017 - December 2017</t>
             <t>url: <eref target="https://www.soundcloud.com/">https://www.soundcloud.com/</eref></t>
           </list>
         </t>

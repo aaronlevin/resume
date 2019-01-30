@@ -67,44 +67,44 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 Table of Contents
 
-   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   3
    2.  Education . . . . . . . . . . . . . . . . . . . . . . . . . .   3
      2.1.  MSc. Mathematics (University of Alberta)  . . . . . . . .   3
      2.2.  MSc. Physics (non-completed) (University of Waterloo) . .   3
      2.3.  BSc. Engineering Physics (University of Alberta)  . . . .   3
    3.  Online Identities . . . . . . . . . . . . . . . . . . . . . .   4
    4.  Work Experience . . . . . . . . . . . . . . . . . . . . . . .   4
-     4.1.  Director of Data Science (interim) @ SoundCloud . . . . .   4
-     4.2.  Data Science Manager @ SoundCloud . . . . . . . . . . . .   4
-     4.3.  Machine Learning Engineer @ SoundCloud  . . . . . . . . .   5
-     4.4.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   5
-     4.5.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   6
-     4.6.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   6
-     4.7.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   6
-     4.8.  Web Analytics Specialist @ Mediative  . . . . . . . . . .   7
-     4.9.  Ad Operations and Analytics Manager @ Investopedia.com  .   7
-   5.  Relevant Technological Experience . . . . . . . . . . . . . .   7
-     5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   7
+     4.1.  Infrastructure Engineer @ Stripe  . . . . . . . . . . . .   4
+     4.2.  Director of Data Science (interim) @ SoundCloud . . . . .   4
+     4.3.  Data Science Manager @ SoundCloud . . . . . . . . . . . .   5
+     4.4.  Machine Learning Engineer @ SoundCloud  . . . . . . . . .   5
+     4.5.  Sr. Software Engineer @ Aterica Health  . . . . . . . . .   6
+     4.6.  Data Scientist @ Demeure  . . . . . . . . . . . . . . . .   6
+     4.7.  Software Engineer @ Sortable  . . . . . . . . . . . . . .   6
+     4.8.  Content Analyst @ Kobo  . . . . . . . . . . . . . . . . .   7
+     4.9.  Web Analytics Specialist @ Mediative  . . . . . . . . . .   7
+     4.10. Ad Operations and Analytics Manager @ Investopedia.com  .   7
+   5.  Relevant Technological Experience . . . . . . . . . . . . . .   8
+     5.1.  Programming Languages . . . . . . . . . . . . . . . . . .   8
      5.2.  Paradigms and Protocols . . . . . . . . . . . . . . . . .   8
-     5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   8
+     5.3.  Data Stores . . . . . . . . . . . . . . . . . . . . . . .   9
      5.4.  Message Queues  . . . . . . . . . . . . . . . . . . . . .   9
      5.5.  Infrastructure  . . . . . . . . . . . . . . . . . . . . .   9
    6.  Talks and Public Speaking . . . . . . . . . . . . . . . . . .   9
      6.1.  Tech Talks  . . . . . . . . . . . . . . . . . . . . . . .   9
-     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .   9
+     6.2.  Art and Culture Talks . . . . . . . . . . . . . . . . . .  10
    7.  Awards and Acclamations . . . . . . . . . . . . . . . . . . .  10
    8.  Hobbies and Self Development  . . . . . . . . . . . . . . . .  10
      8.1.  Weird Canada / Wyrd Arts Initiatives  . . . . . . . . . .  10
      8.2.  Intersections KW  . . . . . . . . . . . . . . . . . . . .  10
-     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  10
-     8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  10
+     8.3.  Vipassana Meditation  . . . . . . . . . . . . . . . . . .  11
+     8.4.  Record Collecting . . . . . . . . . . . . . . . . . . . .  11
      9.1.  URIs  . . . . . . . . . . . . . . . . . . . . . . . . . .  11
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  13
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  14
 
-1.  Introduction
 
-   Hello.  My name is Aaron Levin.  I am a mathematician turned software
-   engineer.  I am excited by data-driven opportunities in environments
+
+
 
 
 
@@ -114,6 +114,10 @@ Levin                   Expires January 21, 2018                [Page 2]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
+1.  Introduction
+
+   Hello.  My name is Aaron Levin.  I am a mathematician turned software
+   engineer.  I am excited by data-driven opportunities in environments
    that foster creativity, diversity, and innovation.  I value openness,
    honesty, empathy, and egolessness.
 
@@ -161,10 +165,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
 
-
-
-
-
 Levin                   Expires January 21, 2018                [Page 3]
 
 Internet-Draft         Curriculum Vitae // Resume              July 2017
@@ -172,21 +172,44 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 3.  Online Identities
 
-   *  Personal website: http://aaronlevin.ca
-   *  GitHub: https://github.com/aaronlevin
-   *  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin)
-   *  Keybase: https://keybase.io/aaronlevin
+   *  Personal website: http://aaronlevin.ca [6]
+   *  GitHub: https://github.com/aaronlevin [7]
+   *  Twitter: @aaronmblevin (https://twitter.com/aaronmblevin [8])
+   *  Keybase: https://keybase.io/aaronlevin [9]
    *  Stack Overflow: http://stackoverflow.com/users/1308975/aaronlevin
-   *  Haskellers: http://www.haskellers.com/user/aaronlevin
-   *  Facebook: https://www.facebook.com/aaronmblevin
-   *  Google Plus: https://plus.google.com/110471816183726748520
+      [10]
+   *  Haskellers: http://www.haskellers.com/user/aaronlevin [11]
+   *  Facebook: https://www.facebook.com/aaronmblevin [12]
+   *  Google Plus: https://plus.google.com/110471816183726748520 [13]
 
 4.  Work Experience
 
-4.1.  Director of Data Science (interim) @ SoundCloud
+4.1.  Infrastructure Engineer @ Stripe
 
-   *  July 2017 - Present
-   *  url: https://www.soundcloud.com/
+   *  December 2017 - Present
+   *  url: https://www.stripe.com/ [14]
+
+   Member of Stripe's Streaming team.
+
+   Real-time data aggregation and asynchronous processing.
+
+   Created Stripe's first Apache Flink [15] cluster and applications.
+
+   Developed infrastructure to redact Stripe's massive event archives
+
+   Relevant technology:
+
+   *  Apache Kafka
+   *  Apache Flink
+   *  Apache Hadoop
+   *  NSQ
+   *  Scala
+   *  Ruby
+
+4.2.  Director of Data Science (interim) @ SoundCloud
+
+   *  July 2017 - December 2017
+   *  url: https://www.soundcloud.com/ [16]
 
    Lead Data Science initiatives across SoundCloud.
 
@@ -195,10 +218,18 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    Manage Data Science workflows in a constrained, post-layoff
    environment while optimizing for retention and service delivery.
 
-4.2.  Data Science Manager @ SoundCloud
+
+
+
+Levin                   Expires January 21, 2018                [Page 4]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
+
+4.3.  Data Science Manager @ SoundCloud
 
    *  January 2017 - July 2017
-   *  url: https://www.soundcloud.com/
+   *  url: https://www.soundcloud.com/ [17]
 
    First Data Science manager in SoundCloud's newly established Data
    Science organization.
@@ -215,23 +246,12 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    Initiated the Data Sprint: a quarterly offsite allowing Data
    Scientists to explore new ideas (inspired by Google's Design Sprint)
 
-
-
-
-
-
-
-Levin                   Expires January 21, 2018                [Page 4]
-
-Internet-Draft         Curriculum Vitae // Resume              July 2017
-
-
-4.3.  Machine Learning Engineer @ SoundCloud
+4.4.  Machine Learning Engineer @ SoundCloud
 
    *  September 2015 - January 2017
-   *  url: https://www.soundcloud.com/
+   *  url: https://www.soundcloud.com/ [18]
 
-   Implemented and launched SoundCloud's The Upload [17], a novel,
+   Implemented and launched SoundCloud's The Upload [19], a novel,
    personalized recommendation system for content less than four days
    old.
 
@@ -253,10 +273,19 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  Go
    *  Ruby
 
-4.4.  Sr. Software Engineer @ Aterica Health
+
+
+
+
+Levin                   Expires January 21, 2018                [Page 5]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
+
+4.5.  Sr. Software Engineer @ Aterica Health
 
    *  September 2014 - August 2014
-   *  url: https://www.aterica.com/
+   *  url: https://www.aterica.com/ [20]
 
    Designing and building scalable systems for network-aware, embedded
    devices (IoT) built to improve health and save lives.
@@ -274,40 +303,40 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  JWT
    *  PostgreSQL
 
-
-
-
-Levin                   Expires January 21, 2018                [Page 5]
-
-Internet-Draft         Curriculum Vitae // Resume              July 2017
-
-
-4.5.  Data Scientist @ Demeure
+4.6.  Data Scientist @ Demeure
 
    *  January 2014 - September 2014
-   *  url: https://www.metamarketplace.com/
+   *  url: https://www.metamarketplace.com/ [21]
 
    Search and data infrastructure powered by Apache Storm,
    elasticsearch, and DynamoDB.
 
    Relevant technology:
 
-   *  Apache Storm [20]
-   *  elasticsearch [21]
-   *  DynamoDB [22]
-   *  Ruby [23]
-   *  Clojure [24]
-   *  Java [25]
+   *  Apache Storm [22]
+   *  elasticsearch [23]
+   *  DynamoDB [24]
+   *  Ruby [25]
+   *  Clojure [26]
+   *  Java [27]
 
-4.6.  Software Engineer @ Sortable
+4.7.  Software Engineer @ Sortable
 
    *  August 2012 - January 2014
-   *  url: http://sortable.com/
+   *  url: http://sortable.com/ [28]
 
    Full-stack engineer building a product comparison platform empowering
    consumers to make decisions easier and data-driven.
 
    Relevant technology:
+
+
+
+
+Levin                   Expires January 21, 2018                [Page 6]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
 
    *  Scala
    *  AWS
@@ -317,10 +346,10 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  memcached
    *  Python
 
-4.7.  Content Analyst @ Kobo
+4.8.  Content Analyst @ Kobo
 
    *  May 2012 - August 2012
-   *  url: https://store.kobobooks.com/en-ca/
+   *  url: https://store.kobobooks.com/en-ca/ [29]
 
    Developing unique algorithms to monitor content performance and
    pricing strategies for Kobo's eBooks.
@@ -331,17 +360,10 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  Python
    *  SQLServer
 
-
-
-Levin                   Expires January 21, 2018                [Page 6]
-
-Internet-Draft         Curriculum Vitae // Resume              July 2017
-
-
-4.8.  Web Analytics Specialist @ Mediative
+4.9.  Web Analytics Specialist @ Mediative
 
    *  October 2011 - March 2012
-   *  url: http://www.mediative.com/
+   *  url: http://www.mediative.com/ [30]
 
    As a lead analyst, I delivered highly-actionable and creative
    dashboards for our clients
@@ -352,10 +374,10 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  Excel
    *  Google Analytics
 
-4.9.  Ad Operations and Analytics Manager @ Investopedia.com
+4.10.  Ad Operations and Analytics Manager @ Investopedia.com
 
    *  September 2009 - October 2011
-   *  url: https://www.investopedia.com
+   *  url: https://www.investopedia.com [31]
 
    I managed and grew all advertising and analytical activities for
    Investopedia.com, totalling $9M in revenue annually.
@@ -364,6 +386,14 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
    *  PHP
    *  24/7 Real Media Open Adstream
+
+
+
+Levin                   Expires January 21, 2018                [Page 7]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
+
    *  Google Analytics
    *  Adobe Omniture
 
@@ -386,14 +416,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  MC68800 Assembly
    *  Idris
    *  Intuitionistic Logic
-
-
-
-Levin                   Expires January 21, 2018                [Page 7]
-
-Internet-Draft         Curriculum Vitae // Resume              July 2017
-
-
    *  Agda
 
 5.2.  Paradigms and Protocols
@@ -420,28 +442,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    *  GATT
    *  Memcached
 
-5.3.  Data Stores
-
-   SQL:
-
-   *  PostgreSQL [30]
-   *  MySQL [31]
-   *  SQLServer [32]
-
-   Non-SQL
-
-   *  DynamoDB [33]
-   *  Redis [34]
-   *  elasticsearch [35]
-   *  memcached [36]
-   *  etcd [37]
-   *  MongoDB [38]
-   *  Datomic [39]
-
-
-
-
-
 
 
 
@@ -450,35 +450,62 @@ Levin                   Expires January 21, 2018                [Page 8]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
+5.3.  Data Stores
+
+   SQL:
+
+   *  PostgreSQL [32]
+   *  MySQL [33]
+   *  SQLServer [34]
+
+   Non-SQL
+
+   *  DynamoDB [35]
+   *  Redis [36]
+   *  elasticsearch [37]
+   *  memcached [38]
+   *  etcd [39]
+   *  MongoDB [40]
+   *  Datomic [41]
+
 5.4.  Message Queues
 
-   *  RabbitMQ [40]
+   *  RabbitMQ [42]
 
 5.5.  Infrastructure
 
-   *  Apache Spark [41]
-   *  Apache Hadoop [42]
-   *  Kubernetes [43]
-   *  Amazon Web Services (AWS) [44]
-   *  Google Compute Engine (GCE) [45]
-   *  Google Container Engine (GKE) [46]
-   *  Apache Storm [47]
+   *  Apache Spark [43]
+   *  Apache Hadoop [44]
+   *  Kubernetes [45]
+   *  Amazon Web Services (AWS) [46]
+   *  Google Compute Engine (GCE) [47]
+   *  Google Container Engine (GKE) [48]
+   *  Apache Storm [49]
 
 6.  Talks and Public Speaking
 
 6.1.  Tech Talks
 
    *  The AI Landscape in Europe (panel) (MI Summit, Berlin, July 2017)
-   *  Mastering Typeclass Induction [48] (TypeLevel Summit, Copenhagen,
+   *  Mastering Typeclass Induction [50] (TypeLevel Summit, Copenhagen,
       June 2017)
    *  Finding Friends in High-Dimensions; Locality Sensitive Hashing for
-      Fun and Friendliness! [49] (!!Con, NYC, May 2017)
-   *  The Dialectics of Type-Level Programming [50] (LambdaWorld, Spain,
+      Fun and Friendliness! [51] (!!Con, NYC, May 2017)
+   *  The Dialectics of Type-Level Programming [52] (LambdaWorld, Spain,
       October 2016)
    *  Propositions As Types (Intersections KW, June 2015)
    *  Dependent Haskell (Intersections KW, April 2015)
    *  Commutativity and Quantum Mechanics (Intersections KW, February
       2015)
+
+
+
+
+Levin                   Expires January 21, 2018                [Page 9]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
+
    *  The Algebra of Algebraic Data Types and the Calculus of Mutations
       (Intersections KW, August 2014)
    *  What is Monad?  (Scala MeetUp, April 2014)
@@ -493,18 +520,6 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
       (with Marie Flanagan) (Halifax Pop Explosion, October 2013)
    *  Accessibility (with Marie Flanagan) (Halifax Pop Explosion,
       October 2013)
-
-
-
-
-
-
-
-
-Levin                   Expires January 21, 2018                [Page 9]
-
-Internet-Draft         Curriculum Vitae // Resume              July 2017
-
 
 7.  Awards and Acclamations
 
@@ -521,39 +536,24 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 8.1.  Weird Canada / Wyrd Arts Initiatives
 
-   I founded Weird Canada [51] in 2009 to create a space for people to
+   I founded Weird Canada [53] in 2009 to create a space for people to
    enthuse about emerging and experimental Canadian music.  Despite
    Weird Canada's focus on physically-released (often cassette), fringe
    music, the site grew to national acclaim, eventually winning CBC
    Radio 3's "Best Indie Music Website in Canada" award.  After the hard
-   work of Executive Director Marie Flanagan [52], the site has over 500
+   work of Executive Director Marie Flanagan [54], the site has over 500
    volunteers, is fully bilingual, ad-free, and has representation in
    every province and territory in Canada.
 
    I am currently Weird Canada's Creative Director and my main duties
-   involve ensuring the site's curatorial vision [53] is maintained
-   across the site and our online store Wyrd Distro [54].
+   involve ensuring the site's curatorial vision [55] is maintained
+   across the site and our online store Wyrd Distro [56].
 
 8.2.  Intersections KW
 
-   Steven Taschuk [55] and I founded Intersections KW to create a space
+   Steven Taschuk [57] and I founded Intersections KW to create a space
    of enthusiasm for pure mathematics, programming languages, computer
    science, and data science.  We've had over eight meetups and hosted
-   talks from Christopher Olah and Russell O'Connor on diverse topics
-   such as Constructive Logic, Deep Neural Networks, and inventing
-   Bezier splines in the age of Archimedes.
-
-8.3.  Vipassana Meditation
-
-   I am a Vipassana [56] meditator as taught by S.  N.  Goenka.  Each
-   year I take a 10-day course where we practice silent meditation for
-   11hrs. each day.
-
-8.4.  Record Collecting
-
-   For over fifteen years I have been collecting (and sometimes selling)
-   used records.  I have focused on independent and privately-released
-
 
 
 
@@ -562,14 +562,28 @@ Levin                   Expires January 21, 2018               [Page 10]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
+   talks from Christopher Olah and Russell O'Connor on diverse topics
+   such as Constructive Logic, Deep Neural Networks, and inventing
+   Bezier splines in the age of Archimedes.
+
+8.3.  Vipassana Meditation
+
+   I am a Vipassana [58] meditator as taught by S.  N.  Goenka.  Each
+   year I take a 10-day course where we practice silent meditation for
+   11hrs. each day.
+
+8.4.  Record Collecting
+
+   For over fifteen years I have been collecting (and sometimes selling)
+   used records.  I have focused on independent and privately-released
    Canadian music from the 60s, 70s, and 80s, especially experimental or
    fringe music.
 
-   In 2007, a friend and I found a record by an artist named Lewis [57].
+   In 2007, a friend and I found a record by an artist named Lewis [59].
    After many years of champion the strange, unassuming LP within
    underground communities of record collectors, Lewis' album found
    international notoriety for reasons I still don't properly
-   understand.  I was even interviewed on CBC's As It Happens [58].
+   understand.  I was even interviewed on CBC's As It Happens [60].
 
 9.  References
 
@@ -586,30 +600,16 @@ Internet-Draft         Curriculum Vitae // Resume              July 2017
    [5] https://uofa.ualberta.ca/physics/people/people-collection/frank-
        hegmann
 
-   [17] https://blog.soundcloud.com/2017/05/03/introducing-upload-new-
-        soundcloud-selected/
+   [6] http://aaronlevin.ca
 
-   [20] https://storm.apache.org/
+   [7] https://github.com/aaronlevin
 
-   [21] https://www.elastic.co/
+   [8] https://twitter.com/aaronmblevin
 
-   [22] http://aws.amazon.com/dynamodb/
+   [9] https://keybase.io/aaronlevin
 
-   [23] http://clojure.org/
+   [10] http://stackoverflow.com/users/1308975/aaronlevin
 
-   [24] http://clojure.org/
-
-   [25] https://www.java.com/en/
-
-   [30] http://www.postgresql.org/
-
-   [31] https://www.mysql.com/
-
-   [32] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
-
-   [33] http://aws.amazon.com/dynamodb/
-
-   [34] http://redis.io/
 
 
 
@@ -618,54 +618,54 @@ Levin                   Expires January 21, 2018               [Page 11]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
-   [35] https://www.elastic.co/
+   [11] http://www.haskellers.com/user/aaronlevin
 
-   [36] http://memcached.org/
+   [12] https://www.facebook.com/aaronmblevin
 
-   [37] https://github.com/coreos/etcd
+   [13] https://plus.google.com/110471816183726748520
 
-   [38] https://www.mongodb.org/
+   [14] https://www.stripe.com/
 
-   [39] http://www.datomic.com/
+   [15] https://flink.apache.org/
 
-   [40] https://www.rabbitmq.com/
+   [16] https://www.soundcloud.com/
 
-   [41] https://spark.apache.org/
+   [17] https://www.soundcloud.com/
 
-   [42] http://hadoop.apache.org/
+   [18] https://www.soundcloud.com/
 
-   [43] https://kubernetes.io/
+   [19] https://blog.soundcloud.com/2017/05/03/introducing-upload-new-
+        soundcloud-selected/
 
-   [44] http://aws.amazon.com/
+   [20] https://www.aterica.com/
 
-   [45] https://cloud.google.com/compute/
+   [21] https://www.metamarketplace.com/
 
-   [46] https://cloud.google.com/container-engine/
+   [22] https://storm.apache.org/
 
-   [47] https://storm.apache.org/
+   [23] https://www.elastic.co/
 
-   [48] https://www.youtube.com/watch?v=CstiIq4imWM
+   [24] http://aws.amazon.com/dynamodb/
 
-   [49] https://www.youtube.com/watch?v=kKRvEJrvvso
+   [25] http://clojure.org/
 
-   [50] https://www.youtube.com/watch?v=0wxGrf8toWk
+   [26] http://clojure.org/
 
-   [51] http://weirdcanada.com
+   [27] https://www.java.com/en/
 
-   [52] http://marieflanagan.com
+   [28] http://sortable.com/
 
-   [53]
+   [29] https://store.kobobooks.com/en-ca/
 
-   [54] https://distro.weirdcanada.com
+   [30] http://www.mediative.com/
 
-   [55] http://www.amotlpaa.org/
+   [31] https://www.investopedia.com
 
-   [56] https://www.dhamma.org/en-US/index
+   [32] http://www.postgresql.org/
 
-   [57] http://en.wikipedia.org/wiki/Lewis_%28musician%29
+   [33] https://www.mysql.com/
 
-
-
+   [34] http://en.wikipedia.org/wiki/Microsoft_SQL_Server
 
 
 
@@ -674,7 +674,65 @@ Levin                   Expires January 21, 2018               [Page 12]
 Internet-Draft         Curriculum Vitae // Resume              July 2017
 
 
-   [58] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
+   [35] http://aws.amazon.com/dynamodb/
+
+   [36] http://redis.io/
+
+   [37] https://www.elastic.co/
+
+   [38] http://memcached.org/
+
+   [39] https://github.com/coreos/etcd
+
+   [40] https://www.mongodb.org/
+
+   [41] http://www.datomic.com/
+
+   [42] https://www.rabbitmq.com/
+
+   [43] https://spark.apache.org/
+
+   [44] http://hadoop.apache.org/
+
+   [45] https://kubernetes.io/
+
+   [46] http://aws.amazon.com/
+
+   [47] https://cloud.google.com/compute/
+
+   [48] https://cloud.google.com/container-engine/
+
+   [49] https://storm.apache.org/
+
+   [50] https://www.youtube.com/watch?v=CstiIq4imWM
+
+   [51] https://www.youtube.com/watch?v=kKRvEJrvvso
+
+   [52] https://www.youtube.com/watch?v=0wxGrf8toWk
+
+   [53] http://weirdcanada.com
+
+   [54] http://marieflanagan.com
+
+   [55]
+
+   [56] https://distro.weirdcanada.com
+
+   [57] http://www.amotlpaa.org/
+
+   [58] https://www.dhamma.org/en-US/index
+
+
+
+
+Levin                   Expires January 21, 2018               [Page 13]
+
+Internet-Draft         Curriculum Vitae // Resume              July 2017
+
+
+   [59] http://en.wikipedia.org/wiki/Lewis_%28musician%29
+
+   [60] http://www.cbc.ca/radio/asithappens/friday-1-m-dollar-chief-
         salary-seattle-pot-busts-new-grasshopper-and-more-1.2903230/the-
         mystery-of-canadian-musician-lewis-1.2903235
 
@@ -723,6 +781,4 @@ Author's Address
 
 
 
-
-
-Levin                   Expires January 21, 2018               [Page 13]
+Levin                   Expires January 21, 2018               [Page 14]
