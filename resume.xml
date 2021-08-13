@@ -10,7 +10,7 @@
 <!-- <?rfc iprnotified="no" ?> -->
 <?rfc strict="yes" ?>
 
-<rfc docName="" category="info">
+<rfc docName="" category="info" ipr="none">
 
   <!-- FRONT -->
   <front>
@@ -19,31 +19,32 @@
       <!-- <organization>Aaron Levin</organization> -->
       <address>
         <postal>
-          <street>8 Simon-Dach Strasse</street>
-          <city>Berlin</city>
-          <code>10245</code>
-          <country>Germany</country>
+          <street>822 St-Joseph Blvd. Est</street>
+          <city>Montréal</city>
+          <region>Québec</region>
+          <code>H2J 1K4</code>
+          <country>Canada</country>
         </postal>
-        <phone>+49 151 59831415</phone>
+        <phone>+1 438-9332718</phone>
         <email>vilevin@gmail.com</email>
         <uri>http://aaronlevin.ca</uri>
       </address>
     </author>
-    <date month="July" year="2017" day="20" />
+    <date month="August" year="2021" day="12" />
     <!-- meta data -->
     <area>Self Improvement</area>
     <workgroup>Aaron Levin Working Group</workgroup>
     <keyword>aaron levin</keyword>
     <keyword>resume</keyword>
     <keyword>programming</keyword>
-    <keyword>functional programming</keyword>
+    <keyword>data engineering</keyword>
     <abstract>
-      <t>This document summarizes the personal and working history of Aaron Michael Benjamin Levin, MSc., born 1981-12-03T12:53:00-07:00 in Calgary, Alberta (geo:51.065389,-114.133306).
+      <t>This document summarizes the personal and working history of Aaron Michael Benjamin Levin, MSc., born 1981-RE-DACTED T12:53:00-07:00 in REDACTED, Canada.
       </t>
-      <t>Aaron Levin currently resides in Waterloo, Ontario, Canada and can be contacted here: 
+      <t>Aaron Levin currently resides in Montréal, Canada and can be contacted here:
         <list style="none">
           <t>e: vilevin@gmail.com</t>
-          <t>p: +49 151 59831415</t>
+          <t>p: +1 438-933-2718</t>
           <t>t: @aaronmblevin</t>
           <t>w: http://aaronlevin.ca</t>
           <t>l: https://ca.linkedin.com/in/aaronmblevin</t>
@@ -61,9 +62,9 @@
     <!-- SECTION: INTRODUCTION -->
     <section title="Introduction" anchor="intro">
       <t>
-        Hello.  My name is Aaron Levin.  I am a mathematician turned software engineer.  I am excited by data-driven opportunities in environments that foster creativity, diversity, and innovation.  I value openness, honesty, empathy, and egolessness.
+        Hello.  My name is Aaron Levin.  I am a mathematician turned software engineer.  I am excited by opportunities in environments that foster creativity, diversity, and innovation.  I value openness, honesty, empathy, and egolessness.
       </t>
-      <t>I have experience navigating all layers of the stack.  I am passionate about solving challenging problems in functional programming, data engineering, Scala, Haskell, machine learning, and distributed systems. If you have an opening, please get in touch!
+      <t>I have experience navigating all layers of the stack.  I am passionate about solving challenging problems in data engineering, machine learning, databases, and distributed systems. If you have an opening, please get in touch!
       </t>
     </section>
     <!-- /SECTION: INTRODUCTION -->
@@ -132,16 +133,38 @@
     <!-- SECTION: RELEVANT WORK -->
     <section title="Work Experience" anchor="work-experience">
 
-      <section title="Infrastructure Engineer @ Stripe" anchor="infrastructure-engineer-stripe">
+      <section title="Staff Software Engineer @ Stripe" anchor="staff-software-engineer-stripe">
         <t>
           <list style="symbols">
-            <t>December 2017 - Present</t>
+            <t>March 2021 - Present</t>
             <t>url: <eref target="https://www.stripe.com/">https://www.stripe.com/</eref></t>
           </list>
         </t>
+        <t>Focused on Real-time OLAP databases and analytics.</t>
+        <t>Staffed team dedicated to Real-time OLAP at Stripe.</t>
+        <t>Simultaneously improved legacy OLAP systems while building a multi-year roadmap built on <eref target="https://pinot.apache.org/">Apache Pinot</eref>.</t>
+        <t>Relevant technology:
+          <list style="symbols">
+            <t>Apache Pinot</t>
+            <t>Apache Spark</t>
+            <t>Summingbird</t>
+            <t>Scalding</t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Infrastructure Engineer @ Stripe" anchor="infrastructure-engineer-stripe">
+        <t>
+          <list style="symbols">
+            <t>December 2017 - March 2021</t>
+            <t>url: <eref target="https://www.stripe.com/">https://www.stripe.com/</eref></t>
+          </list>
+        </t>
+
         <t>Member of Stripe's Streaming team.</t>
         <t>Real-time data aggregation and asynchronous processing.</t>
-        <t>Created Stripe's first <eref target="https://flink.apache.org/">Apache Flink</eref> cluster and applications.</t>
+        <t>Focused on <eref target="https://flink.apache.org/">Apache Flink</eref></t>
+        <t>Designed Stripe's first Flink clusters and applicationscluster and applications.</t>
         <t>Developed infrastructure to redact Stripe's massive event archives</t>
         <t>Relevant technology:
           <list style="symbols">
@@ -434,6 +457,8 @@
       <section title="Tech Talks" anchor="talks-tech">
         <t>
           <list style="symbols">
+            <t><eref target="https://www.youtube.com/watch?v=BTWntKy_MJs">A Tale of Dual Sources: Pictures of Grief and The Job Manager’s Clock</eref> (Flink Forward, Berlin, 2019)</t>
+            <t><eref target="https://www.youtube.com/watch?v=XT6URDcxbsE">Conjure ye FileSystem, transmorgifier!</eref> (StarCon, Wateroo, 2019)</t>
             <t>The AI Landscape in Europe (panel) (MI Summit, Berlin, July 2017)</t>
             <t><eref target="https://www.youtube.com/watch?v=CstiIq4imWM">Mastering Typeclass Induction</eref> (TypeLevel Summit, Copenhagen, June 2017)</t>
             <t><eref target="https://www.youtube.com/watch?v=kKRvEJrvvso">Finding Friends in High-Dimensions; Locality Sensitive Hashing for Fun and Friendliness!</eref> (!!Con, NYC, May 2017)</t>
@@ -480,7 +505,7 @@
       <section title="Weird Canada / Wyrd Arts Initiatives" anchor="weird">
         <t>I founded <eref target="http://weirdcanada.com">Weird Canada</eref> in 2009 to create a space for people to enthuse about emerging and experimental Canadian music. Despite Weird Canada's focus on physically-released (often cassette), fringe music, the site grew to national acclaim, eventually winning CBC Radio 3's "Best Indie Music Website in Canada" award. After the hard work of Executive Director <eref target="http://marieflanagan.com">Marie Flanagan</eref>, the site has over 500 volunteers, is fully bilingual, ad-free, and has representation in every province and territory in Canada. 
         </t>
-        <t>I am currently Weird Canada's Creative Director and my main duties involve ensuring the site's <eref target="">curatorial vision</eref> is maintained across the site and our online store <eref target="https://distro.weirdcanada.com">Wyrd Distro</eref>.
+        <t>I am currently Weird Canada's Creative Director and my main duties involve ensuring the site's curatorial vision is maintained across the site and our online store <eref target="https://distro.weirdcanada.com">Wyrd Distro</eref>.
         </t>
       </section>
       <section title="Intersections KW" anchor="intersections">
